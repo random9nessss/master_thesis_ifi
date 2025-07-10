@@ -1,0 +1,3364 @@
+[
+  {
+    "email_chain": [
+      {
+        "from": "emily.orozco@globalmaritime.com",
+        "to": "oscar.kelly@chartercorp.net",
+        "subject": "Kavkaz/Taixing - Coal - ULSAN EXPRESS",
+        "timestamp": "2016-07-22 09:15",
+        "body": "Oscar,\n\nFixing idea on ULSAN EXPRESS, Kavkaz South Anch to Taixing, 10547MT Coal, CFR. Quote mid 60s.\n\nRgds,\nEmily Orozco\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "oscar.kelly@chartercorp.net",
+        "to": "emily.orozco@globalmaritime.com",
+        "subject": "Re: Kavkaz/Taixing - Coal",
+        "timestamp": "2016-07-22 10:30",
+        "body": "Emily,\n\nThanks. Bunker prices have dropped significantly this week. Can you sharpen that? Also, please confirm laycan.\n\nOscar Kelly"
+      },
+      {
+        "from": "emily.orozco@globalmaritime.com",
+        "to": "oscar.kelly@chartercorp.net",
+        "subject": "Re: Kavkaz/Taixing - Coal",
+        "timestamp": "2016-07-22 11:45",
+        "body": "Oscar,\n\nConfirmed cheaper bunkers. We can do USD 65.50. Laycan is July 29-Aug 2.\n\nRgds,\nEmily Orozco\nGlobal Maritime Brokers"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Coal",
+      "load_port": "Kavkaz South Anch",
+      "discharge_port": "Taixing",
+      "cargo_size": "10547MT",
+      "incoterm": "CFR",
+      "vessel": "ULSAN EXPRESS",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "mid 60s",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "65.50",
+      "laytime_start_date": "July 29",
+      "laytime_end_date": "Aug 2",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "yvonne.bonilla@andersonshipping.com",
+        "to": "m.montes@globexshipping.net",
+        "subject": "San Juan - Flevo Marina - Iron Ore",
+        "timestamp": "2005-11-05 09:15",
+        "body": "Dear Marlene,\n\nOffre GLOVIS ADVANCE abt 5371MT iron ore San Juan to Flevo Marina, DAP, is AUD63.\n\nRgds,\nYvonne\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "m.montes@globexshipping.net",
+        "to": "yvonne.bonilla@andersonshipping.com",
+        "subject": "Re: San Juan - Flevo Marina - Iron Ore",
+        "timestamp": "2005-11-05 09:48",
+        "body": "Yvonne,\n\nThanks. Can you confirm vessel details? DWT/LOA?\n\nMarlene"
+      },
+      {
+        "from": "yvonne.bonilla@andersonshipping.com",
+        "to": "m.montes@globexshipping.net",
+        "subject": "Re: San Juan - Flevo Marina - Iron Ore",
+        "timestamp": "2005-11-05 10:12",
+        "body": "Marlene,\n\nGLOVIS ADVANCE DWT 179217 / LOA 292m. Laycan Nov 20-25.\n\nRgds,\nYvonne"
+      },
+      {
+        "from": "m.montes@globexshipping.net",
+        "to": "yvonne.bonilla@andersonshipping.com",
+        "subject": "Re: San Juan - Flevo Marina - Iron Ore",
+        "timestamp": "2005-11-05 10:45",
+        "body": "Yvonne,\n\nAUD63 is too high. Can you improve?\n\nMarlene"
+      },
+      {
+        "from": "yvonne.bonilla@andersonshipping.com",
+        "to": "m.montes@globexshipping.net",
+        "subject": "Re: San Juan - Flevo Marina - Iron Ore",
+        "timestamp": "2005-11-05 11:20",
+        "body": "Marlene,\n\nBest I can do is AUD62.50.\n\nRgds,\nYvonne"
+      },
+      {
+        "from": "m.montes@globexshipping.net",
+        "to": "yvonne.bonilla@andersonshipping.com",
+        "subject": "Re: San Juan - Flevo Marina - Iron Ore",
+        "timestamp": "2005-11-05 11:55",
+        "body": "Yvonne,\n\nOk, AUD62.50 accepted. Please send recap.\n\nMarlene"
+      },
+      {
+        "from": "yvonne.bonilla@andersonshipping.com",
+        "to": "m.montes@globexshipping.net",
+        "subject": "Re: San Juan - Flevo Marina - Iron Ore - REVISED LAYCAN",
+        "timestamp": "2005-11-06 08:30",
+        "body": "Marlene,\n\nFollowing up. Weather delay in San Juan. Revised laycan Nov 23-28.\n\nSorry,\nYvonne"
+      },
+      {
+        "from": "m.montes@globexshipping.net",
+        "to": "yvonne.bonilla@andersonshipping.com",
+        "subject": "Re: San Juan - Flevo Marina - Iron Ore - REVISED LAYCAN",
+        "timestamp": "2005-11-06 09:00",
+        "body": "Yvonne,\n\nRevised laycan acceptable. Pls confirm all details.\n\nMarlene"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Iron Ore",
+      "load_port": "San Juan",
+      "discharge_port": "Flevo Marina",
+      "cargo_size": "5371MT",
+      "incoterm": "DAP",
+      "vessel": "GLOVIS ADVANCE",
+      "dwt": "179217",
+      "loa": "292m",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "63",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "62.50",
+      "laytime_start_date": "2005-11-23",
+      "laytime_end_date": "2005-11-28",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "richard.elizabeth@maritimeexchange.com",
+        "to": "luke.wong@asiashipping.net",
+        "subject": "Inquiry: Sugar Kobe to Huangpu",
+        "timestamp": "2012-03-18 10:30",
+        "body": "Dear Mr. Wong,\n\nHope this finds you well.\n\nWe have a vessel open for carriage of Sugar, details as follows:\n\nLoad Port: Kobe\nDischarge Port: Huangpu\nCargo Size: 11388MT moloo\nIncoterm: FOB\n\nWe can offer MAERSK SYDNEY. DWT 102861, LOA 335m\n\nIndicative freight idea around mid 30s. Please advise if you have interest.\n\nBest regards,\nRichard Elizabeth\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "luke.wong@asiashipping.net",
+        "to": "richard.elizabeth@maritimeexchange.com",
+        "subject": "Re: Inquiry: Sugar Kobe to Huangpu",
+        "timestamp": "2012-03-18 11:45",
+        "body": "Dear Richard,\n\nThanks for the prompt reply.\n\nMid 30s seems a little high. Can you please firm that up? And what is the vessel's laycan?\n\nRegards,\nLuke Wong\nAsia Shipping"
+      },
+      {
+        "from": "richard.elizabeth@maritimeexchange.com",
+        "to": "luke.wong@asiashipping.net",
+        "subject": "Re: Inquiry: Sugar Kobe to Huangpu",
+        "timestamp": "2012-03-18 13:00",
+        "body": "Dear Mr. Wong,\n\nThanks for your reply. I can confirm USD 35/MT, the vessel's Laycan is March 26-28. Please advise.\n\nBest regards,\nRichard Elizabeth\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "luke.wong@asiashipping.net",
+        "to": "richard.elizabeth@maritimeexchange.com",
+        "subject": "Re: Inquiry: Sugar Kobe to Huangpu",
+        "timestamp": "2012-03-18 14:15",
+        "body": "Richard,\n\n$35 is still too high. We are looking at something closer to $33.50 /mt.  What's the demurrage rate per day?\n\nRegards,\nLuke"
+      },
+      {
+        "from": "richard.elizabeth@maritimeexchange.com",
+        "to": "luke.wong@asiashipping.net",
+        "subject": "Re: Inquiry: Sugar Kobe to Huangpu",
+        "timestamp": "2012-03-19 09:00",
+        "body": "Dear Mr. Wong,\n\nThank you for your counter offer. I have spoken with owners and they are willing to come down to USD 34.25/MT. Demurrage rate is USD 18000 per day. Please confirm the loading window and stem?\n\nBest regards,\nRichard Elizabeth"
+      },
+      {
+        "from": "luke.wong@asiashipping.net",
+        "to": "richard.elizabeth@maritimeexchange.com",
+        "subject": "Re: Inquiry: Sugar Kobe to Huangpu",
+        "timestamp": "2012-03-19 10:30",
+        "body": "Richard,\n\nLoading window is firm at March 27-28. Stem confirmed. We accept $34.25/MT. Please send recap.\n\nRegards,\nLuke"
+      },
+      {
+        "from": "richard.elizabeth@maritimeexchange.com",
+        "to": "luke.wong@asiashipping.net",
+        "subject": "Re: Inquiry: Sugar Kobe to Huangpu - Recap",
+        "timestamp": "2012-03-19 11:45",
+        "body": "Dear Mr. Wong,\n\nConfirmed as follows:\n\nVessel: MAERSK SYDNEY\nCommodity: Sugar\nLoad Port: Kobe\nDischarge Port: Huangpu\nCargo Size: 11388MT moloo\nIncoterm: FOB\nFreight: USD 34.25/MT\nLaycan: March 26-28\nLoading Window: March 27-28\nDemurrage: USD 18000/day\n\nPlease confirm agreement.\n\nBest regards,\nRichard Elizabeth"
+      },
+      {
+        "from": "luke.wong@asiashipping.net",
+        "to": "richard.elizabeth@maritimeexchange.com",
+        "subject": "Re: Inquiry: Sugar Kobe to Huangpu - Recap - AGREED",
+        "timestamp": "2012-03-19 12:30",
+        "body": "Richard,\n\nConfirmed and Agreed. Thanks.\n\nLuke"
+      },
+      {
+        "from": "luke.wong@asiashipping.net",
+        "to": "richard.elizabeth@maritimeexchange.com",
+        "subject": "IMPORTANT: Sugar Kobe to Huangpu - Contract Dispute",
+        "timestamp": "2012-03-21 09:00",
+        "body": "Richard,\n\nThere seems to be a misunderstanding. Our internal records show the agreed Incoterm as CFR not FOB! Please clarify.\n\nLuke Wong"
+      },
+      {
+        "from": "richard.elizabeth@maritimeexchange.com",
+        "to": "luke.wong@asiashipping.net",
+        "subject": "RE: IMPORTANT: Sugar Kobe to Huangpu - Contract Dispute",
+        "timestamp": "2012-03-21 10:00",
+        "body": "Dear Mr. Wong,\n\nI am sorry, but I have the original emails and the recap confirming FOB. The rate of USD 34.25/MT was based on FOB terms. If CFR is a must- then the freight rate would have to be adjusted to USD 35.95/MT to cover for the additional costs.\n\nPlease advise, if this rate is not feasible we will have to cancel agreement.\n\nBest Regards,\nRichard Elizabeth"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Sugar",
+      "load_port": "Kobe",
+      "discharge_port": "Huangpu",
+      "cargo_size": "11388MT",
+      "incoterm": "FOB",
+      "vessel": "MAERSK SYDNEY",
+      "dwt": "102861",
+      "loa": "335m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "mid 30s",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "34.25",
+      "laytime_start_date": "2012-03-26",
+      "laytime_end_date": "2012-03-28",
+      "demurrage_currency": "USD",
+      "demurrage": "18000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "abraham.contreras@oceanictrade.com",
+        "to": "jessie.carrillo@globalgrain.net",
+        "subject": "Incheon/Galveston - Corn - Spot Enquiry",
+        "timestamp": "2022-07-04 09:15",
+        "body": "Dear Jessie,\n\nPlease find below details for your consideration:\n\nCommodity: Corn\nLoad Port: Incheon\nDischarge Port: Galveston\nCargo Size: 8266MT\nIncoterm: FOB\n\nFreight indication: AUD67/MT\n\nPls advise.\n\nBest regards,\nAbraham Contreras\nOceanic Trade Services"
+      },
+      {
+        "from": "jessie.carrillo@globalgrain.net",
+        "to": "abraham.contreras@oceanictrade.com",
+        "subject": "Re: Incheon/Galveston - Corn - Spot Enquiry",
+        "timestamp": "2022-07-04 10:42",
+        "body": "Abraham,\n\nThanks for the prompt response.\n\nWe're seeing a seasonal slowdown and softer demand in the market. Can you check basis for AUD64/MT? wifpon. a/s Edward N.\n\nRegards,\nJessie Carrillo"
+      },
+      {
+        "from": "abraham.contreras@oceanictrade.com",
+        "to": "jessie.carrillo@globalgrain.net",
+        "subject": "Re: Incheon/Galveston - Corn - Spot Enquiry",
+        "timestamp": "2022-07-04 11:58",
+        "body": "Jessie,\n\nThanks for your reply.\n\nI have checked with Owners. Best we can do is AUD66/MT all in.\n\nLet me know your thoughts.\n\nRegards,\nAbraham Contreras\nOceanic Trade Services\n"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "Corn",
+      "load_port": "Incheon",
+      "discharge_port": "Galveston",
+      "cargo_size": "8266MT",
+      "incoterm": "FOB",
+      "vessel": "EDWARD N",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "67",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "66",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "justin.garza@petrochem.com",
+        "to": "manuel.cole@andersonshipping.com",
+        "subject": "Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-01-31 09:15",
+        "body": "Dear Manuel,\n\nCould you please provide a CFR freight quote for Crude Oil, cargo size approx. 4843MT, loading Istanbul Anch, discharging Livorno? \n\nBest,\nJustin Garza"
+      },
+      {
+        "from": "manuel.cole@andersonshipping.com",
+        "to": "justin.garza@petrochem.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-01-31 10:02",
+        "body": "Hey Justin,\n\nMorning. Can offer EUR75 on suitable tanker, subject stem etc. Lmk.\n\nRgds,\nManuel\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "justin.garza@petrochem.com",
+        "to": "manuel.cole@andersonshipping.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-01-31 11:18",
+        "body": "Manuel,\n\nEUR75 seems a bit high. What vessel are you looking at? Anything around EUR70 CFR Livorno?\n\nJustin"
+      },
+      {
+        "from": "manuel.cole@andersonshipping.com",
+        "to": "justin.garza@petrochem.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-01-31 12:45",
+        "body": "Justin,\n\nBRAVE SAILOR, DWT 176283. Best I can do is EUR73.50 all in CFR Livorno. Subject to unsold. Can confirm latest by COB?\n\nRgds,\nManuel"
+      },
+      {
+        "from": "justin.garza@petrochem.com",
+        "to": "manuel.cole@andersonshipping.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-01-31 14:00",
+        "body": "Manuel,\n\nEUR73.50 still too rich for our blood. Can you meet us at EUR72.50? \n\nJustin"
+      },
+      {
+        "from": "manuel.cole@andersonshipping.com",
+        "to": "justin.garza@petrochem.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-01-31 15:30",
+        "body": "Justin,\n\nPushing it mate! Split the difference at EUR73?\n\nRgds,\nManuel"
+      },
+      {
+        "from": "justin.garza@petrochem.com",
+        "to": "manuel.cole@andersonshipping.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-01-31 16:45",
+        "body": "Manuel,\n\nOkay, EUR73 it is. What's her laycan?\n\nJustin"
+      },
+      {
+        "from": "manuel.cole@andersonshipping.com",
+        "to": "justin.garza@petrochem.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-01-31 17:15",
+        "body": "Justin,\n\nLaycan 10-12 Feb. Subject to recaps.\n\nRgds,\nManuel"
+      },
+      {
+        "from": "justin.garza@petrochem.com",
+        "to": "manuel.cole@andersonshipping.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-02-01 08:30",
+        "body": "Manuel,\n\nMorning. Rate of EUR73 confirmed on the above voyage, subject vessel meeting our usual vetting standards and full recap. Pls send full details for approval.\n\nThanks,\nJustin"
+      },
+      {
+        "from": "manuel.cole@andersonshipping.com",
+        "to": "justin.garza@petrochem.com",
+        "subject": "Re: Inquiry: Crude Oil - Istanbul to Livorno",
+        "timestamp": "2017-02-01 09:45",
+        "body": "Justin,\n\nUnderstood. Will forward recap shortly. Demurrage rate is USD 25,000 p/d pro rata.\n\nRgds,\nManuel"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Crude Oil",
+      "load_port": "Istanbul Anch",
+      "discharge_port": "Livorno",
+      "cargo_size": "4843MT",
+      "incoterm": "CFR",
+      "vessel": "BRAVE SAILOR",
+      "dwt": "176283",
+      "loa": "",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "75",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "73",
+      "laytime_start_date": "2017-02-10",
+      "laytime_end_date": "2017-02-12",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "samantha.silva@andersonshipping.com",
+        "to": "brooke.warren@globalpetrochem.com",
+        "subject": "Crude Oil Spot Fixture - Haikou/Ras Tanura",
+        "timestamp": "2007-09-27 09:15",
+        "body": "Dear Brooke,\n\nGood morning.\n\nWe have a prompt vessel, m/v AFALES, opening Haikou for loading Crude Oil to Ras Tanura. Cargo size abt. 4719MT Crude Oil, DAP terms. We can offer her at USD 54, basis wwd shinc. \n\nLaycan: Oct 03-05. \n\nPlease advise if of interest.\n\nBest regards,\nSamantha Silva\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "brooke.warren@globalpetrochem.com",
+        "to": "samantha.silva@andersonshipping.com",
+        "subject": "Re: Crude Oil Spot Fixture - Haikou/Ras Tanura",
+        "timestamp": "2007-09-27 11:02",
+        "body": "Dear Samantha,\n\nThanks for the prompt offer. \n\nUSD 54 seems a bit high to me. Can you check best you can do, considering current market levels? Also, kindly confirm if the vessel has heating coils, min/max arrival draft at Ras Tanura, and demurrage rate per day.\n\nRegards,\nBrooke Warren"
+      },
+      {
+        "from": "samantha.silva@andersonshipping.com",
+        "to": "brooke.warren@globalpetrochem.com",
+        "subject": "Re: Crude Oil Spot Fixture - Haikou/Ras Tanura",
+        "timestamp": "2007-09-27 12:35",
+        "body": "Dear Brooke,\n\nThanks for your reply.\n\nI\u2019ve spoken with Owners and they are willing to come down a bit. We can now offer at $52.5, wwd shinc. Vessel has heating coils. Max arrival draft at Ras Tanura is 18.2 meters. Demurrage usd 25000 per day.\n\nLet me know your thoughts.\n\nBest regards,\nSamantha Silva\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "brooke.warren@globalpetrochem.com",
+        "to": "samantha.silva@andersonshipping.com",
+        "subject": "Re: Crude Oil Spot Fixture - Haikou/Ras Tanura",
+        "timestamp": "2007-09-27 14:58",
+        "body": "Dear Samantha,\n\nThanks for the revised rate. We are still a bit far apart.\n\nHow about USD 51 all in? I also need to confirm the stem at Haikou and the loading window. Please advise latest.\n\nRegards,\nBrooke Warren"
+      },
+      {
+        "from": "samantha.silva@andersonshipping.com",
+        "to": "brooke.warren@globalpetrochem.com",
+        "subject": "Re: Crude Oil Spot Fixture - Haikou/Ras Tanura",
+        "timestamp": "2007-09-27 16:22",
+        "body": "Dear Brooke,\n\nOk, USD 51 is acceptable. Stem confirmed at Haikou, loading window Oct 03-05. Please provide full style fixture recap, and we'll prepare the CP.\n\nBest regards,\nSamantha Silva\nAnderson Shipping Brokers"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Crude Oil",
+      "load_port": "Haikou",
+      "discharge_port": "Ras Tanura",
+      "cargo_size": "4719MT",
+      "incoterm": "DAP",
+      "vessel": "AFALES",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "54",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "51",
+      "laytime_start_date": "Oct 03",
+      "laytime_end_date": "Oct 05",
+      "demurrage_currency": "usd",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "joe.chavez@andersonshipping.com",
+        "to": "chelsea.west@globexshipping.com",
+        "subject": "Jinzhou/Marseille - Corn - Spot",
+        "timestamp": "2010-10-21 09:35",
+        "body": "Hi Chelsea,\n\nHope you are well.\n\nWe have firm offers on EVER DEVOTION (180125 DWT, 295m LOA) for your 8313 MT Corn Jinzhou to Marseille, FOB terms. \n\nOwners are looking at high 70s USD, negotiable. Laycan 28-30 Oct. Subject stem approval. Can provide full vessel details if required. \n\nBest regards,\nJoe Chavez\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "chelsea.west@globexshipping.com",
+        "to": "joe.chavez@andersonshipping.com",
+        "subject": "Re: Jinzhou/Marseille - Corn - Spot",
+        "timestamp": "2010-10-21 11:22",
+        "body": "Joe,\n\nThanks for the quick reply. I am doing good, thanks. \n\nHigh 70s seems quite ambitious in this market, Joe. The general feeling is that the shipping demand is shrinking and that the rates should be lower to account for this slowdown. We were thinking more along the lines of low 70s. I need a firm number to run by my superiors anyway. \n\nCan you confirm the demurrage rate per day? \n\nRegards,\nChelsea West\nGlobex Shipping"
+      },
+      {
+        "from": "joe.chavez@andersonshipping.com",
+        "to": "chelsea.west@globexshipping.com",
+        "subject": "Re: Jinzhou/Marseille - Corn - Spot",
+        "timestamp": "2010-10-21 12:48",
+        "body": "Hi Chelsea,\n\nUnderstand your concerns about the market. Talked to Owners. They can agree to usd 73/MT, cfr. Demurrage rate is USD 21000/day pro rata.\n\nLet me know if this is workable for you. Ncb. \n\nRegards,\nJoe Chavez\nAnderson Shipping Brokers"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Corn",
+      "load_port": "Jinzhou",
+      "discharge_port": "Marseille",
+      "cargo_size": "8313MT",
+      "incoterm": "FOB",
+      "vessel": "EVER DEVOTION",
+      "dwt": "180125",
+      "loa": "295",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "high 70s",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "73",
+      "laytime_start_date": "2010-10-28",
+      "laytime_end_date": "2010-10-30",
+      "demurrage_currency": "USD",
+      "demurrage": "21000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "jill.pineda@globalmaritimebrokers.com",
+        "to": "emily.zamora@charterlink.net",
+        "subject": "Re: Freight Quote Request - Aluminum Mumbay to Rizhao",
+        "timestamp": "2008-01-12 10:30",
+        "body": "Hi Emily,\n\nThanks for inquiry. We can offer AUD35.88 CFR Rizhao Anch for about 1360MT Aluminium from Mumbai Anch. Vessel is LAKE D.\n\nRgds,\nJill"
+      },
+      {
+        "from": "emily.zamora@charterlink.net",
+        "to": "jill.pineda@globalmaritimebrokers.com",
+        "subject": "RE: Freight Quote Request - Aluminum Mumbay to Rizhao",
+        "timestamp": "2008-01-12 11:15",
+        "body": "Hi Jill,\n\nThanks for the quick response. Is there any possibility to load some additional cargo from Mundra, which is close to Mumbai? Maybe around 500MT more?\n\nBest regards,\nEmily Zamora"
+      },
+      {
+        "from": "jill.pineda@globalmaritimebrokers.com",
+        "to": "emily.zamora@charterlink.net",
+        "subject": "Re: Freight Quote Request - Aluminum Mumbay/Mundra to Rizhao",
+        "timestamp": "2008-01-12 12:00",
+        "body": "Emily,\n\nOk, will check with Owners. For 1860MT total loading Mumbai/Mundra, revised rate at AUD34.99 CFR Rizhao Anch.\n\nJill"
+      },
+      {
+        "from": "emily.zamora@charterlink.net",
+        "to": "jill.pineda@globalmaritimebrokers.com",
+        "subject": "RE: Freight Quote Request - Aluminum Mumbay/Mundra to Rizhao",
+        "timestamp": "2008-01-12 14:30",
+        "body": "Jill,\n\nOkay, AUD34.99 looks interesting, can you tell me laycan and demurrage rates per day?\n\nThanks,\nEmily"
+      },
+      {
+        "from": "jill.pineda@globalmaritimebrokers.com",
+        "to": "emily.zamora@charterlink.net",
+        "subject": "RE: Freight Quote Request - Aluminum Mumbay/Mundra to Rizhao",
+        "timestamp": "2008-01-12 15:15",
+        "body": "Emily,\n\nLaycan 20-25 Jan 2008. Demurrage rate is USD 9,500/day.\n\nRgds,\nJill"
+      },
+      {
+        "from": "emily.zamora@charterlink.net",
+        "to": "jill.pineda@globalmaritimebrokers.com",
+        "subject": "RE: Freight Quote Request - Aluminum Mumbay/Mundra to Rizhao",
+        "timestamp": "2008-01-13 09:00",
+        "body": "Jill,\n\nUSD9,500 demurrage is a bit high for us. Would you mind checking for some other options?\n\nThanks,\nEmily"
+      },
+      {
+        "from": "jill.pineda@globalmaritimebrokers.com",
+        "to": "emily.zamora@charterlink.net",
+        "subject": "RE: Freight Quote Request - Aluminum Mumbay/Mundra to Rizhao",
+        "timestamp": "2008-01-13 10:30",
+        "body": "Emily,\n\nWill try. Best I can do is AUD 34.80 and demurrage at USD8,900. Owners are firm.\n\nJill"
+      },
+      {
+        "from": "emily.zamora@charterlink.net",
+        "to": "jill.pineda@globalmaritimebrokers.com",
+        "subject": "RE: Freight Quote Request - Aluminum Mumbay/Mundra to Rizhao",
+        "timestamp": "2008-01-13 11:00",
+        "body": "Jill,\n\nOk, will check internally and come back to you soon. Is stem guaranteed at both loading ports?\n\nEmily"
+      },
+      {
+        "from": "jill.pineda@globalmaritimebrokers.com",
+        "to": "emily.zamora@charterlink.net",
+        "subject": "RE: Freight Quote Request - Aluminum Mumbay/Mundra to Rizhao",
+        "timestamp": "2008-01-13 12:00",
+        "body": "Emily,\n\nYes, stem is guaranteed at both ports.\n\nJill"
+      },
+      {
+        "from": "emily.zamora@charterlink.net",
+        "to": "jill.pineda@globalmaritimebrokers.com",
+        "subject": "RE: Freight Quote Request - Aluminum Mumbay/Mundra to Rizhao",
+        "timestamp": "2008-01-13 16:00",
+        "body": "Jill,\n\nWe accept AUD34.80 CFR Rizhao Anch with demurrage USD8,900. Please send proforma CP.\n\nThanks,\nEmily"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Aluminum",
+      "load_port": "Mumbai Anch/Mundra",
+      "discharge_port": "Rizhao Anch",
+      "cargo_size": "1860MT",
+      "incoterm": "CFR",
+      "vessel": "LAKE D",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "35.88",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "34.80",
+      "laytime_start_date": "2008-01-20",
+      "laytime_end_date": "2008-01-25",
+      "demurrage_currency": "USD",
+      "demurrage": "8900"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "eli.harris@globalmaritimebrokers.com",
+        "to": "lupe.perry@continentaltrading.com",
+        "subject": "Palm Oil CFR Fuling - Lake Charles",
+        "timestamp": "2012-07-26 09:15",
+        "body": "Hi Lupe,\n\nHope you're well.\n\nWe can offer mv GOLAR ARCTIC (abt 74,894 DWT, LOA 280m) for your 2531MT Palm Oil CFR Fuling to Lake Charles.\n\nIndicative freight is USD 79.45/MT.\n\nLet me know your thoughts.\n\nBest,\nEli Harris\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "lupe.perry@continentaltrading.com",
+        "to": "eli.harris@globalmaritimebrokers.com",
+        "subject": "Re: Palm Oil CFR Fuling - Lake Charles",
+        "timestamp": "2012-07-26 10:02",
+        "body": "Eli,\n\nThanks for the quick response. $79.45 feels a bit high, Eli. Given the seasonal slowdown, activity is noticeably less. Can you come down a bit? What kind of loading window are we looking at?\n\nLupe Perry\nContinental Trading"
+      },
+      {
+        "from": "eli.harris@globalmaritimebrokers.com",
+        "to": "lupe.perry@continentaltrading.com",
+        "subject": "Re: Palm Oil CFR Fuling - Lake Charles",
+        "timestamp": "2012-07-26 11:18",
+        "body": "Lupe,\n\nI hear you on the slow season. Let me see what I can do. The owners are fairly firm, but I will twist some arms ;).\n\nBest guess for a loading window would be August 10-15. Stem is clear. Laycan is 10-12 Aug.\n\nEli"
+      },
+      {
+        "from": "lupe.perry@continentaltrading.com",
+        "to": "eli.harris@globalmaritimebrokers.com",
+        "subject": "Re: Palm Oil CFR Fuling - Lake Charles",
+        "timestamp": "2012-07-26 12:45",
+        "body": "Eli,\n\nThanks. Keep me posted. Anything around $76.00 usd/mt CFR?\n\nLupe"
+      },
+      {
+        "from": "eli.harris@globalmaritimebrokers.com",
+        "to": "lupe.perry@continentaltrading.com",
+        "subject": "Re: Palm Oil CFR Fuling - Lake Charles",
+        "timestamp": "2012-07-26 14:01",
+        "body": "Lupe,\n\nJust spoke to the owners. They've agreed to $77.50/MT CFR. That's the best they can do right now, otherwise they would rather keep the vessel running bends somewhere else.\n\nLet me know soonest.\n\nEli"
+      },
+      {
+        "from": "lupe.perry@continentaltrading.com",
+        "to": "eli.harris@globalmaritimebrokers.com",
+        "subject": "Re: Palm Oil CFR Fuling - Lake Charles",
+        "timestamp": "2012-07-26 15:30",
+        "body": "Eli,\n\nOkay, $77.50. What's the demurrage rate per day?\n\nLupe"
+      },
+      {
+        "from": "eli.harris@globalmaritimebrokers.com",
+        "to": "lupe.perry@continentaltrading.com",
+        "subject": "Re: Palm Oil CFR Fuling - Lake Charles",
+        "timestamp": "2012-07-26 16:47",
+        "body": "Lupe,\n\nDemurrage is $25,000 per day, pro rata. Fair?\n\nEli"
+      },
+      {
+        "from": "lupe.perry@continentaltrading.com",
+        "to": "eli.harris@globalmaritimebrokers.com",
+        "subject": "Re: Palm Oil CFR Fuling - Lake Charles",
+        "timestamp": "2012-07-26 17:22",
+        "body": "Eli,\n\nOkay, sounds good. Let's proceed at $77.50/MT CFR, demurrage $25000/day. Please send recap. \n\nLupe"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Palm Oil",
+      "load_port": "Fuling",
+      "discharge_port": "Lake Charles",
+      "cargo_size": "2531MT",
+      "incoterm": "CFR",
+      "vessel": "GOLAR ARCTIC",
+      "dwt": "74894",
+      "loa": "280m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "79.45",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "77.50",
+      "laytime_start_date": "2012-08-10",
+      "laytime_end_date": "2012-08-12",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "sofia.moran@seawaybrokers.com",
+        "to": "dylan.morales@globexshipping.com",
+        "subject": "Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-06 10:23",
+        "body": "Hi Dylan,\n\nHope you are well.\n\nWe have open vessel for your Aluminum shipment Meizhou Island to Samcheonpo. Our best offer is USD 36.66/mt DDP basis. Cargo size 691 mt.\n\nLet me know your thoughts.\n\nBest regards,\n\nSofia Moran\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "dylan.morales@globexshipping.com",
+        "to": "sofia.moran@seawaybrokers.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-06 12:58",
+        "body": "Hi Sofia,\n\nThanks for the quick reply.\n\n$36.66 looks a bit high. We're looking at a loading window pretty far out - almost 2 months. Shouldn't that give us some leverage for a better rate? Could you look at something closer to $35?\n\nRegards,\n\nDylan Morales\nGlobex Shipping"
+      },
+      {
+        "from": "sofia.moran@seawaybrokers.com",
+        "to": "dylan.morales@globexshipping.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-06 14:35",
+        "body": "Hi Dylan,\n\nOk, I see your point regarding the early booking. Let me talk to Owners.\n\nBest regards,\n\nSofia Moran"
+      },
+      {
+        "from": "sofia.moran@seawaybrokers.com",
+        "to": "dylan.morales@globexshipping.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-07 09:12",
+        "body": "Hi Dylan,\n\nGood news. Owners agreed to $35.85/mt for this Aluminum shipment to Samcheonpo. Is that workable for you? Vessel in question is ORE SHENZHEN.\n\nRegards,\n\nSofia Moran"
+      },
+      {
+        "from": "dylan.morales@globexshipping.com",
+        "to": "sofia.moran@seawaybrokers.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-07 11:48",
+        "body": "Sofia,\n\n$35.85 is better, but still a bit more than we were hoping for. What is her demurrage rate per day?\n\nDylan"
+      },
+      {
+        "from": "sofia.moran@seawaybrokers.com",
+        "to": "dylan.morales@globexshipping.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-07 13:21",
+        "body": "Hi Dylan,\n\nDemurrage rate is USD 23,500/day pro rata.\n\nLet me know soon as possible. We have other interest.\n\nBest regards,\n\nSofia Moran"
+      },
+      {
+        "from": "dylan.morales@globexshipping.com",
+        "to": "sofia.moran@seawaybrokers.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-07 15:55",
+        "body": "Sofia,\n\nOkay, we are pretty close. Could you push them one last time? If they can meet $35.50/mt, we'll take it. We have stem confirmed at Meizhou Island.\n\nThanks,\n\nDylan"
+      },
+      {
+        "from": "sofia.moran@seawaybrokers.com",
+        "to": "dylan.morales@globexshipping.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-08 08:47",
+        "body": "Hi Dylan,\n\nAlright. I've got good new. Owners agreed to $35.50/mt. Please confirm booking.\n\nRgds\n\nSofia Moran"
+      },
+      {
+        "from": "dylan.morales@globexshipping.com",
+        "to": "sofia.moran@seawaybrokers.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-08 10:33",
+        "body": "Sofia,\n\nConfirmed. $35.50/mt DDP for 691 mt Aluminum from Meizhou Island to Samcheonpo.\n\nPlease send over the recap and CP.\n\nThanks,\n\nDylan"
+      },
+      {
+        "from": "sofia.moran@seawaybrokers.com",
+        "to": "dylan.morales@globexshipping.com",
+        "subject": "Re: Freight Quote - Aluminum Meizhou Island to Samcheonpo",
+        "timestamp": "2014-07-08 11:52",
+        "body": "Hi Dylan,\n\nGreat to hear.\n\nRecap and CP will send shortly.\n\nBest regards,\n\nSofia Moran"
+      }
+    ],
+    "labels": {
+      "broker": "Seaway Commercial Brokers",
+      "commodity": "Aluminum",
+      "load_port": "Meizhou Island",
+      "discharge_port": "Samcheonpo",
+      "cargo_size": "691MT",
+      "incoterm": "DDP",
+      "vessel": "ORE SHENZHEN",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "36.66",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "35.50",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "USD",
+      "demurrage": "23,500"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "steven.jimenez@andersonshipping.com",
+        "to": "yvonne.franklin@chartercorp.com",
+        "subject": "Crude Oil Freight Quote - Yeosu Anch/Penglai",
+        "timestamp": "2024-12-10 09:15",
+        "body": "Dear Yvonne,\n\nGood day.\n\nFollowing our conversation, please find our best offer for Crude Oil as follows:\n\nCommodity: Crude Oil\nLoad Port: Yeosu Anch\nDischarge Port: Penglai\nCargo Size: 9039 MT\nVessel: Suitable tanker\nFreight: USD 67 / MT, DAP terms\n\nWe look forward to your positive feedback.\n\nBest regards,\nSteven Jimenez\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "yvonne.franklin@chartercorp.com",
+        "to": "steven.jimenez@andersonshipping.com",
+        "subject": "Re: Crude Oil Freight Quote - Yeosu Anch/Penglai",
+        "timestamp": "2024-12-10 11:02",
+        "body": "Hi Steven,\n\nThanks for the prompt quote.\n\nI was wondering what vessel you had in mind?\nAlso, the port fees at both Yeosu and Penglai are quite low. Could you sharpen your rate a bit? We were hoping for something closer to $62/MT.\n\nRegards,\nYvonne Franklin"
+      },
+      {
+        "from": "steven.jimenez@andersonshipping.com",
+        "to": "yvonne.franklin@chartercorp.com",
+        "subject": "Re: Crude Oil Freight Quote - Yeosu Anch/Penglai",
+        "timestamp": "2024-12-10 12:48",
+        "body": "Dear Yvonne,\n\nThanks for your reply.\n\nWe are suggesting MV BASRA, DWT 298981 LOA 339m for this shipment.\n\nRegarding the freight rate, considering current market conditions, we can offer USD 65/MT, DAP basis. \n\nLet me know if you would like to proceed, and we can fix the stem.\n\nBest regards,\nSteven Jimenez\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "yvonne.franklin@chartercorp.com",
+        "to": "steven.jimenez@andersonshipping.com",
+        "subject": "Re: Crude Oil Freight Quote - Yeosu Anch/Penglai",
+        "timestamp": "2024-12-10 14:35",
+        "body": "Steven,\n\nThanks, $65/MT is still a bit high for these ports. Can you confirm demurrage rate per day for MV BASRA?\nIf the demurrage is reasonable, we can agree on USD 64.30/MT. \n\n\nRegards,\nYvonne Franklin"
+      },
+      {
+        "from": "steven.jimenez@andersonshipping.com",
+        "to": "yvonne.franklin@chartercorp.com",
+        "subject": "Re: Crude Oil Freight Quote - Yeosu Anch/Penglai",
+        "timestamp": "2024-12-10 16:10",
+        "body": "Dear Yvonne,\n\nDemurrage for BASRA is USD 45,000/day.\n\nOkay, we agree on USD 64.30 / MT, DAP terms. Please confirm laycan for us so we can finalize the voyage.\n\nBest Regards,\nSteven Jimenez\nAnderson Shipping Brokers"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Crude Oil",
+      "load_port": "Yeosu Anch",
+      "discharge_port": "Penglai",
+      "cargo_size": "9039MT",
+      "incoterm": "DAP",
+      "vessel": "BASRA",
+      "dwt": "298981",
+      "loa": "339m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "67",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "64.30",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "natalie.ayala@globalmaritimebrokers.com",
+        "to": "emily.reddy@charterco.net",
+        "subject": "Tianjin/Prince Rupert - Cotton - GENT - CFR",
+        "timestamp": "2020-07-05 09:15",
+        "body": "Dear Emily,\n\nGood day.\n\nWe can offer m/v GENT for 3958MT Cotton from Tianjin Anch to Prince Rupert, CFR.\n\nFreight indication EUR80.94.\n\nRgds,\nNatalie Ayala\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "emily.reddy@charterco.net",
+        "to": "natalie.ayala@globalmaritimebrokers.com",
+        "subject": "Re: Tianjin/Prince Rupert - Cotton - GENT - CFR",
+        "timestamp": "2020-07-05 10:32",
+        "body": "Hi Natalie,\n\nThanks for the prompt response.\n\nCan you please confirm vessel's DWT and LOA?\n\nAlso, anything to note regarding Prince Rupert terminal requirements?\n\nBest,\nEmily Reddy"
+      },
+      {
+        "from": "natalie.ayala@globalmaritimebrokers.com",
+        "to": "emily.reddy@charterco.net",
+        "subject": "Re: Tianjin/Prince Rupert - Cotton - GENT - CFR",
+        "timestamp": "2020-07-05 11:48",
+        "body": "Hi Emily,\n\nVessel is DWT 319180 / LOA 333m.\n\nPrince Rupert has draft restrictions \u2013 max 14.5m. The GENT fits, but please double-check your load planning to be safe.\n\nFreight firm now at EUR 80.94, subject stem.\n\nRgds,\nNatalie Ayala"
+      },
+      {
+        "from": "emily.reddy@charterco.net",
+        "to": "natalie.ayala@globalmaritimebrokers.com",
+        "subject": "Re: Tianjin/Prince Rupert - Cotton - GENT - CFR",
+        "timestamp": "2020-07-05 13:05",
+        "body": "Natalie,\n\nDraft confirmed ok. Can you do EUR 79.50?\n\nAlso, advise laycan.\n\nThanks,\nEmily"
+      },
+      {
+        "from": "natalie.ayala@globalmaritimebrokers.com",
+        "to": "emily.reddy@charterco.net",
+        "subject": "Re: Tianjin/Prince Rupert - Cotton - GENT - CFR",
+        "timestamp": "2020-07-05 14:22",
+        "body": "Emily,\n\nOwners are at EUR 80.25.\n\nLaycan 15-20 July.\n\nRgds,\nNatalie"
+      },
+      {
+        "from": "emily.reddy@charterco.net",
+        "to": "natalie.ayala@globalmaritimebrokers.com",
+        "subject": "Re: Tianjin/Prince Rupert - Cotton - GENT - CFR",
+        "timestamp": "2020-07-05 15:30",
+        "body": "Natalie,\n\nAgreed EUR 80.25. Please send proforma.\n\nThanks,\nEmily"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Cotton",
+      "load_port": "Tianjin Anch",
+      "discharge_port": "Prince Rupert",
+      "cargo_size": "3958MT",
+      "incoterm": "CFR",
+      "vessel": "GENT",
+      "dwt": "319180",
+      "loa": "333m",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "80.94",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "80.25",
+      "laytime_start_date": "2020-07-15",
+      "laytime_end_date": "2020-07-20",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "vincent.cunningham@oceanictradeservices.com",
+        "to": "adam.ramirez@globalshipping.net",
+        "subject": "Inquiry: LNG Gdansk to Marsamxett",
+        "timestamp": "2015-02-14 09:15",
+        "body": "Dear Mr. Ramirez,\n\nGood morning.\n\nWe have a vessel, COSTA TOSCANA (DWT 13000), open and ready to perform. Please find our offer for LNG, Gdansk to Marsamxett:\n\nCommodity: LNG\nCargo Size: 5823 MT\nIncoterm: DDP\nFreight: $38.55/MT\n\nWe are able to offer a laycan window of 22-26 February. \n\nPlease advise if this is of interest. \n\nBest regards,\n\nVincent Cunningham\nOceanic Trade Services\n"
+      },
+      {
+        "from": "adam.ramirez@globalshipping.net",
+        "to": "vincent.cunningham@oceanictradeservices.com",
+        "subject": "Re: Inquiry: LNG Gdansk to Marsamxett",
+        "timestamp": "2015-02-14 10:30",
+        "body": "Dear Mr. Cunningham,\n\nThanks for the prompt response.\n\n$38.55/MT seems a bit high. Gdansk is known for its efficient loading \u2013 turnaround times are minimal. Surely that should reflect in the rate?\n\nCould you consider something closer to USD 36.00/MT?\n\nRegards,\n\nAdam Ramirez\nGlobal Shipping\n"
+      },
+      {
+        "from": "vincent.cunningham@oceanictradeservices.com",
+        "to": "adam.ramirez@globalshipping.net",
+        "subject": "Re: Inquiry: LNG Gdansk to Marsamxett",
+        "timestamp": "2015-02-14 11:45",
+        "body": "Dear Mr. Ramirez,\n\nThank you for your message.\n\nWhile Gdansk is efficient, Marsamxett can be slow at discharge, which adds to the overall voyage time. However, I can revise our offer slightly.\n\nNew Offer: $37.90/MT.\n\nThis is our best price based on the current market, and it already reflects a slight reduction given Gdansk's performance.\n\nBest regards,\n\nVincent Cunningham\nOceanic Trade Services\n"
+      },
+      {
+        "from": "adam.ramirez@globalshipping.net",
+        "to": "vincent.cunningham@oceanictradeservices.com",
+        "subject": "Re: Inquiry: LNG Gdansk to Marsamxett",
+        "timestamp": "2015-02-14 13:00",
+        "body": "Dear Mr. Cunningham,\n\n$37.90 is still a bit rich for my blood. We were aiming for something in the mid-37s. \n\nWe could agree on $37.40/MT right now. \n\nRegards,\n\nAdam Ramirez\nGlobal Shipping"
+      },
+      {
+        "from": "vincent.cunningham@oceanictradeservices.com",
+        "to": "adam.ramirez@globalshipping.net",
+        "subject": "Re: Inquiry: LNG Gdansk to Marsamxett",
+        "timestamp": "2015-02-14 14:15",
+        "body": "Dear Mr. Ramirez,\n\nOkay, we are getting close. My absolute lowest, considering all factors, including dhdwtsbe, is $37.50/MT. \n\nWe need to finalize soon to secure the laycan. Are you able to proceed at this rate?\n\nBest regards,\n\nVincent Cunningham\nOceanic Trade Services\n"
+      },
+      {
+        "from": "adam.ramirez@globalshipping.net",
+        "to": "vincent.cunningham@oceanictradeservices.com",
+        "subject": "Confirmed: LNG Gdansk to Marsamxett",
+        "timestamp": "2015-02-14 15:30",
+        "body": "Dear Mr. Cunningham,\n\nOkay, we have a deal at $37.50/MT. Please send over the proforma charter party for review. \n\nRegards,\n\nAdam Ramirez\nGlobal Shipping"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "LNG",
+      "load_port": "Gdansk",
+      "discharge_port": "Marsamxett",
+      "cargo_size": "5823MT",
+      "incoterm": "DDP",
+      "vessel": "COSTA TOSCANA",
+      "dwt": "13000",
+      "loa": "337m",
+      "starting_freight_quote_currency": "$",
+      "starting_freight_quote": "38.55",
+      "final_freight_quote_currency": "$",
+      "final_freight_quote": "37.50",
+      "laytime_start_date": "2015-02-22",
+      "laytime_end_date": "2015-02-26",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "salvador.young@globalgrain.com",
+        "to": "donna.elizabeth@seawaybrokers.com",
+        "subject": "Reefer Enquiry: Wheat Paranagua to Dongjiakou",
+        "timestamp": "2005-03-28 09:15",
+        "body": "Donna,\n\nLooking for a reefer vessel spot for 582MT Wheat, Paranagua Anch to Dongjiakou, DDP terms. Pls advise availability and rates ASAP.\n\nSalvador Young\nGlobal Grain"
+      },
+      {
+        "from": "donna.elizabeth@seawaybrokers.com",
+        "to": "salvador.young@globalgrain.com",
+        "subject": "Re: Reefer Enquiry: Wheat Paranagua to Dongjiakou",
+        "timestamp": "2005-03-28 09:42",
+        "body": "Salvador,\n\nGot it. Considering the reefer req't, I can offer MV TRUE CAPTAIN @ AUD49.00/MT, dnrcaoslonl. More info if you want to commit. Stem details to follow shortly.\n\nDonna Elizabeth\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "salvador.young@globalgrain.com",
+        "to": "donna.elizabeth@seawaybrokers.com",
+        "subject": "Re: Reefer Enquiry: Wheat Paranagua to Dongjiakou",
+        "timestamp": "2005-03-28 10:20",
+        "body": "Donna,\n\nAUD49 is a bit steep. Can you work with AUD47? Also, can you please clarify vessel details? Laycan, etc.\n\nSalvador"
+      },
+      {
+        "from": "donna.elizabeth@seawaybrokers.com",
+        "to": "salvador.young@globalgrain.com",
+        "subject": "Re: Reefer Enquiry: Wheat Paranagua to Dongjiakou",
+        "timestamp": "2005-03-28 11:05",
+        "body": "Salvador,\n\nAUD47 unworkable. Considering reefer req't, best I can do is AUD48.50/MT. TRUE CAPTAIN is 180981 DWT, 292m LOA. Laycan flexible, around 10-15 April. Loading window tight, so prompt stem is key.\n\nDonna"
+      },
+      {
+        "from": "salvador.young@globalgrain.com",
+        "to": "donna.elizabeth@seawaybrokers.com",
+        "subject": "Re: Reefer Enquiry: Wheat Paranagua to Dongjiakou",
+        "timestamp": "2005-03-28 11:45",
+        "body": "Donna.\n\nAUD48.50 still too high. Need to be closer to AUD47.50. What about Demurrage rate?\n\nSalvador"
+      },
+      {
+        "from": "donna.elizabeth@seawaybrokers.com",
+        "to": "salvador.young@globalgrain.com",
+        "subject": "Re: Reefer Enquiry: Wheat Paranagua to Dongjiakou",
+        "timestamp": "2005-03-28 12:30",
+        "body": "Salvador,\n\nPushing it, but for you, AUD48/MT final. Demurrage rate USD 15,000/day. Take it or leave it.\n\nDonna"
+      },
+      {
+        "from": "salvador.young@globalgrain.com",
+        "to": "donna.elizabeth@seawaybrokers.com",
+        "subject": "Re: Reefer Enquiry: Wheat Paranagua to Dongjiakou",
+        "timestamp": "2005-03-28 13:00",
+        "body": "Donna,\n\nAgreed. AUD48/MT, demurrage as stated. Please send recap.\n\nSalvador"
+      },
+      {
+        "from": "donna.elizabeth@seawaybrokers.com",
+        "to": "salvador.young@globalgrain.com",
+        "subject": "Confirmed: Wheat Paranagua to Dongjiakou",
+        "timestamp": "2005-03-28 13:30",
+        "body": "Salvador,\n\nRecap sent. Pleasure doing business.\n\nDonna"
+      }
+    ],
+    "labels": {
+      "broker": "Seaway Commercial Brokers",
+      "commodity": "Wheat",
+      "load_port": "Paranagua Anch",
+      "discharge_port": "Dongjiakou",
+      "cargo_size": "582MT",
+      "incoterm": "DDP",
+      "vessel": "TRUE CAPTAIN",
+      "dwt": "180981",
+      "loa": "292m",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "49",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "48",
+      "laytime_start_date": "10 April 2005",
+      "laytime_end_date": "15 April 2005",
+      "demurrage_currency": "USD",
+      "demurrage": "15000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "michelle.griffin@globalmaritimebrokers.com",
+        "to": "liliana.hawkins@worldwidecargo.net",
+        "subject": "Rate Inquiry - Rice - Nantong to Guangzhou",
+        "timestamp": "2005-11-24 09:15",
+        "body": "Hi Liliana,\n\nHope you're having a good week. \n\nWe can offer the COSCOSHIPPING DANUBE (DWT 111290, LOA 300m) for your 4285MT Rice shipment from Nantong Anch to Guangzhou, FOB terms. \n\nOur initial freight indication is AUD71.32/MT.\n\nLet me know what you think. Laycan is flexible.\n\nBest,\nMichelle Griffin\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "liliana.hawkins@worldwidecargo.net",
+        "to": "michelle.griffin@globalmaritimebrokers.com",
+        "subject": "Re: Rate Inquiry - Rice - Nantong to Guangzhou",
+        "timestamp": "2005-11-24 10:02",
+        "body": "Michelle,\n\nThanks for the quick response.\n\nAUD71.32 is a bit steep. We're also looking at other options, including rail and barge. Could you sharpen your pencil a bit?\nWhat's the best you can do on this run?\n\nLiliana Hawkins\nWorldwide Cargo"
+      },
+      {
+        "from": "michelle.griffin@globalmaritimebrokers.com",
+        "to": "liliana.hawkins@worldwidecargo.net",
+        "subject": "Re: Rate Inquiry - Rice - Nantong to Guangzhou",
+        "timestamp": "2005-11-24 11:18",
+        "body": "Liliana,\n\nUnderstood. We can come down a little. Considering the cargo size and the current market, we can offer AUD 69.50/MT. \n\nThat's pretty tight, and reflects a quick fixture.\n\nMichelle Griffin\nGlobal Maritime Brokers\n"
+      },
+      {
+        "from": "liliana.hawkins@worldwidecargo.net",
+        "to": "michelle.griffin@globalmaritimebrokers.com",
+        "subject": "Re: Rate Inquiry - Rice - Nantong to Guangzhou",
+        "timestamp": "2005-11-24 14:35",
+        "body": "Michelle,\n\nThanks. Still a little high. We have to factor in all the costs associated with the Guangzhou discharge. \n\nCan you get it down to AUD 67.00/mt?\n\nLiliana"
+      },
+      {
+        "from": "michelle.griffin@globalmaritimebrokers.com",
+        "to": "liliana.hawkins@worldwidecargo.net",
+        "subject": "Re: Rate Inquiry - Rice - Nantong to Guangzhou",
+        "timestamp": "2005-11-24 15:42",
+        "body": "Liliana,\n\nOk, last offer. We can do AUD 67.50/MT. This includes a free time for loading. Above that, demurrage rate of USD 8,000/day pro rata. Consider this offer for 24 hours from now. \n\nMichelle Griffin\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "liliana.hawkins@worldwidecargo.net",
+        "to": "michelle.griffin@globalmaritimebrokers.com",
+        "subject": "Re: Rate Inquiry - Rice - Nantong to Guangzhou",
+        "timestamp": "2005-11-25 08:58",
+        "body": "Michelle,\n\nDeal. AUD 67.50/MT. Please send me the recap with full details including stem and loading window.\n\nThanks,\nLiliana"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Rice",
+      "load_port": "Nantong Anch",
+      "discharge_port": "Guangzhou",
+      "cargo_size": "4285MT",
+      "incoterm": "FOB",
+      "vessel": "COSCOSHIPPING DANUBE",
+      "dwt": "111290",
+      "loa": "300",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "71.32",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "67.50",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "USD",
+      "demurrage": "8000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "saul.cox@coxshipping.com",
+        "to": "samuel.lawrence@andersonbrokers.com",
+        "subject": "Rice Banjarmasin Spot Inquiry",
+        "timestamp": "2009-12-10 09:15",
+        "body": "Dear Samuel,\n\nWe are looking to move approx 1166 MT Rice CFR Meizhou Island from Banjarmasin. Any spot tonnage available?\n\nBest regards,\nSaul Cox"
+      },
+      {
+        "from": "samuel.lawrence@andersonbrokers.com",
+        "to": "saul.cox@coxshipping.com",
+        "subject": "Re: Rice Banjarmasin Spot Inquiry",
+        "timestamp": "2009-12-10 10:02",
+        "body": "Hi Saul,\n\nThanks for the inquiry. Yes, can offer MV CAPE CORMORANT - but its a big vessel, dwt 181500 loa 292m. Part cargo ok?\n\nBrgds,\nSamuel Lawrence\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "saul.cox@coxshipping.com",
+        "to": "samuel.lawrence@andersonbrokers.com",
+        "subject": "Re: Rice Banjarmasin Spot Inquiry",
+        "timestamp": "2009-12-10 10:47",
+        "body": "Samuel,\n\nPart cargo is fine. What's your freight indication?\n\nSaul"
+      },
+      {
+        "from": "samuel.lawrence@andersonbrokers.com",
+        "to": "saul.cox@coxshipping.com",
+        "subject": "Re: Rice Banjarmasin Spot Inquiry",
+        "timestamp": "2009-12-10 11:32",
+        "body": "Hi Saul,\n\nIndicative \u20ac45 CFR Meizhou Island. Laycan 20-25 Dec. Need to chopt stem details with shippers here asap. Srbl.\n\nSamuel"
+      },
+      {
+        "from": "saul.cox@coxshipping.com",
+        "to": "samuel.lawrence@andersonbrokers.com",
+        "subject": "Re: Rice Banjarmasin Spot Inquiry",
+        "timestamp": "2009-12-10 12:18",
+        "body": "Samuel,\n\n\u20ac45 is a bit rich. Can you work around \u20ac40? Also, what's the demurrage rate p/day?\n\nRegards,\nSaul"
+      },
+      {
+        "from": "samuel.lawrence@andersonbrokers.com",
+        "to": "saul.cox@coxshipping.com",
+        "subject": "Re: Rice Banjarmasin Spot Inquiry",
+        "timestamp": "2009-12-10 14:05",
+        "body": "Saul,\n\nLet me speak with owners. Best I think is EUR 43. Demurrage EUR 7,500/day.\n\nSamuel"
+      },
+      {
+        "from": "saul.cox@coxshipping.com",
+        "to": "samuel.lawrence@andersonbrokers.com",
+        "subject": "Re: Rice Banjarmasin Spot Inquiry",
+        "timestamp": "2009-12-10 14:48",
+        "body": "Samuel,\n\nOkay, we accept EUR 43 CFR Meizhou Island. Please send full details to follow.\n\nThanks,\nSaul"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Rice",
+      "load_port": "Banjarmasin",
+      "discharge_port": "Meizhou Island",
+      "cargo_size": "1166MT",
+      "incoterm": "CFR",
+      "vessel": "CAPE CORMORANT",
+      "dwt": "181500",
+      "loa": "292",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "45",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "43",
+      "laytime_start_date": "2009-12-20",
+      "laytime_end_date": "2009-12-25",
+      "demurrage_currency": "EUR",
+      "demurrage": "7500"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "gerardo.bernal@oceanictrade.com",
+        "to": "andre.payne@continentalcoal.net",
+        "subject": "Hon Gai Anch/Hamburg - Coal - Initial Offer",
+        "timestamp": "2005-09-29 09:15",
+        "body": "Andre,\n\nGood day, mate.\n\nHope you're well. We can offer you the BAO GUO, suitable for 11726 MT Coal Hon Gai Anch to Hamburg, DAP terms. \n\nFreight indication is USD52.61/MT. All a/s usual. \n\nLet me know your thoughts.\n\nCheers,\nGerardo Bernal\nOceanic Trade Services"
+      },
+      {
+        "from": "andre.payne@continentalcoal.net",
+        "to": "gerardo.bernal@oceanictrade.com",
+        "subject": "Re: Hon Gai Anch/Hamburg - Coal - Initial Offer",
+        "timestamp": "2005-09-29 11:30",
+        "body": "Gerardo,\n\nThanks for the quick response. 52.61 looks steep, considering this is practically a coastal voyage! Can you sharpen your pencil? This is a pretty short run compared to our usual routes.\n\nAndre Payne\nContinental Coal"
+      },
+      {
+        "from": "gerardo.bernal@oceanictrade.com",
+        "to": "andre.payne@continentalcoal.net",
+        "subject": "Re: Hon Gai Anch/Hamburg - Coal - Revised Offer",
+        "timestamp": "2005-09-29 14:45",
+        "body": "Andre,\n\nUnderstood. Short but sweet, I get you. \n\nBest I can do is USD 51.75/MT for the full stem of 11726 MT. Vessel ready in Hon Gai, prompt laycan. Demurrage rate usd 14000/day. Let me know your thoughts a/s soon as you can. \n\nRegards,\nGerardo Bernal\nOceanic Trade Services"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "Coal",
+      "load_port": "Hon Gai Anch",
+      "discharge_port": "Hamburg",
+      "cargo_size": "11726MT",
+      "incoterm": "DAP",
+      "vessel": "BAO GUO",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52.61",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "51.75",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "usd",
+      "demurrage": "14000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "robin.holmes@oceanicbulk.com",
+        "to": "sandra.mcdonald@maritimeexchange.com",
+        "subject": "Urgent: Palm Oil Auckland to Valencia",
+        "timestamp": "2021-08-12 08:30",
+        "body": "Dear Sandra,\n\nWe have an urgent requirement to move 12308MT Palm Oil from Auckland to Valencia, CIF terms. Pls advise availability and firm offers asap due to disruption in usual supply chain.\n\nRegards,\nRobin Holmes"
+      },
+      {
+        "from": "sandra.mcdonald@maritimeexchange.com",
+        "to": "robin.holmes@oceanicbulk.com",
+        "subject": "Re: Urgent: Palm Oil Auckland to Valencia",
+        "timestamp": "2021-08-12 09:00",
+        "body": "Dear Robin,\n\nThanks for your enquiry. MV MAXIM is in position for your cargo. We can offer firm EUR142/MT, CIF Auckland/Valencia.\n\nRegards,\nSandra McDonald\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "robin.holmes@oceanicbulk.com",
+        "to": "sandra.mcdonald@maritimeexchange.com",
+        "subject": "Re: Urgent: Palm Oil Auckland to Valencia",
+        "timestamp": "2021-08-12 09:30",
+        "body": "Dear Sandra,\n\nEUR142 seems a bit steep. Can you do better on the rate, perhaps EUR138? What's the laycan?\n\nRegards,\nRobin Holmes"
+      },
+      {
+        "from": "sandra.mcdonald@maritimeexchange.com",
+        "to": "robin.holmes@oceanicbulk.com",
+        "subject": "Re: Urgent: Palm Oil Auckland to Valencia",
+        "timestamp": "2021-08-12 10:00",
+        "body": "Dear Robin,\n\nEUR138/MT is below market, but given the urgency, we can meet you halfway at EUR140/MT. Laycan is Aug 20-22 a/s Auckland. Subject stem approval.\n\nRegards,\nSandra McDonald\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "robin.holmes@oceanicbulk.com",
+        "to": "sandra.mcdonald@maritimeexchange.com",
+        "subject": "Re: Urgent: Palm Oil Auckland to Valencia",
+        "timestamp": "2021-08-12 10:30",
+        "body": "Dear Sandra,\n\nAgreed on EUR140. Pls confirm demurrage rate per day.\n\nRegards,\nRobin Holmes"
+      },
+      {
+        "from": "sandra.mcdonald@maritimeexchange.com",
+        "to": "robin.holmes@oceanicbulk.com",
+        "subject": "Re: Urgent: Palm Oil Auckland to Valencia",
+        "timestamp": "2021-08-12 11:00",
+        "body": "Dear Robin,\n\nDemurrage rate is USD 25,000/day, pro rata. Please confirm acceptance and we'll draft the recap.\n\nRegards,\nSandra McDonald\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "robin.holmes@oceanicbulk.com",
+        "to": "sandra.mcdonald@maritimeexchange.com",
+        "subject": "Confirmed: Palm Oil Auckland to Valencia",
+        "timestamp": "2021-08-12 11:30",
+        "body": "Dear Sandra,\n\nConfirmed. Pls proceed with recap.\n\nRegards,\nRobin Holmes"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Palm Oil",
+      "load_port": "Auckland",
+      "discharge_port": "Valencia",
+      "cargo_size": "12308MT",
+      "incoterm": "CIF",
+      "vessel": "MAXIM",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "142",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "140",
+      "laytime_start_date": "Aug 20",
+      "laytime_end_date": "Aug 22",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "gabriel.soto@globalmaritime.com",
+        "to": "carl.cunningham@oceanicexports.net",
+        "subject": "Iron Ore - San Juan to Zhoushan Anch - Initial Offer",
+        "timestamp": "2021-05-21 09:15",
+        "body": "Dear Carl,\n\nGood morning. \n\nWe have an available vessel for Iron Ore from San Juan to Zhoushan Anch.\n\nCargo size: 1565 MT\nIncoterm: DDP\n\nInitial freight indication is $57/MT. All in.\n\nLet me know your thoughts.\n\nBest regards,\nGabriel Soto\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "carl.cunningham@oceanicexports.net",
+        "to": "gabriel.soto@globalmaritime.com",
+        "subject": "Re: Iron Ore - San Juan to Zhoushan Anch - Initial Offer",
+        "timestamp": "2021-05-21 10:02",
+        "body": "Hi Gabriel,\n\nThanks for the prompt response.\n\n$57 seems a bit high. Can you sharpen your pencil a bit? What vessel are we talking about?\n\nRegards,\nCarl Cunningham"
+      },
+      {
+        "from": "gabriel.soto@globalmaritime.com",
+        "to": "carl.cunningham@oceanicexports.net",
+        "subject": "Re: Iron Ore - San Juan to Zhoushan Anch - Initial Offer",
+        "timestamp": "2021-05-21 10:48",
+        "body": "Dear Carl,\n\nUnderstood. The vessel is MSC LORETO. She's a modern bulker, DWT 240,000, LOA 399m. We are pretty confident in her performance.\n\nI can come down to $56/MT. That's really the best I can do at this point.\n\nBest regards,\nGabriel Soto\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "carl.cunningham@oceanicexports.net",
+        "to": "gabriel.soto@globalmaritime.com",
+        "subject": "Re: Iron Ore - San Juan to Zhoushan Anch - Initial Offer",
+        "timestamp": "2021-05-21 11:35",
+        "body": "Gabriel,\n\n$56 is still too high, to be honest. We are looking for something closer to $54. Anything you can do? Also, what's the laycan looking like?\n\nCarl"
+      },
+      {
+        "from": "gabriel.soto@globalmaritime.com",
+        "to": "carl.cunningham@oceanicexports.net",
+        "subject": "Re: Iron Ore - San Juan to Zhoushan Anch - Initial Offer",
+        "timestamp": "2021-05-21 12:22",
+        "body": "Dear Carl,\n\nLet me check with the owners. $54 is a tough ask. \n\nLaycan is currently looking at 2021-05-29/2021-06-05.\n\nWill revert shortly.\n\nBest regards,\nGabriel Soto\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "gabriel.soto@globalmaritime.com",
+        "to": "carl.cunningham@oceanicexports.net",
+        "subject": "Re: Iron Ore - San Juan to Zhoushan Anch - Initial Offer - UPDATE",
+        "timestamp": "2021-05-21 14:05",
+        "body": "Dear Carl,\n\nGood news. I managed to get the owners to agree to $54.50/MT. This is absolutely our final offer. Take it or leave it. \n\nLet me know.\n\nBest regards,\nGabriel Soto\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "carl.cunningham@oceanicexports.net",
+        "to": "gabriel.soto@globalmaritime.com",
+        "subject": "Re: Iron Ore - San Juan to Zhoushan Anch - Initial Offer - UPDATE",
+        "timestamp": "2021-05-21 14:52",
+        "body": "Gabriel,\n\nOkay, we accept $54.50/MT. Please send over the recap.\n\nCarl"
+      },
+      {
+        "from": "gabriel.soto@globalmaritime.com",
+        "to": "carl.cunningham@oceanicexports.net",
+        "subject": "Confirmed: Iron Ore - San Juan to Zhoushan Anch - Recap",
+        "timestamp": "2021-05-21 15:30",
+        "body": "Dear Carl,\n\nExcellent. Here's the recap:\n\nCommodity: Iron Ore\nLoad Port: San Juan\nDischarge Port: Zhoushan Anch\nCargo Size: 1565 MT\nIncoterm: DDP\nVessel: MSC LORETO\nFreight Rate: $54.50/MT\nLaycan: 2021-05-29/2021-06-05\nDemurrage: USD 25000/day\n\nPlease confirm all is in order.\n\nBest regards,\nGabriel Soto\nGlobal Maritime Brokers\n\nDisclaimer: This email is for informational purposes only and does not constitute a legally binding agreement until a formal contract is signed."
+      },
+      {
+        "from": "carl.cunningham@oceanicexports.net",
+        "to": "gabriel.soto@globalmaritime.com",
+        "subject": "Re: Confirmed: Iron Ore - San Juan to Zhoushan Anch - Recap",
+        "timestamp": "2021-05-21 16:17",
+        "body": "Gabriel,\n\nConfirmed. All looks good.\n\nThanks,\nCarl Cunningham"
+      },
+      {
+        "from": "gabriel.soto@globalmaritime.com",
+        "to": "carl.cunningham@oceanicexports.net",
+        "subject": "Re: Confirmed: Iron Ore - San Juan to Zhoushan Anch - Recap",
+        "timestamp": "2021-05-21 16:45",
+        "body": "Dear Carl,\n\nGreat to hear. I will forward the proforma CP shortly. \n\nLet me know if you have any questions.\n\nBest regards,\nGabriel Soto\nGlobal Maritime Brokers"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Iron Ore",
+      "load_port": "San Juan",
+      "discharge_port": "Zhoushan Anch",
+      "cargo_size": "1565MT",
+      "incoterm": "DDP",
+      "vessel": "MSC LORETO",
+      "dwt": "240000",
+      "loa": "399m",
+      "starting_freight_quote_currency": "$",
+      "starting_freight_quote": "57",
+      "final_freight_quote_currency": "$",
+      "final_freight_quote": "54.50",
+      "laytime_start_date": "2021-05-29",
+      "laytime_end_date": "2021-06-05",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "joyce.cano@maritimeexchange.com",
+        "to": "rich.kumar@globalmetals.net",
+        "subject": "Spot Enquiry: Aluminum - Paranagua/Kamsar",
+        "timestamp": "2011-09-29 09:15",
+        "body": "Dear Mr. Kumar,\n\nGood morning.\n\nWe have opening for 9060MT Aluminum from Paranagua to Kamsar Anch on DAP terms. Our best indication at this moment is EUR70 wvns.\n\nPls advise if of interest.\n\nBest Regards,\n\nJoyce Cano\nMaritime Exchange Ltd.\n"
+      },
+      {
+        "from": "rich.kumar@globalmetals.net",
+        "to": "joyce.cano@maritimeexchange.com",
+        "subject": "RE: Spot Enquiry: Aluminum - Paranagua/Kamsar",
+        "timestamp": "2011-09-29 10:30",
+        "body": "Dear Joyce,\n\nThanks for the prompt reply.\n\nEUR70 looks a bit high to us, considering the current market situation and the low port fees in both Paranagua and Kamsar. Could you please check again with owners? We are thinking something closer to EUR65.\n\nAlso, please advise laycan. Stem to be confirmed sl.\n\nRegards,\n\nRich Kumar\nGlobal Metals"
+      },
+      {
+        "from": "joyce.cano@maritimeexchange.com",
+        "to": "rich.kumar@globalmetals.net",
+        "subject": "Re: Spot Enquiry: Aluminum - Paranagua/Kamsar",
+        "timestamp": "2011-09-29 11:45",
+        "body": "Dear Mr. Kumar,\n\nThanks for your feedback. \n\nOwners are holding firm at EUR70. They have mentioned the vessel ONE TREASURE (DWT 189766 / LOA 400m) is ideally positioned and ready to perform prompt. However, I will try push a little more.\n\nLaycan: Oct 10-15.\n\nBest Regards,\n\nJoyce Cano\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "rich.kumar@globalmetals.net",
+        "to": "joyce.cano@maritimeexchange.com",
+        "subject": "RE: Spot Enquiry: Aluminum - Paranagua/Kamsar",
+        "timestamp": "2011-09-29 13:00",
+        "body": "Joyce,\n\nOK, let's try to meet somewhere in the middle. What about EUR67?\n\nWhat is the demurrage rate per day?\n\nRegards,\n\nRich Kumar\nGlobal Metals"
+      },
+      {
+        "from": "joyce.cano@maritimeexchange.com",
+        "to": "rich.kumar@globalmetals.net",
+        "subject": "Re: Spot Enquiry: Aluminum - Paranagua/Kamsar - Aluminum",
+        "timestamp": "2011-09-29 14:15",
+        "body": "Dear Mr. Kumar,\n\nI have just spoken with Owners again. They have agreed to EUR68.\n\nDemurrage rate is EUR 18,000/day pro rata.\n\nI hope this is acceptable.\n\nBest Regards,\n\nJoyce Cano\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "rich.kumar@globalmetals.net",
+        "to": "joyce.cano@maritimeexchange.com",
+        "subject": "RE: Re: Spot Enquiry: Aluminum - Paranagua/Kamsar - Aluminum",
+        "timestamp": "2011-09-29 15:30",
+        "body": "Joyce,\n\nAgreed. EUR68. Please send me the full recap.\n\nRegards,\n\nRich Kumar\nGlobal Metals"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Aluminum",
+      "load_port": "Paranagua",
+      "discharge_port": "Kamsar Anch",
+      "cargo_size": "9060MT",
+      "incoterm": "DAP",
+      "vessel": "ONE TREASURE",
+      "dwt": "189766",
+      "loa": "400m",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "70",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "68",
+      "laytime_start_date": "Oct 10",
+      "laytime_end_date": "Oct 15",
+      "demurrage_currency": "EUR",
+      "demurrage": "18,000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "brooke.reid@globalmaritimebrokers.com",
+        "to": "cheryl.sosa@continentalcargo.net",
+        "subject": "Offer: Aluminum - Zhangzhou/Beihai",
+        "timestamp": "2019-05-24 09:15",
+        "body": "Dear Cheryl,\n\nGood day.\n\nWe have offer for Aluminum, around 11723 MT, loading Zhangzhou, discharging Beihai, CFR terms.\n\nBasis 'AL GHUWAIRIYA'. Owners asking mid 30s, pls confirm interest.\n\nBest regards,\nBrooke Reid\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "cheryl.sosa@continentalcargo.net",
+        "to": "brooke.reid@globalmaritimebrokers.com",
+        "subject": "Re: Offer: Aluminum - Zhangzhou/Beihai",
+        "timestamp": "2019-05-24 10:30",
+        "body": "Brooke,\n\nThanks for the offer. Can you clarify vessel's dwt and loa?\n\nAlso, our insurance terms are quite favorable, which significantly lowers exposure for the vessel. Could you please ask owners for a discount based on this reduced risk? Target USD 32.\n\nRegards,\nCheryl Sosa"
+      },
+      {
+        "from": "brooke.reid@globalmaritimebrokers.com",
+        "to": "cheryl.sosa@continentalcargo.net",
+        "subject": "Re: Offer: Aluminum - Zhangzhou/Beihai",
+        "timestamp": "2019-05-24 12:00",
+        "body": "Cheryl,\n\nVessel is AL GHUWAIRIYA (DWT 154940 / LOA 345m).\n\nOwners say best they can do is usd 33 due to tight laycan. Pls confirm. Stem okay.\n\nBrooke"
+      },
+      {
+        "from": "cheryl.sosa@continentalcargo.net",
+        "to": "brooke.reid@globalmaritimebrokers.com",
+        "subject": "Re: Offer: Aluminum - Zhangzhou/Beihai",
+        "timestamp": "2019-05-24 14:45",
+        "body": "Brooke,\n\nOkay, $33 accepted. Please send full details and proforma.\n\nThanks,\nCheryl"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Aluminum",
+      "load_port": "Zhangzhou",
+      "discharge_port": "Beihai",
+      "cargo_size": "11723MT",
+      "incoterm": "CFR",
+      "vessel": "AL GHUWAIRIYA",
+      "dwt": "154940",
+      "loa": "345",
+      "starting_freight_quote_currency": "usd",
+      "starting_freight_quote": "30s",
+      "final_freight_quote_currency": "$",
+      "final_freight_quote": "33",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "frank.suarez@globalmaritimebrokers.com",
+        "to": "melissa.sosa@oceantradeintl.com",
+        "subject": "Crude Oil Freight Quote - Scheveningen/Huanghua Anch",
+        "timestamp": "2021-03-28 10:30",
+        "body": "Dear Melissa,\n\nGood day.\n\nPlease find below our firm freight indication for the following:\n\nCommodity: Crude Oil\nLoad Port: Scheveningen\nDischarge Port: Huanghua Anch\nCargo Size: 6347MT\nIncoterm: FOB\nVessel: Pioneer\n\nFreight: AUD48/MT, basis NYPE terms.\n\nLaycan: Prompt\n\nBest regards,\nFrank Suarez\nGlobal Maritime Brokers\n"
+      },
+      {
+        "from": "melissa.sosa@oceantradeintl.com",
+        "to": "frank.suarez@globalmaritimebrokers.com",
+        "subject": "Re: Crude Oil Freight Quote - Scheveningen/Huanghua Anch",
+        "timestamp": "2021-03-28 11:15",
+        "body": "Hi Frank,\n\nThanks for the prompt reply.\n\nWe note the freight indication. Considering our cargo insurance terms significantly reduce the vessel's exposure (lower risk for the vessel owner), are you able to shave anything off that rate? Also, can you please confirm the vessel's DWT?\n\nRegards,\nMelissa Sosa\nOceanTrade International\n"
+      },
+      {
+        "from": "frank.suarez@globalmaritimebrokers.com",
+        "to": "melissa.sosa@oceantradeintl.com",
+        "subject": "Re: Crude Oil Freight Quote - Scheveningen/Huanghua Anch",
+        "timestamp": "2021-03-28 12:00",
+        "body": "Hi Melissa,\n\nUnderstood re: insurance terms. We can revise our offer to AUD47.5/MT. The Pioneer's DWT is 306397.\n\nRegarding stem, the loading window is tight. We have requested that the terminal keep the vessel's arrival date steady.\n\nBest regards,\nFrank Suarez\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "melissa.sosa@oceantradeintl.com",
+        "to": "frank.suarez@globalmaritimebrokers.com",
+        "subject": "Re: Crude Oil Freight Quote - Scheveningen/Huanghua Anch",
+        "timestamp": "2021-03-28 13:30",
+        "body": "Frank,\n\nAUD47.50/MT works for us. Please confirm demurrage rate per day.\n\nThanks,\nMelissa Sosa\nOceanTrade International"
+      },
+      {
+        "from": "frank.suarez@globalmaritimebrokers.com",
+        "to": "melissa.sosa@oceantradeintl.com",
+        "subject": "Re: Crude Oil Freight Quote - Scheveningen/Huanghua Anch",
+        "timestamp": "2021-03-28 14:00",
+        "body": "Hi Melissa,\n\nDemurrage rate is USD 25,000 per day.\n\nLet me know if you require anything else.\n\nRegards,\nFrank Suarez\nGlobal Maritime Brokers"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Crude Oil",
+      "load_port": "Scheveningen",
+      "discharge_port": "Huanghua Anch",
+      "cargo_size": "6347MT",
+      "incoterm": "FOB",
+      "vessel": "PIONEER",
+      "dwt": "306397",
+      "loa": "",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "48",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "47.50",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "jon.harrison@andersonshipping.com",
+        "to": "sabrina.ramirez@globalgrain.com",
+        "subject": "Taicang/Gdynia - 8382MT Corn - CFR USD77",
+        "timestamp": "2015-12-20 10:30",
+        "body": "Dear Sabrina,\n\nOffering firm:\n\nCommodity: Corn\nLoad Port: Taicang\nDischarge Port: Gdynia\nCargo Size: 8382 MT\nIncoterm: CFR\nFreight: USD 77/MT\nVessel: CMA CGM PELLEAS\n\nBest,\nJon Harrison\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "sabrina.ramirez@globalgrain.com",
+        "to": "jon.harrison@andersonshipping.com",
+        "subject": "Re: Taicang/Gdynia - 8382MT Corn - CFR USD77",
+        "timestamp": "2015-12-20 11:15",
+        "body": "Hi Jon,\n\nThanks for the offer. Can you confirm the vessel's DWT, draft and laycan? Also, what's the daily demurrage rate?\n\nRegards,\nSabrina Ram\u00edrez"
+      },
+      {
+        "from": "jon.harrison@andersonshipping.com",
+        "to": "sabrina.ramirez@globalgrain.com",
+        "subject": "Re: Taicang/Gdynia - 8382MT Corn - CFR USD77",
+        "timestamp": "2015-12-20 12:00",
+        "body": "Sabrina,\n\nDWT is 120854. Max draft 14.5m. Laycan is Dec 28 - Jan 3. Demurrage USD 25,000/day.\n\nRegards,\nJon"
+      },
+      {
+        "from": "sabrina.ramirez@globalgrain.com",
+        "to": "jon.harrison@andersonshipping.com",
+        "subject": "Re: Taicang/Gdynia - 8382MT Corn - CFR USD77",
+        "timestamp": "2015-12-20 14:30",
+        "body": "Jon,\n\nThanks. Can you do USD 75/MT?\n\nRegards,\nSabrina"
+      },
+      {
+        "from": "jon.harrison@andersonshipping.com",
+        "to": "sabrina.ramirez@globalgrain.com",
+        "subject": "Re: Taicang/Gdynia - 8382MT Corn - CFR USD77",
+        "timestamp": "2015-12-20 15:00",
+        "body": "Sabrina,\n\nMeet me at $76?\n\nJon"
+      },
+      {
+        "from": "sabrina.ramirez@globalgrain.com",
+        "to": "jon.harrison@andersonshipping.com",
+        "subject": "Re: Taicang/Gdynia - 8382MT Corn - CFR USD77",
+        "timestamp": "2015-12-20 16:30",
+        "body": "Jon,\n\nDone. USD 76/MT. Please send proforma.\n\nRegards,\nSabrina"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Corn",
+      "load_port": "Taicang",
+      "discharge_port": "Gdynia",
+      "cargo_size": "8382MT",
+      "incoterm": "CFR",
+      "vessel": "CMA CGM PELLEAS",
+      "dwt": "120854",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "77",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "76",
+      "laytime_start_date": "Dec 28",
+      "laytime_end_date": "Jan 3",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "hannah.carrillo@oceanictrans.com",
+        "to": "eli.peterson@globalmaritime.com",
+        "subject": "Iron Ore Inquiry - Jinzhou to Anacortes",
+        "timestamp": "2008-02-01 09:15",
+        "body": "Eli,\n\nGood morning.\n\nLooking for freight ideas on about 3344MT Iron Ore, Jinzhou Anch to Anacortes, CIF. Can you give me some ideas?\n\nThanks,\nHannah Carrillo"
+      },
+      {
+        "from": "eli.peterson@globalmaritime.com",
+        "to": "hannah.carrillo@oceanictrans.com",
+        "subject": "Re: Iron Ore Inquiry - Jinzhou to Anacortes",
+        "timestamp": "2008-02-01 10:42",
+        "body": "Hannah,\n\nMorning!\n\nHow's it going? I can offer you AL GHARRAFA, sb. \nInitial quote at AUD60.35. All hdwts, usual terms.\nLet me know.\n\nCheers,\nEli Peterson"
+      },
+      {
+        "from": "hannah.carrillo@oceanictrans.com",
+        "to": "eli.peterson@globalmaritime.com",
+        "subject": "Re: Iron Ore Inquiry - Jinzhou to Anacortes",
+        "timestamp": "2008-02-01 11:58",
+        "body": "Eli,\n\nThanks for the quick reply.\n\nCan you shave it down a bit to AUD59.75? Need to cover my stem.\nAlso, what's the demurrage rate per day?\n\nRegards,\nHannah Carrillo"
+      },
+      {
+        "from": "eli.peterson@globalmaritime.com",
+        "to": "hannah.carrillo@oceanictrans.com",
+        "subject": "Re: Iron Ore Inquiry - Jinzhou to Anacortes",
+        "timestamp": "2008-02-01 12:35",
+        "body": "Hannah,\n\nAUD 59.95 and its a deal. Demurrage is USD 15000/day pro rata.\n\nLet me know.\n\nCheers,\nEli"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Iron Ore",
+      "load_port": "Jinzhou Anch",
+      "discharge_port": "Anacortes",
+      "cargo_size": "3344MT",
+      "incoterm": "CIF",
+      "vessel": "AL GHARRAFA",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "60.35",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "59.95",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "USD",
+      "demurrage": "15000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "gabriel.cortes@andersonshipping.com",
+        "to": "blake.grant@globaltrading.net",
+        "subject": "Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 09:15",
+        "body": "Hi Blake,\n\nGood morning. Hope all is well.\n\nWe have vessel open for Iron Ore, Los Angeles to Sneek, approx. 11918MT DDP.\n\nInitial freight idea around $71 pmt. Let me know your thoughts.\n\nBest regards,\nGabriel Cortes\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "blake.grant@globaltrading.net",
+        "to": "gabriel.cortes@andersonshipping.com",
+        "subject": "Re: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 10:02",
+        "body": "Gabriel,\n\nThanks for the quick response.\n\n$71 seems a bit high. We're exploring alternative transport options (rail/barge) if ocean freight doesn't become more competitive. Can you sharpen your pencil?\n\nAlso, could you confirm the vessel's details?\n\nRegards,\nBlake Grant"
+      },
+      {
+        "from": "gabriel.cortes@andersonshipping.com",
+        "to": "blake.grant@globaltrading.net",
+        "subject": "Re: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 10:48",
+        "body": "Blake,\n\nUnderstood on the rail/barge alternative. Let me see what I can do.\n\nVessel is BING N, DWT around 322941, LOA 339m. She's good to go, uuiwctautc.\n\nWill revert with a better number shortly.\n\nGabriel"
+      },
+      {
+        "from": "gabriel.cortes@andersonshipping.com",
+        "to": "blake.grant@globaltrading.net",
+        "subject": "RE: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 11:35",
+        "body": "Blake,\n\nGood news. Owner is willing to come down a little.\n\nHow does $69.50 pmt sound?\n\nRegards,\nGabriel"
+      },
+      {
+        "from": "blake.grant@globaltrading.net",
+        "to": "gabriel.cortes@andersonshipping.com",
+        "subject": "Re: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 13:22",
+        "body": "Gabriel,\n\nThat's an improvement. Can you get it to $68? What's the Laycan looking like?\n\nBlake"
+      },
+      {
+        "from": "gabriel.cortes@andersonshipping.com",
+        "to": "blake.grant@globaltrading.net",
+        "subject": "Re: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 14:05",
+        "body": "Blake,\n\nPushing for $68. Owners are tough today.\n\nLaycan is flexible, around Jan 12-16. Let me confirm the stem at Los Angeles.\n\nGabriel"
+      },
+      {
+        "from": "gabriel.cortes@andersonshipping.com",
+        "to": "blake.grant@globaltrading.net",
+        "subject": "RE: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 14:52",
+        "body": "Blake,\n\nOkay, I got it. $68 pmt.\n\nGabriel"
+      },
+      {
+        "from": "gabriel.cortes@andersonshipping.com",
+        "to": "blake.grant@globaltrading.net",
+        "subject": "Correction: RE: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 15:08",
+        "body": "Blake,\n\nMy mistake! Sorry. $68.50 pmt, agreed. My numbers were wrong. Owner confirmed at $68.5.\n\nGabriel"
+      },
+      {
+        "from": "blake.grant@globaltrading.net",
+        "to": "gabriel.cortes@andersonshipping.com",
+        "subject": "Re: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 16:10",
+        "body": "Gabriel,\n\n$68.50 it is. Can you send me the full recap including demurrage details?\n\nBlake"
+      },
+      {
+        "from": "gabriel.cortes@andersonshipping.com",
+        "to": "blake.grant@globaltrading.net",
+        "subject": "Fwd: Iron Ore Freight Quote - Los Angeles to Sneek",
+        "timestamp": "2009-12-29 17:00",
+        "body": "Blake,\n\nGreat! Recap attached. Demurrage USD 25000 per day pro rata.\n\nGabriel"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Iron Ore",
+      "load_port": "Los Angeles",
+      "discharge_port": "Sneek",
+      "cargo_size": "11918MT",
+      "incoterm": "DDP",
+      "vessel": "BING N",
+      "dwt": "322941",
+      "loa": "339m",
+      "starting_freight_quote_currency": "$",
+      "starting_freight_quote": "71",
+      "final_freight_quote_currency": "$",
+      "final_freight_quote": "68.50",
+      "laytime_start_date": "Jan 12",
+      "laytime_end_date": "Jan 16",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "evan.wilson@maritimeexchange.com",
+        "to": "erik.olson@globexshipping.net",
+        "subject": "Palm Oil Freight Inquiry - Shekou to Zeebrugge",
+        "timestamp": "2006-09-25 10:30",
+        "body": "Dear Erik,\n\nGood day to you.\n\nMaritime Exchange Ltd. is pleased to offer freight for your Palm Oil shipment, Shekou to Zeebrugge. We can offer space on a suitable vessel at USD 85.24 per metric ton, DDP terms, 1601MT.\n\nKindly advise if this is of interest.\n\nBest regards,\n\nEvan Wilson\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "erik.olson@globexshipping.net",
+        "to": "evan.wilson@maritimeexchange.com",
+        "subject": "Re: Palm Oil Freight Inquiry - Shekou to Zeebrugge",
+        "timestamp": "2006-09-25 11:45",
+        "body": "Dear Evan,\n\nThank you for the quick response. Can you provide laycan details and expected loading window for this rate?\n\nRegards,\n\nErik Olson\nGlobex Shipping"
+      },
+      {
+        "from": "evan.wilson@maritimeexchange.com",
+        "to": "erik.olson@globexshipping.net",
+        "subject": "Re: Palm Oil Freight Inquiry - Shekou to Zeebrugge",
+        "timestamp": "2006-09-25 12:20",
+        "body": "Erik,\n\nCertainly. Laycan is estimated for October 15-20, with a 3-day loading window in Shekou. Demurrage rate per day will be $15,000. \n\nEvan Wilson\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "evan.wilson@maritimeexchange.com",
+        "to": "erik.olson@globexshipping.net",
+        "subject": "Follow Up: Palm Oil Freight Inquiry - Shekou to Zeebrugge",
+        "timestamp": "2006-09-27 09:00",
+        "body": "Dear Erik,\n\nFollowing up on my previous email regarding the Palm Oil shipment from Shekou to Zeebrugge. Any update from your side?\n\nBest regards,\n\nEvan Wilson\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "erik.olson@globexshipping.net",
+        "to": "evan.wilson@maritimeexchange.com",
+        "subject": "Re: Follow Up: Palm Oil Freight Inquiry - Shekou to Zeebrugge",
+        "timestamp": "2006-09-27 14:30",
+        "body": "Evan,\n\nSorry for the delay. We're looking at the numbers. Rate seems a bit high. Can you do any better, closer to $80?\n\nErik Olson\nGlobex Shipping"
+      },
+      {
+        "from": "evan.wilson@maritimeexchange.com",
+        "to": "erik.olson@globexshipping.net",
+        "subject": "Re: Follow Up: Palm Oil Freight Inquiry - Shekou to Zeebrugge",
+        "timestamp": "2006-09-27 15:15",
+        "body": "Erik,\n\nLet me see what I can do. Holding firm for now, but will check back with owners. \n\nEvan Wilson\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "evan.wilson@maritimeexchange.com",
+        "to": "erik.olson@globexshipping.net",
+        "subject": "Re: Follow Up: Palm Oil Freight Inquiry - Shekou to Zeebrugge",
+        "timestamp": "2006-09-27 16:45",
+        "body": "Erik,\n\nGood news. We can meet you halfway at $82.50/MT, DDP, same terms as before. Vessel is SEASPAN THAMES (DWT 115304, LOA 337m).\n\nEvan Wilson\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "erik.olson@globexshipping.net",
+        "to": "evan.wilson@maritimeexchange.com",
+        "subject": "Re: Follow Up: Palm Oil Freight Inquiry - Shekou to Zeebrugge",
+        "timestamp": "2006-09-28 08:30",
+        "body": "Evan,\n\n$82.50 works for us. Let's proceed.\n\nErik Olson\nGlobex Shipping"
+      },
+      {
+        "from": "evan.wilson@maritimeexchange.com",
+        "to": "erik.olson@globexshipping.net",
+        "subject": "Confirmed: Palm Oil Freight - Shekou to Zeebrugge",
+        "timestamp": "2006-09-28 09:15",
+        "body": "Erik,\n\nExcellent. Booking confirmed at USD 82.50 per metric ton, DDP, 1601MT Palm Oil, Shekou to Zeebrugge. Vessel: SEASPAN THAMES. Laycan October 15-20. Full details to follow shortly.\n\nBest regards,\n\nEvan Wilson\nMaritime Exchange Ltd."
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Palm Oil",
+      "load_port": "Shekou",
+      "discharge_port": "Zeebrugge",
+      "cargo_size": "1601MT",
+      "incoterm": "DDP",
+      "vessel": "SEASPAN THAMES",
+      "dwt": "115304",
+      "loa": "337m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "85.24",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "82.50",
+      "laytime_start_date": "October 15",
+      "laytime_end_date": "October 20",
+      "demurrage_currency": "$",
+      "demurrage": "15,000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "joseph.estrada@oceanictradeservices.com",
+        "to": "crystal.pena@globalgrain.net",
+        "subject": "Wheat Freight - Pohang to Jiangyin Anch",
+        "timestamp": "2008-04-07 09:15",
+        "body": "Hi Crystal,\n\nHope you're well. I have a vessel, GEMMA, open Pohang for your 1441MT Wheat to Jiangyin Anch, DDP terms. \n\nQuote AUD63.30.\n\nLaycan 15-20 April.\n\nBest,\nJoseph\nOceanic Trade Services"
+      },
+      {
+        "from": "crystal.pena@globalgrain.net",
+        "to": "joseph.estrada@oceanictradeservices.com",
+        "subject": "Re: Wheat Freight - Pohang to Jiangyin Anch",
+        "timestamp": "2008-04-07 10:02",
+        "body": "Joseph,\n\nThanks for the quick turnaround. Rate seems a bit high. We're expecting minimal cargo handling at both ends - no special equipment needed. Should be straightforward. Can you sharpen your pencil a bit?\n\nCrystal Pena"
+      },
+      {
+        "from": "joseph.estrada@oceanictradeservices.com",
+        "to": "crystal.pena@globalgrain.net",
+        "subject": "Re: Wheat Freight - Pohang to Jiangyin Anch",
+        "timestamp": "2008-04-07 11:18",
+        "body": "Crystal,\n\nUnderstood re: simple handling. \n\nNew offer AUD62.80. That's as low as I can go considering current market conditions.\n\nJoseph"
+      },
+      {
+        "from": "crystal.pena@globalgrain.net",
+        "to": "joseph.estrada@oceanictradeservices.com",
+        "subject": "Re: Wheat Freight - Pohang to Jiangyin Anch",
+        "timestamp": "2008-04-07 13:35",
+        "body": "Joseph,\n\nThanks, getting closer. What's the demurrage rate per day for the Gemma?\n\nCrystal"
+      },
+      {
+        "from": "joseph.estrada@oceanictradeservices.com",
+        "to": "crystal.pena@globalgrain.net",
+        "subject": "Re: Wheat Freight - Pohang to Jiangyin Anch",
+        "timestamp": "2008-04-07 14:42",
+        "body": "Crystal,\n\nDemurrage USD 6,500/day.\n\nJoseph"
+      },
+      {
+        "from": "crystal.pena@globalgrain.net",
+        "to": "joseph.estrada@oceanictradeservices.com",
+        "subject": "Re: Wheat Freight - Pohang to Jiangyin Anch",
+        "timestamp": "2008-04-08 08:50",
+        "body": "Joseph,\n\nCould you do AUD62.30? We can confirm immediately.\n\nCrystal"
+      },
+      {
+        "from": "joseph.estrada@oceanictradeservices.com",
+        "to": "crystal.pena@globalgrain.net",
+        "subject": "Re: Wheat Freight - Pohang to Jiangyin Anch",
+        "timestamp": "2008-04-08 09:27",
+        "body": "Crystal,\n\nOkay, deal. AUD62.30. Please send charter party details. \n\nJoseph"
+      },
+      {
+        "from": "crystal.pena@globalgrain.net",
+        "to": "joseph.estrada@oceanictradeservices.com",
+        "subject": "Re: Wheat Freight - Pohang to Jiangyin Anch",
+        "timestamp": "2008-04-08 09:35",
+        "body": "Joseph,\n\nExcellent. Will forward CP details shortly.\n\nThanks,\nCrystal"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "Wheat",
+      "load_port": "Pohang",
+      "discharge_port": "Jiangyin Anch",
+      "cargo_size": "1441MT",
+      "incoterm": "DDP",
+      "vessel": "GEMMA",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "63.30",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "62.30",
+      "laytime_start_date": "15 April",
+      "laytime_end_date": "20 April",
+      "demurrage_currency": "USD",
+      "demurrage": "6,500"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "jeff.vega@seawaybrokers.com",
+        "to": "gladys.black@globalshipping.net",
+        "subject": "Inquiry: Coal Singapore Anch/Flisvos",
+        "timestamp": "2025.01.20 10:15",
+        "body": "Dear Gladys,\n\nFollowing up on our conversation, we have a potential vessel for your 5671 MT coa shipment from Singapore Anch to Flisvos under CFR terms.\n\nPreliminary indications are in the low 30s, subject to market fluctuations and stem approval.\n\nPlease advise if this is of interest.\n\nBest regards,\nJeff Vega\nSeaway Commercial Brokers\n"
+      },
+      {
+        "from": "gladys.black@globalshipping.net",
+        "to": "jeff.vega@seawaybrokers.com",
+        "subject": "Re: Inquiry: Coal Singapore Anch/Flisvos",
+        "timestamp": "2025.01.20 11:30",
+        "body": "Dear Jeff,\n\nThanks for the prompt reply. That rate is a bit higher than we anticipated. We've received indications closer to $28/MT from another broker. Can you sharpen your pencil?\n\nGladys Black\nGlobal Shipping\n"
+      },
+      {
+        "from": "jeff.vega@seawaybrokers.com",
+        "to": "gladys.black@globalshipping.net",
+        "subject": "Re: Inquiry: Coal Singapore Anch/Flisvos",
+        "timestamp": "2025.01.20 12:45",
+        "body": "Dear Gladys,\n\nUnderstood. Market is indeed volatile at the moment. Let me check with owners. \n\nFor a firm offer, could you please confirm your laycan dates?\n\nBest regards,\nJeff Vega\nSeaway Commercial Brokers\n"
+      },
+      {
+        "from": "gladys.black@globalshipping.net",
+        "to": "jeff.vega@seawaybrokers.com",
+        "subject": "Re: Inquiry: Coal Singapore Anch/Flisvos",
+        "timestamp": "20/01/2025 14:00",
+        "body": "Jeff,\n\nLaycan is 01/02/2025 - 05/02/2025. Please also confirm the demurrage rate per day. \n\nThanks,\nGladys Black\nGlobal Shipping\n"
+      },
+      {
+        "from": "jeff.vega@seawaybrokers.com",
+        "to": "gladys.black@globalshipping.net",
+        "subject": "Re: Inquiry: Coal Singapore Anch/Flisvos",
+        "timestamp": "2025-01-20 15:15",
+        "body": "Dear Gladys,\n\nThanks for the laycan. We can offer USD 29.5/MT CFR Flisvos. Demurrage at usd 15,000/day. Vessel is MAERSK ESSEN, DWT 148723. \n\nOffer firm until COB today. Subject to stem approval.\n\nBest regards,\nJeff Vega\nSeaway Commercial Brokers\n"
+      },
+      {
+        "from": "gladys.black@globalshipping.net",
+        "to": "jeff.vega@seawaybrokers.com",
+        "subject": "Re: Inquiry: Coal Singapore Anch/Flisvos",
+        "timestamp": "21-01-2025 09:00",
+        "body": "Jeff,\n\nWe accept your offer at $29.5/MT CFR Flisvos, demurrage $15,000/day. Please send recap.\n\nGladys Black\nGlobal Shipping\n"
+      },
+      {
+        "from": "jeff.vega@seawaybrokers.com",
+        "to": "gladys.black@globalshipping.net",
+        "subject": "Re: Inquiry: Coal Singapore Anch/Flisvos - Recap to follow",
+        "timestamp": "2025.01.21 09:30",
+        "body": "Dear Gladys,\n\nExcellent. Recap to follow shortly.\n\nBest regards,\nJeff Vega\nSeaway Commercial Brokers\n"
+      }
+    ],
+    "labels": {
+      "broker": "Seaway Commercial Brokers",
+      "commodity": "Coal",
+      "load_port": "Singapore Anch",
+      "discharge_port": "Flisvos",
+      "cargo_size": "5671MT",
+      "incoterm": "CFR",
+      "vessel": "MAERSK ESSEN",
+      "dwt": "148723",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "30",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "29.5",
+      "laytime_start_date": "01/02/2025",
+      "laytime_end_date": "05/02/2025",
+      "demurrage_currency": "usd",
+      "demurrage": "15,000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "henry.palacios@globalshipping.com",
+        "to": "susan.munoz@seawaybrokers.net",
+        "subject": "Inquiry: Esbjerg to Yantai - Iron Ore",
+        "timestamp": "2017.04.25 10:15",
+        "body": "Dear Susan,\n\nWe're looking to ship iron ore from Esbjerg to Yantai. Approx. 9364 MT under CFR terms. Would MSC ELAINE be a suitable vessel? What's your freight idea?\n\nRegards,\nHenry Palacios"
+      },
+      {
+        "from": "susan.munoz@seawaybrokers.net",
+        "to": "henry.palacios@globalshipping.com",
+        "subject": "Re: Inquiry: Esbjerg to Yantai - Iron Ore",
+        "timestamp": "2017.04.25 11:02",
+        "body": "Hi Henry,\n\nYes, MSC ELAINE is good. Can offer $61.29/MT CFR Yantai. Laycan 10-15 May. All details stem subject.\n\nRegards,\nSusan"
+      },
+      {
+        "from": "henry.palacios@globalshipping.com",
+        "to": "susan.munoz@seawaybrokers.net",
+        "subject": "Re: Inquiry: Esbjerg to Yantai - Iron Ore",
+        "timestamp": "2017.04.25 12:35",
+        "body": "Susan,\n\nThat's a bit high. Our budget is closer to $58/MT. We have 9364 MT, but don\u2019t want full cargo. Is there something else that can fit on the same vessel, or can you work around it? If not, what are the demurrage rate per day in USD?\n\nHenry"
+      },
+      {
+        "from": "susan.munoz@seawaybrokers.net",
+        "to": "henry.palacios@globalshipping.com",
+        "subject": "Re: Inquiry: Esbjerg to Yantai - Iron Ore",
+        "timestamp": "2017.04.25 14:10",
+        "body": "Hi Henry,\n\nLet me check if I can find some other cargo to fill up. If not, best I can do is $60.75/MT. Demurrage rate is USD 18,000 per day.  Let me know what you think.\n\nSusan"
+      },
+      {
+        "from": "henry.palacios@globalshipping.com",
+        "to": "susan.munoz@seawaybrokers.net",
+        "subject": "Re: Inquiry: Esbjerg to Yantai - Iron Ore",
+        "timestamp": "26/04/2017 09:00",
+        "body": "Okay Susan,\n\n$60.75/MT is acceptable. Please confirm the loading window dates are still available. We need to finalise this quickly.\n\nThanks,\nHenry"
+      },
+      {
+        "from": "susan.munoz@seawaybrokers.net",
+        "to": "henry.palacios@globalshipping.com",
+        "subject": "Re: Inquiry: Esbjerg to Yantai - Iron Ore",
+        "timestamp": "2017-04-26 09:45",
+        "body": "Hi Henry,\n\nConfirmed. $60.75/MT, Laycan 10-15 May. I will send you the full recap shortly.\n\nRegards,\nSusan"
+      }
+    ],
+    "labels": {
+      "broker": "Seaway Commercial Brokers",
+      "commodity": "Iron Ore",
+      "load_port": "Esbjerg",
+      "discharge_port": "Yantai",
+      "cargo_size": "9364MT",
+      "incoterm": "CFR",
+      "vessel": "MSC ELAINE",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "$",
+      "starting_freight_quote": "61.29",
+      "final_freight_quote_currency": "$",
+      "final_freight_quote": "60.75",
+      "laytime_start_date": "10 May",
+      "laytime_end_date": "15 May",
+      "demurrage_currency": "USD",
+      "demurrage": "18000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "abby.rivera@oceanictradeservices.com",
+        "to": "diane.brooks@globalgrain.net",
+        "subject": "Rice - Tianjin Anch / Marsamxett - Spot Freight",
+        "timestamp": "2018-08-12 09:30",
+        "body": "Diane,\n\nGreetings. \n\nOffer firm.\n\nCommodity: Rice\nLoad Port: Tianjin Anch\nDischarge Port: Marsamxett\nCargo Size: 7627MT\nIncoterm: DDP\nFreight: USD97/MT\n\nRgds,\nAbby Rivera\nOceanic Trade Services"
+      },
+      {
+        "from": "diane.brooks@globalgrain.net",
+        "to": "abby.rivera@oceanictradeservices.com",
+        "subject": "RE: Rice - Tianjin Anch / Marsamxett - Spot Freight",
+        "timestamp": "2018-08-12 10:15",
+        "body": "Abby,\n\nThanks for the quick reply. We have ample lead time on this one. Could you come down to $93/MT? Stem is secure and cargo grd.\n\nDiane Brooks"
+      },
+      {
+        "from": "abby.rivera@oceanictradeservices.com",
+        "to": "diane.brooks@globalgrain.net",
+        "subject": "RE: Rice - Tianjin Anch / Marsamxett - Spot Freight",
+        "timestamp": "2018-08-12 11:00",
+        "body": "Diane,\n\nMeet me at usd 95/MT. Vessel NYK VENUS is suitable.\n\nAbby Rivera\nOceanic Trade Services"
+      },
+      {
+        "from": "diane.brooks@globalgrain.net",
+        "to": "abby.rivera@oceanictradeservices.com",
+        "subject": "RE: Rice - Tianjin Anch / Marsamxett - Spot Freight",
+        "timestamp": "2018-08-12 14:30",
+        "body": "Abby,\n\n$94 and you have a deal. Let me know.\n\nDiane"
+      },
+      {
+        "from": "abby.rivera@oceanictradeservices.com",
+        "to": "diane.brooks@globalgrain.net",
+        "subject": "RE: Rice - Tianjin Anch / Marsamxett - Spot Freight",
+        "timestamp": "2018-08-12 15:00",
+        "body": "Diane,\n\nAgreed. USD 94/MT. Please send fixture recap.\n\nAbby Rivera\nOceanic Trade Services"
+      },
+      {
+        "from": "diane.brooks@globalgrain.net",
+        "to": "abby.rivera@oceanictradeservices.com",
+        "subject": "RE: Rice - Tianjin Anch / Marsamxett - Spot Freight",
+        "timestamp": "2018-08-12 15:30",
+        "body": "Abby,\n\nPerfect. Recap sent.\n\nThanks,\nDiane Brooks"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "Rice",
+      "load_port": "Tianjin Anch",
+      "discharge_port": "Marsamxett",
+      "cargo_size": "7627MT",
+      "incoterm": "DDP",
+      "vessel": "NYK VENUS",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "97",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "94",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "tammy.acosta@globalmaritimebrokers.com",
+        "to": "chuck.deleon@nationalchartering.net",
+        "subject": "Iron Ore Spot - Kodiak to Muara Berau Anch",
+        "timestamp": "2010-08-17 09:15",
+        "body": "Hi Chuck,\n\nHope you are well.\n\nWe have firm offer for Iron Ore, Kodiak to Muara Berau Anch.\n\nCargo size: 5139MT, Incoterm: DDP.\n\nIndicative freight at AUD82. \n\nLet me know your thoughts.\n\nRegards,\nTammy Acosta\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "chuck.deleon@nationalchartering.net",
+        "to": "tammy.acosta@globalmaritimebrokers.com",
+        "subject": "Re: Iron Ore Spot - Kodiak to Muara Berau Anch",
+        "timestamp": "2010-08-17 10:42",
+        "body": "Hi Tammy,\n\nThanks for the prompt reply. AUD82 looks a little steep. Can you share some vessel details and earliest laycan?\n\nBest,\nChuck De Leon"
+      },
+      {
+        "from": "tammy.acosta@globalmaritimebrokers.com",
+        "to": "chuck.deleon@nationalchartering.net",
+        "subject": "Re: Iron Ore Spot - Kodiak to Muara Berau Anch",
+        "timestamp": "2010-08-18 14:28",
+        "body": "Hi Chuck,\n\nSorry for the delay. \nVessel is MSC SEASIDE, DWT 19209. Earliest laycan is 28-30 Aug.\nBest i can do at the moment is AUD 81.5.\n\nLet me know.\n\nRegards,\nTammy Acosta"
+      },
+      {
+        "from": "chuck.deleon@nationalchartering.net",
+        "to": "tammy.acosta@globalmaritimebrokers.com",
+        "subject": "Re: Iron Ore Spot - Kodiak to Muara Berau Anch",
+        "timestamp": "2010-08-19 08:55",
+        "body": "Tammy,\n\nThanks. Still too high. We are looking at something closer to AUD79. Also, what is demurrage rate per day?\n\nChuck"
+      },
+      {
+        "from": "tammy.acosta@globalmaritimebrokers.com",
+        "to": "chuck.deleon@nationalchartering.net",
+        "subject": "Re: Iron Ore Spot - Kodiak to Muara Berau Anch - FINAL",
+        "timestamp": "2010-08-19 11:12",
+        "body": "Chuck,\n\nOkay, I pushed them. Final offer is AUD79.5.\nDemurrage rate is USD 15000/day.\n\nLet me know ASAP as they have other options.\n\nRegards,\nTammy Acosta\nGlobal Maritime Brokers\n\nDISCLAIMER: This email is for information only and subject to details being \"without prejudice\"."
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Iron Ore",
+      "load_port": "Kodiak",
+      "discharge_port": "Muara Berau Anch",
+      "cargo_size": "5139MT",
+      "incoterm": "DDP",
+      "vessel": "MSC SEASIDE",
+      "dwt": "19209",
+      "loa": "323m",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "82",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "79.5",
+      "laytime_start_date": "2010-08-28",
+      "laytime_end_date": "2010-08-30",
+      "demurrage_currency": "USD",
+      "demurrage": "15000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "ed.villarreal@seawaybrokers.com",
+        "to": "josh.rosario@globexshipping.com",
+        "subject": "LNG Freight Quote - Poole to Hong Kong",
+        "timestamp": "2020-03-02 09:15",
+        "body": "Dear Josh,\n\nHope you are well, colleagues.\n\nFollowing your enquiry, please find our firm offer for LNG shipment:\n\nCommodity: LNG\nLoad Port: Poole\nDischarge Port: Hong Kong\nCargo Size: 2429 MT\nIncoterm: CFR\nVessel: AL GHUWAIRIYA (DWT 154940)\n\nFreight Rate: USD75.46 per MT\nLaycan: March 16-20, 2020 bi\n\nKindly advise your interest.\n\nBest regards,\nEd Villarreal\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "josh.rosario@globexshipping.com",
+        "to": "ed.villarreal@seawaybrokers.com",
+        "subject": "Re: LNG Freight Quote - Poole to Hong Kong",
+        "timestamp": "2020-03-02 11:02",
+        "body": "Hi Ed,\n\nThanks for the quick turnaround. \n\nRate seems a little high. Considering our cargo insurance terms significantly lower the vessel's exposure, can you sharpen your pencil? We're aiming for something closer to USD 72.00 per MT.\n\nAlso, can you confirm the LOA of the vessel? \n\nRegards,\nJosh Rosario"
+      },
+      {
+        "from": "ed.villarreal@seawaybrokers.com",
+        "to": "josh.rosario@globexshipping.com",
+        "subject": "Re: LNG Freight Quote - Poole to Hong Kong",
+        "timestamp": "2020-03-02 12:35",
+        "body": "Hi Josh,\n\nThanks for your prompt reply. \n\nUnderstood regarding the insurance advantage. I've spoken with Owners and they're willing to meet you halfway. How about $73.50 per MT? \nLOA of AL GHUWAIRIYA is 345m.\n\nPlease confirm asap. \n\nRegards,\nEd Villarreal"
+      },
+      {
+        "from": "josh.rosario@globexshipping.com",
+        "to": "ed.villarreal@seawaybrokers.com",
+        "subject": "Re: LNG Freight Quote - Poole to Hong Kong",
+        "timestamp": "2020-03-02 14:58",
+        "body": "Ed,\n\n$73.50 is still a bit above our target. We are facing budget limits this quarter. Would they consider $72.75/MT? Please confirm the loading window is indeed March 16-20 wccon.\n\nThanks,\nJosh"
+      },
+      {
+        "from": "ed.villarreal@seawaybrokers.com",
+        "to": "josh.rosario@globexshipping.com",
+        "subject": "Re: LNG Freight Quote - Poole to Hong Kong",
+        "timestamp": "2020-03-02 16:22",
+        "body": "Hi Josh,\n\nOk, I pushed them hard. They have agreed to $72.75 per MT. \n\nYes, confirm loading window is March 16-20, 2020.\n\nPlease send confirmation so we can finalize docs.\n\nRegards,\nEd Villarreal"
+      },
+      {
+        "from": "josh.rosario@globexshipping.com",
+        "to": "ed.villarreal@seawaybrokers.com",
+        "subject": "Confirmed: LNG Freight Quote - Poole to Hong Kong",
+        "timestamp": "2020-03-03 08:47",
+        "body": "Hi Ed,\n\nConfirmed. $72.75/MT it is. Please proceed with the necessary documentation. What is the demurrage rate per day?\n\nThanks,\nJosh"
+      },
+      {
+        "from": "ed.villarreal@seawaybrokers.com",
+        "to": "josh.rosario@globexshipping.com",
+        "subject": "Re: Confirmed: LNG Freight Quote - Poole to Hong Kong",
+        "timestamp": "2020-03-03 09:55",
+        "body": "Hi Josh,\n\nExcellent! \nDemurrage rate is USD 28,000 per day, pro rata.\n\nDocuments will be forwarded shortly.\n\nRegards,\nEd Villarreal"
+      }
+    ],
+    "labels": {
+      "broker": "Seaway Commercial Brokers",
+      "commodity": "LNG",
+      "load_port": "Poole",
+      "discharge_port": "Hong Kong",
+      "cargo_size": "2429MT",
+      "incoterm": "CFR",
+      "vessel": "AL GHUWAIRIYA",
+      "dwt": "154940",
+      "loa": "345m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "75.46",
+      "final_freight_quote_currency": "$",
+      "final_freight_quote": "72.75",
+      "laytime_start_date": "March 16",
+      "laytime_end_date": "March 20",
+      "demurrage_currency": "USD",
+      "demurrage": "28,000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "gina.montes@charteringcorp.com",
+        "to": "alexis.castro@andersonshipping.com",
+        "subject": "Freight Inquiry - Cotton - Valletta to Tromso",
+        "timestamp": "2010-09-10 09:15",
+        "body": "Dear Alexis,\n\nWe are seeking a freight indication for shipment of approximately 10823 MT of Cotton from Valletta to Tromso, DAP terms. Could you provide an indicative rate for loading within the next two weeks? \n\nBest regards,\n\nGina Montes\nChartering Corp."
+      },
+      {
+        "from": "alexis.castro@andersonshipping.com",
+        "to": "gina.montes@charteringcorp.com",
+        "subject": "Re: Freight Inquiry - Cotton - Valletta to Tromso",
+        "timestamp": "2010-09-10 11:30",
+        "body": "Dear Gina,\n\nThank you for your inquiry. \n\nFor subject cargo, routing Valletta/Tromso, we can offer a rate of EUR 50 per metric ton. Subject availability and stem confirmation.\n\nRegards,\n\nAlexis Castro\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "gina.montes@charteringcorp.com",
+        "to": "alexis.castro@andersonshipping.com",
+        "subject": "Re: Freight Inquiry - Cotton - Valletta to Tromso",
+        "timestamp": "2010-09-10 14:48",
+        "body": "Dear Alexis,\n\nEUR 50 appears a bit high. Can you confirm the vessel details and laycan you are anticipating? We are particularly interested in a vessel with a DWT of around 180,000 MT. Are you considering the MARAN TRANSPORTER, as that would align well with our needs. Also, what's your demurrage rate per day?\n\nRegards,\n\nGina Montes\nChartering Corp."
+      },
+      {
+        "from": "alexis.castro@andersonshipping.com",
+        "to": "gina.montes@charteringcorp.com",
+        "subject": "Re: Freight Inquiry - Cotton - Valletta to Tromso",
+        "timestamp": "2010-09-11 08:52",
+        "body": "Dear Gina,\n\nYes, Maran Transporter is one posibility - DWT is 179719 MT a/s per owners info. Laycan is tentative but we are looking at 24-26 Sept. I can perhaps move to EUR 48/MT. Demurrage rate, usd 18000 pd.\n\nRegards,\n\nAlexis Castro\nAnderson Shipping Brokers. \n*Disclaimer: Subject to errors and omissions*"
+      },
+      {
+        "from": "gina.montes@charteringcorp.com",
+        "to": "alexis.castro@andersonshipping.com",
+        "subject": "Re: Freight Inquiry - Cotton - Valletta to Tromso",
+        "timestamp": "2010-09-11 10:10",
+        "body": "Dear Alexis,\n\nEUR 48 sounds acceptable. Please confirm stem and vessel details. We need to finalize this quickly. We confirm DAP terms. We also confirm a loading window of 24-26 September. \n\nRegards,\n\nGina Montes\nChartering Corp."
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Cotton",
+      "load_port": "Valletta",
+      "discharge_port": "Tromso",
+      "cargo_size": "10823MT",
+      "incoterm": "DAP",
+      "vessel": "MARAN TRANSPORTER",
+      "dwt": "179719",
+      "loa": "292m",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "48",
+      "laytime_start_date": "2010-09-24",
+      "laytime_end_date": "2010-09-26",
+      "demurrage_currency": "USD",
+      "demurrage": "18000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "santos.wu@globalmaritime.com",
+        "to": "rafael.castaneda@americassugar.com",
+        "subject": "Sugar Fixing - Gibraltar/Zhuhai",
+        "timestamp": "2016-09-19 09:15",
+        "body": "Morning Rafael,\n\nHope you're well.\n\nGot a prompt for 3441 MT sugar, Gibraltar to Zhuhai, DAP terms. Initial freight idea around USD67.53. Vsl details to follow if interest.\n\nCheers,\nSantos Wu\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "rafael.castaneda@americassugar.com",
+        "to": "santos.wu@globalmaritime.com",
+        "subject": "Re: Sugar Fixing - Gibraltar/Zhuhai",
+        "timestamp": "2016-09-19 10:02",
+        "body": "Santos,\n\nThanks for the quick response. $67.53 seems a bit steep. Can you do better?\n\nRegards,\nRafael Castaneda"
+      },
+      {
+        "from": "santos.wu@globalmaritime.com",
+        "to": "rafael.castaneda@americassugar.com",
+        "subject": "Re: Sugar Fixing - Gibraltar/Zhuhai",
+        "timestamp": "2016-09-19 10:48",
+        "body": "Rafael,\n\nPushing her a bit. Best I can do right now is $66.95. Vessel is LEXIE, DWT 298911, LOA 332m. Laycan flexible within a reasonable window.\n\nRgds,\nSantos Wu"
+      },
+      {
+        "from": "rafael.castaneda@americassugar.com",
+        "to": "santos.wu@globalmaritime.com",
+        "subject": "Re: Sugar Fixing - Gibraltar/Zhuhai",
+        "timestamp": "2016-09-19 11:35",
+        "body": "Santos,\n\n$66.95 still high. Meet me at $66 even?\n\nRafael"
+      },
+      {
+        "from": "santos.wu@globalmaritime.com",
+        "to": "rafael.castaneda@americassugar.com",
+        "subject": "Re: Sugar Fixing - Gibraltar/Zhuhai",
+        "timestamp": "2016-09-19 12:20",
+        "body": "Rafael,\n\nOk, $66 it is. Consider it done.\n\nSantos Wu"
+      },
+      {
+        "from": "santos.wu@globalmaritime.com",
+        "to": "rafael.castaneda@americassugar.com",
+        "subject": "RE: Sugar Fixing - Gibraltar/Zhuhai - Recap",
+        "timestamp": "2016-09-19 14:55",
+        "body": "Rafael,\n\nAs agreed:\n\nCommodity: Sugar\nLoad Port: Gibraltar\nDischarge Port: Zhuhai\nCargo Size: 3441 MT\nIncoterm: DAP\nVessel: LEXIE\nFreight: USD 66.00\nDemurrage: USD 25000/day pro rata\nLaycan: Open, to be mutually agreed.\n\nPlease confirm.\n\nBest,\nSantos Wu"
+      },
+      {
+        "from": "rafael.castaneda@americassugar.com",
+        "to": "santos.wu@globalmaritime.com",
+        "subject": "Re: RE: Sugar Fixing - Gibraltar/Zhuhai - Recap",
+        "timestamp": "2016-09-19 15:30",
+        "body": "Santos,\n\nConfirmed. Thanks.\n\nRafael"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Sugar",
+      "load_port": "Gibraltar",
+      "discharge_port": "Zhuhai",
+      "cargo_size": "3441MT",
+      "incoterm": "DAP",
+      "vessel": "LEXIE",
+      "dwt": "298911",
+      "loa": "332m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "67.53",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "66.00",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "rose.smith@maritime-exchange.com",
+        "to": "al.ortiz@global-metals.com",
+        "subject": "Spot Offer - Aluminum Neustadt/Fourchon",
+        "timestamp": "2018-12-03 09:15",
+        "body": "Dear Al,\n\nGood morning from Maritime Exchange!\n\nWe have a prompt vessel available for your Aluminum shipment from Neustadt to Fourchon. Cargo size around 968MT. Vessel is currently in the area and ready to load.\n\nOur initial freight idea is USD69 dhdwtsbe, DDP Fourchon. Laycan is flexible around Dec 10-15.\n\nLet me know your thoughts, please.\n\nBest regards,\nRose Smith\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "al.ortiz@global-metals.com",
+        "to": "rose.smith@maritime-exchange.com",
+        "subject": "Re: Spot Offer - Aluminum Neustadt/Fourchon",
+        "timestamp": "2018-12-03 11:42",
+        "body": "Hi Rose,\n\nThanks for the quick offer. $69 seems a little high. Can you give me some more details on the vessel? And what's your demurrage rate p/day?\n\nRegards,\nAl Ortiz\nGlobal Metals"
+      },
+      {
+        "from": "rose.smith@maritime-exchange.com",
+        "to": "al.ortiz@global-metals.com",
+        "subject": "Re: Spot Offer - Aluminum Neustadt/Fourchon",
+        "timestamp": "2018-12-03 12:58",
+        "body": "Dear Al,\n\nCertainly. The vessel in question is the ALTO ACRUX, DWT 80229, LOA 288m. Holds are suitable for your cargo.\n\nAs for demurrage, it's $15,000/day pro rata.\n\nConsidering the spot market and current port congestion in Fourchon, we believe $69 is fair, however we may consider slightly revising wvns if you have a firm number in mind and a solid stem booked. Let me know your best offer.\n\nBest,\nRose"
+      },
+      {
+        "from": "al.ortiz@global-metals.com",
+        "to": "rose.smith@maritime-exchange.com",
+        "subject": "Re: Spot Offer - Aluminum Neustadt/Fourchon",
+        "timestamp": "2018-12-03 15:30",
+        "body": "Rose,\n\nThanks for the vessel details and demurrage rate. I think we'll pass at that freight level. We're seeing lower numbers in the market. We may revisit fios if prices change. \n\nThanks anyway,\nAl"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Aluminum",
+      "load_port": "Neustadt",
+      "discharge_port": "Fourchon",
+      "cargo_size": "968MT",
+      "incoterm": "DDP",
+      "vessel": "ALTO ACRUX",
+      "dwt": "80229",
+      "loa": "288",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "69",
+      "final_freight_quote_currency": "",
+      "final_freight_quote": "",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "$",
+      "demurrage": "15000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "rose.pierre@oceanictradeservices.com",
+        "to": "daniel.ross@globexshipping.net",
+        "subject": "Iron Ore Freight - Mundra to Cartagena",
+        "timestamp": "2009-11-14 09:30",
+        "body": "Dear Mr. Ross,\n\nGood morning to you.\n\nKindly note we can offer for your consideration the following for Iron Ore, details as follows:\n\n*   Commodity: Iron Ore\n*   Load Port: Mundra\n*   Discharge Port: Cartagena\n*   Quantity: 5248 MT\n*   Incoterm: DDP\n\nIndicative freight idea, srbl, at EUR 76/MT.\n\nLooking forward to your feedback.\n\nBest regards,\n\nRose Pierre\nOceanic Trade Services"
+      },
+      {
+        "from": "daniel.ross@globexshipping.net",
+        "to": "rose.pierre@oceanictradeservices.com",
+        "subject": "Re: Iron Ore Freight - Mundra to Cartagena",
+        "timestamp": "2009-11-14 11:15",
+        "body": "Dear Rose,\n\nThanks for the prompt reply.\n\n\u20ac76 seems a bit high. This is basically a chopt voyage. What\u2019s your best?\n\nRegards,\n\nDaniel Ross"
+      },
+      {
+        "from": "rose.pierre@oceanictradeservices.com",
+        "to": "daniel.ross@globexshipping.net",
+        "subject": "Re: Iron Ore Freight - Mundra to Cartagena",
+        "timestamp": "2009-11-14 14:45",
+        "body": "Dear Mr. Ross,\n\nThank you for your email.\n\nUnderstood your point. Considering all details, the absolute lowest is EUR 74/MT. Vessel available, sf, with prompt laycan.\n\nPlease let me know your thoughts.\n\nBest regards,\n\nRose Pierre\nOceanic Trade Services"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "Iron Ore",
+      "load_port": "Mundra",
+      "discharge_port": "Cartagena",
+      "cargo_size": "5248MT",
+      "incoterm": "DDP",
+      "vessel": "",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "76",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "74",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "gloria.villegas@maritimeexchange.com",
+        "to": "jenny.delgado@continentalshipping.net",
+        "subject": "Freight Quote - Coal Sanremo/Monaco",
+        "timestamp": "2011-04-25 09:30:00",
+        "body": "Dear Jenny,\n\nKindly find our offer for 985MT Coal, Sanremo to Monaco, FOB basis:\n\nFreight: EUR 30.13/MT.\n\nPls advise go/nor.\n\nBest regards,\nGloria Villegas\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "gloria.villegas@maritimeexchange.com",
+        "to": "jenny.delgado@continentalshipping.net",
+        "subject": "Re: Freight Quote - Coal Sanremo/Monaco",
+        "timestamp": "2011-04-27 14:15:00",
+        "body": "Dear Jenny,\n\nFollowing up on my previous email. Any feedback on our offer?\n\nRegards,\nGloria Villegas\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "jenny.delgado@continentalshipping.net",
+        "to": "gloria.villegas@maritimeexchange.com",
+        "subject": "RE: Freight Quote - Coal Sanremo/Monaco",
+        "timestamp": "2011-04-27 15:45:00",
+        "body": "Dear Gloria,\n\nThanks for your email.\n\nCan you confirm vessel details - I need to be soc vessel is suitable for port restrictions. What is the loading window?\n\nAlso, can you come down to EUR 29.50/MT?\n\nRegards,\nJenny Delgado\nContinental Shipping"
+      },
+      {
+        "from": "gloria.villegas@maritimeexchange.com",
+        "to": "jenny.delgado@continentalshipping.net",
+        "subject": "RE: Freight Quote - Coal Sanremo/Monaco",
+        "timestamp": "2011-04-27 16:30:00",
+        "body": "Dear Jenny,\n\nVessel MARAN THETIS suitable; loading window 29-30 April. Vessel DWT is 320105 and LOA is 333m\n\nBest I can do is EUR 29.85/MT.\n\nRgds,\nGloria Villegas\nMaritime Exchange Ltd."
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Coal",
+      "load_port": "Sanremo",
+      "discharge_port": "Monaco",
+      "cargo_size": "985MT",
+      "incoterm": "FOB",
+      "vessel": "MARAN THETIS",
+      "dwt": "320105",
+      "loa": "333m",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "30.13",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "29.85",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "tony.ayala@andersonshipping.com",
+        "to": "gloria.cisneros@worldwidecargo.net",
+        "subject": "Inquiry: Aluminum Manila to Petropavlovsk",
+        "timestamp": "2019-05-16 09:15",
+        "body": "Dear Gloria,\n\nGood morning.\n\nFollowing your inquiry for Aluminum shipment of around 3265MT DDP Manila Anch to Petropavlovsk, we can offer MV BARZAN. Indication in the mid EUR 60s. I'll need to check firm availability and stem window with owners.\n\nBR,\nTony Ayala\nAnderson Shipping Brokers\n"
+      },
+      {
+        "from": "gloria.cisneros@worldwidecargo.net",
+        "to": "tony.ayala@andersonshipping.com",
+        "subject": "Re: Inquiry: Aluminum Manila to Petropavlovsk",
+        "timestamp": "2019-05-16 09:42",
+        "body": "Tony,\n\nThanks for the quick reply.\n\n'Mid EUR 60s' is a little vague. Can you provide a firm quote, please? Also, can you confirm laycan dates and demurrage rate per day? We need firm offers to compare with others.\n\nGloria Cisneros\nWorldwide Cargo\n"
+      },
+      {
+        "from": "tony.ayala@andersonshipping.com",
+        "to": "gloria.cisneros@worldwidecargo.net",
+        "subject": "Re: Inquiry: Aluminum Manila to Petropavlovsk",
+        "timestamp": "2019-05-16 10:20",
+        "body": "Gloria,\n\nConfirmed. Owners are holding on BARZAN. Firm offer at EUR66.81/MT, DDP. \nLaycan window 24-28 May. \nDemurrage rate $25,000/day prorata.\n\nBest regards,\nTony\n"
+      },
+      {
+        "from": "gloria.cisneros@worldwidecargo.net",
+        "to": "tony.ayala@andersonshipping.com",
+        "subject": "Re: Inquiry: Aluminum Manila to Petropavlovsk",
+        "timestamp": "2019-05-16 11:05",
+        "body": "Tony,\n\nEUR 66.81 is too high. We were expecting something closer to EUR 55.00. Can you check with owners if they can work around that level? We have other options on the table. Important delivery window for our client. What is the vessels DWT and LOA?\n\nThanks,\nGloria\n"
+      },
+      {
+        "from": "tony.ayala@andersonshipping.com",
+        "to": "gloria.cisneros@worldwidecargo.net",
+        "subject": "Re: Inquiry: Aluminum Manila to Petropavlovsk",
+        "timestamp": "2019-05-16 12:35",
+        "body": "Gloria,\n\nI have spoke with owners. They can agree to EUR 59.50/MT, DDP basis. Vessel is BARZAN DWT 199744 LOA 400m. This is their best and final offer. \n\nRegards,\nTony\n"
+      },
+      {
+        "from": "gloria.cisneros@worldwidecargo.net",
+        "to": "tony.ayala@andersonshipping.com",
+        "subject": "Re: Inquiry: Aluminum Manila to Petropavlovsk",
+        "timestamp": "2019-05-16 14:10",
+        "body": "Tony,\n\nEUR 59.50 still a bit high. Can you push for EUR 56.00? Need firm committment. \n\nGloria\n"
+      },
+      {
+        "from": "tony.ayala@andersonshipping.com",
+        "to": "gloria.cisneros@worldwidecargo.net",
+        "subject": "Re: Inquiry: Aluminum Manila to Petropavlovsk",
+        "timestamp": "2019-05-16 15:40",
+        "body": "Gloria,\n\nOK, managed to get owners to agree to EUR 56.00/MT, DDP. Consider it fixed.\n\nBR,\nTony\n\n"
+      },
+      {
+        "from": "gloria.cisneros@worldwidecargo.net",
+        "to": "tony.ayala@andersonshipping.com",
+        "subject": "Re: Inquiry: Aluminum Manila to Petropavlovsk",
+        "timestamp": "2019-05-16 16:25",
+        "body": "Tony,\n\nConfirmed. EUR 56.00/MT DDP basis for 3265MT Aluminum Manila Anch to Petropavlovsk on BARZAN, laycan 24-28 May. Please send proforma invoice.\n\nRegards,\nGloria\n"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Aluminum",
+      "load_port": "Manila Anch",
+      "discharge_port": "Petropavlovsk",
+      "cargo_size": "3265MT",
+      "incoterm": "DDP",
+      "vessel": "BARZAN",
+      "dwt": "199744",
+      "loa": "400m",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "66.81",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "56.00",
+      "laytime_start_date": "2019-05-24",
+      "laytime_end_date": "2019-05-28",
+      "demurrage_currency": "$",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "abby.munoz@globalmaritime.net",
+        "to": "lauren.hawkins@seacorp.com",
+        "subject": "Rice Gosport/Palembang - Offer",
+        "timestamp": "2009-04-10 09:15",
+        "body": "Hi Lauren,\r\n\r\nHave spot open for Rice Gosport to Palembang, 6979MT CFR.\r\n\r\nUSD83.97/mt. \r\n\r\nRgds,\r\nAbby\r\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "lauren.hawkins@seacorp.com",
+        "to": "abby.munoz@globalmaritime.net",
+        "subject": "Re: Rice Gosport/Palembang - Offer",
+        "timestamp": "2009-04-10 10:02",
+        "body": "Hi Abby,\r\n\r\nThanks for the quick reply. Can you advise on vessel details? Specifically, draft and consumption?\r\n\r\nLauren Hawkins\r\nSeaCorp"
+      },
+      {
+        "from": "abby.munoz@globalmaritime.net",
+        "to": "lauren.hawkins@seacorp.com",
+        "subject": "Re: Rice Gosport/Palembang - Offer",
+        "timestamp": "2009-04-10 10:48",
+        "body": "Lauren,\r\n\r\nDraft 11.9m, consump abt 30mt i/f + 2mt mgo at sea. In port abt 3mt mgo.\r\n\r\nRgds,\r\nAbby"
+      },
+      {
+        "from": "lauren.hawkins@seacorp.com",
+        "to": "abby.munoz@globalmaritime.net",
+        "subject": "Re: Rice Gosport/Palembang - Offer",
+        "timestamp": "2009-04-10 11:30",
+        "body": "Abby,\r\n\r\nThanks. Rate seems a bit high. Can you do $82.50/mt?\r\n\r\nL\r\n"
+      },
+      {
+        "from": "abby.munoz@globalmaritime.net",
+        "to": "lauren.hawkins@seacorp.com",
+        "subject": "Re: Rice Gosport/Palembang - Offer",
+        "timestamp": "2009-04-10 12:15",
+        "body": "Lauren,\r\n\r\nMeet at $83.00? Gtee stem on.\r\n\r\nAbby"
+      },
+      {
+        "from": "lauren.hawkins@seacorp.com",
+        "to": "abby.munoz@globalmaritime.net",
+        "subject": "Re: Rice Gosport/Palembang - Offer",
+        "timestamp": "2009-04-10 13:01",
+        "body": "Abby,\r\n\r\nOkay, $83.00/mt is acceptable. What about laycan?\r\n\r\nL."
+      },
+      {
+        "from": "abby.munoz@globalmaritime.net",
+        "to": "lauren.hawkins@seacorp.com",
+        "subject": "Re: Rice Gosport/Palembang - Offer",
+        "timestamp": "2009-04-10 13:45",
+        "body": "Lauren,\r\n\r\nLaycan April 24-28. Demurrage usd 9000/day. Let me knw asap.\r\n\r\nAbby"
+      },
+      {
+        "from": "lauren.hawkins@seacorp.com",
+        "to": "abby.munoz@globalmaritime.net",
+        "subject": "Re: Rice Gosport/Palembang - Offer",
+        "timestamp": "2009-04-10 14:30",
+        "body": "Abby,\r\n\r\nConfirmed at $83.00/mt, laycan 24-28 April, demurrage $9000/day. Please send recap.\r\n\r\nThanks,\r\nLauren\r\n"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Rice",
+      "load_port": "Gosport",
+      "discharge_port": "Palembang",
+      "cargo_size": "6979MT",
+      "incoterm": "CFR",
+      "vessel": "LNG JUPITER",
+      "dwt": "81950",
+      "loa": "290m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "83.97",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "83.00",
+      "laytime_start_date": "2009-04-24",
+      "laytime_end_date": "2009-04-28",
+      "demurrage_currency": "USD",
+      "demurrage": "9000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "caroline.trejo@oceanictradeservices.com",
+        "to": "austin.hunt@globalshipping.net",
+        "subject": "Indicative Freight Quote: Aluminum - Bandar Abbas to Gdynia",
+        "timestamp": "2020-06-10 09:15",
+        "body": "Dear Austin,\n\nFollowing our conversation, please find below our indicative freight quote for the shipment of Aluminum from Bandar Abbas Anch to Gdynia:\n\nCommodity: Aluminum\nQuantity: 8626 MT, agw\nLoad Port: Bandar Abbas Anch\nDischarge Port: Gdynia\nIncoterm: CIF\nVessel: Suitable geared vessel\nFreight: EUR 43/MT, uu\n\nLaycan: June 22-26, 2020\nDemurrage: EUR 8,500/day pro rata\n\nBest regards,\n\nCaroline Trejo\nOceanic Trade Services"
+      },
+      {
+        "from": "austin.hunt@globalshipping.net",
+        "to": "caroline.trejo@oceanictradeservices.com",
+        "subject": "Re: Indicative Freight Quote: Aluminum - Bandar Abbas to Gdynia",
+        "timestamp": "2020-06-10 11:30",
+        "body": "Hi Caroline,\n\nThanks for the quick turnaround. We appreciate it. \n\nWe've received a competing offer at EUR 41/MT. Can you match that? What's the vessel's expected DWT? Is the offered vessel JUDITH SCHULTE or one of comparable size? Need to ensure she fits the berth in Gdynia. \n\nRegards,\n\nAustin Hunt\nGlobal Shipping"
+      },
+      {
+        "from": "caroline.trejo@oceanictradeservices.com",
+        "to": "austin.hunt@globalshipping.net",
+        "subject": "Re: Indicative Freight Quote: Aluminum - Bandar Abbas to Gdynia",
+        "timestamp": "2020-06-10 13:45",
+        "body": "Dear Austin,\n\nUnderstood regarding the EUR 41/MT offer. Let me see what I can do. I've spoken with owners. We can meet you at EUR 41.50/mt.\n\nYes, the intended vessel is indeed the JUDITH SCHULTE. She's DWT 111861 and LOA 300m. Please confirm the berth suitability. We're holding her open, but need a quick decision.\n\nBest regards,\n\nCaroline Trejo\nOceanic Trade Services"
+      },
+      {
+        "from": "austin.hunt@globalshipping.net",
+        "to": "caroline.trejo@oceanictradeservices.com",
+        "subject": "Re: Indicative Freight Quote: Aluminum - Bandar Abbas to Gdynia",
+        "timestamp": "2020-06-10 16:00",
+        "body": "Hi Caroline,\n\nEUR 41.50/MT works for us, considering the vessel's specs (JUDITH SCHULTE seems perfect). Please send over the proforma invoice. And confirm the stem at Bandar Abbas and loading window are still good.\n\nRegards,\n\nAustin Hunt\nGlobal Shipping"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "Aluminum",
+      "load_port": "Bandar Abbas Anch",
+      "discharge_port": "Gdynia",
+      "cargo_size": "8626MT",
+      "incoterm": "CIF",
+      "vessel": "JUDITH SCHULTE",
+      "dwt": "111861",
+      "loa": "300m",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "43",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "41.50",
+      "laytime_start_date": "June 22",
+      "laytime_end_date": "June 26",
+      "demurrage_currency": "EUR",
+      "demurrage": "8,500"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "crystal.henderson@pacificshipping.com",
+        "to": "angela.lopez@globalmaritimebrokers.com",
+        "subject": "Inquiry: Wheat shipment Lanshan Anch to Houston",
+        "timestamp": "2013-08-25 09:15",
+        "body": "Dear Angela,\n\nWe require freight for a 173MT Wheat shipment, Lanshan Anch to Houston, DDP terms. Can you please offer firm quotes?\n\nRegards,\nCrystal Henderson\nPacific Shipping"
+      },
+      {
+        "from": "angela.lopez@globalmaritimebrokers.com",
+        "to": "crystal.henderson@pacificshipping.com",
+        "subject": "Re: Inquiry: Wheat shipment Lanshan Anch to Houston",
+        "timestamp": "2013-08-25 11:30",
+        "body": "Dear Crystal,\n\nThank you for your inquiry.\n\nI can offer the following:\n\n1. Vessel NASHA, Spot, $38.89/MT, wog.\n2. Vessel CAPE KEYSTONE, Laycan 10-15 Sept, $39.25/MT, wog.\n\nLooking forward to your feedback.\n\nBest regards,\nAngela L\u00f3pez\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "crystal.henderson@pacificshipping.com",
+        "to": "angela.lopez@globalmaritimebrokers.com",
+        "subject": "Re: Inquiry: Wheat shipment Lanshan Anch to Houston",
+        "timestamp": "2013-08-26 14:45",
+        "body": "Dear Angela,\n\nThanks for the offers. We prefer the NASHA. Can you come down on the rate? We are targeting something closer to $37.50/MT. Also, can you please confirm the vessel's grt?\n\nBest,\nCrystal Henderson\nPacific Shipping"
+      },
+      {
+        "from": "angela.lopez@globalmaritimebrokers.com",
+        "to": "crystal.henderson@pacificshipping.com",
+        "subject": "Re: Inquiry: Wheat shipment Lanshan Anch to Houston",
+        "timestamp": "2013-08-26 16:00",
+        "body": "Dear Crystal,\n\nI can meet you at USD 38.25/MT on NASHA, afsps. GRT is 149366. Please confirm.\n\nRegards,\nAngela L\u00f3pez\nGlobal Maritime Brokers\n"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Wheat",
+      "load_port": "Lanshan Anch",
+      "discharge_port": "Houston",
+      "cargo_size": "173MT",
+      "incoterm": "DDP",
+      "vessel": "NASHA",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "$",
+      "starting_freight_quote": "38.89",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "38.25",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "abby.moran@maritimeexchange.com",
+        "to": "amy.knight@globalshipping.net",
+        "subject": "Crude Oil Inquiry - Long Beach to Lowestoft",
+        "timestamp": "2012-03-24 09:15",
+        "body": "Dear Amy,\n\nHope you are well.\n\nWe have a spot enquiry for Crude Oil, Long Beach to Lowestoft, approx. 9683MT, CFR terms.\n\nIndicative freight USD60 wog.\n\nPls advise if of interest.\n\nBest regards,\nAbby Moran\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "amy.knight@globalshipping.net",
+        "to": "abby.moran@maritimeexchange.com",
+        "subject": "Re: Crude Oil Inquiry - Long Beach to Lowestoft",
+        "timestamp": "2012-03-24 10:30",
+        "body": "Hi Abby,\n\nThanks for the quick response.\n\nUSD60 looks a bit rich. Anything better available?\nWhat vessel are you looking at?\n\nAlso, can you confirm Lowestoft can handle the size cargo?\n\nRegards,\nAmy Knight"
+      },
+      {
+        "from": "abby.moran@maritimeexchange.com",
+        "to": "amy.knight@globalshipping.net",
+        "subject": "Re: Crude Oil Inquiry - Long Beach to Lowestoft",
+        "timestamp": "2012-03-24 11:45",
+        "body": "Amy,\n\nUnderstood. Can look at USD 58.50. Firm offer.\n\nOn vessel ONAIZA, dWT 121939.\n\nRegarding Lowestoft, terminal can accomodate discharge of this cargo size; however, draft restrictions apply. \n\n\nLet me know your thoughts, pls. Gtee prompt reply. \n\nBest,\n\nAbby"
+      },
+      {
+        "from": "amy.knight@globalshipping.net",
+        "to": "abby.moran@maritimeexchange.com",
+        "subject": "Re: Crude Oil Inquiry - Long Beach to Lowestoft",
+        "timestamp": "2012-03-24 12:30",
+        "body": "Abby,\n\nOkay, happy with USD 58.50. Can you send me laycan, and what is the demurrage rate per day?\n\nRegards,\nAmy Knight"
+      },
+      {
+        "from": "abby.moran@maritimeexchange.com",
+        "to": "amy.knight@globalshipping.net",
+        "subject": "Re: Crude Oil Inquiry - Long Beach to Lowestoft",
+        "timestamp": "2012-03-24 13:15",
+        "body": "Amy,\n\nLaycan is 04-05 April. Demurrage USD 25,000/day.\n\nPlease confirm if acceptable, and I'll send details. \n\nRegards,\n\nAbby"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Crude Oil",
+      "load_port": "Long Beach",
+      "discharge_port": "Lowestoft",
+      "cargo_size": "9683MT",
+      "incoterm": "CFR",
+      "vessel": "ONAIZA",
+      "dwt": "121939",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "60",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "58.50",
+      "laytime_start_date": "04 April",
+      "laytime_end_date": "05 April",
+      "demurrage_currency": "USD",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "diego.nava@navashipping.com",
+        "to": "rosa.rocha@seawaybrokers.com",
+        "subject": "Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-11 09:15",
+        "body": "Dear Rosa,\n\nWe are seeking a vessel for a coal shipment from Guernsey to Waterford Harbor. Cargo size is approximately 3133 MT, CIF terms. Please provide your best freight offers. \n\nRegards,\nDiego Nava\nNava Shipping"
+      },
+      {
+        "from": "rosa.rocha@seawaybrokers.com",
+        "to": "diego.nava@navashipping.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-11 11:42",
+        "body": "Dear Diego,\n\nThanks for your inquiry. Please find below our offers for your consideration:\n\n1.  MSC AZOV (DWT 112434, LOA 300m): EUR65.85/MT, Laycan 22-26 July.\n2.  MACOMA (DWT 95253, LOA 295m): EUR64.50/MT, Laycan 24-28 July. Demurrage rate EUR 6500/day pro rata.\n\nBoth offers are subject to stem confirmation and vessel's availability.\n\nBest regards,\nRosa Rocha\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "diego.nava@navashipping.com",
+        "to": "rosa.rocha@seawaybrokers.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-11 13:50",
+        "body": "Rosa,\n\nThanks for the quick response. We prefer the MSC AZOV due to the earlier laycan. However, EUR65.85/MT is a bit high for current market conditions. Can you sharpen your pencil on that rate? We are targeting something closer to EUR62.00/MT.\n\nRegards,\nDiego Nava\nNava Shipping"
+      },
+      {
+        "from": "rosa.rocha@seawaybrokers.com",
+        "to": "diego.nava@navashipping.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-11 15:28",
+        "body": "Diego,\n\nUnderstood. Let me see what I can do. EUR62.00/MT is quite aggressive, but I'll speak with owners. In the meantime, could you confirm the loading window you have available in Guernsey? We need to ensure the laycan aligns with your cargo readiness.\n\nBest regards,\nRosa Rocha\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "diego.nava@navashipping.com",
+        "to": "rosa.rocha@seawaybrokers.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-12 08:30",
+        "body": "Rosa,\n\nLoading window in Guernsey is firm for 23-25 July. Please confirm owners can meet this. Looking forward to your updated rate.\n\nRegards,\nDiego Nava\nNava Shipping"
+      },
+      {
+        "from": "rosa.rocha@seawaybrokers.com",
+        "to": "diego.nava@navashipping.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-12 10:15",
+        "body": "Diego,\n\nGood morning. I have spoken with owners. They are willing to come down slightly. Best they can offer on the MSC AZOV, given the laycan and loading window, is EUR64.50/MT. This is their final offer. Please advise if acceptable.\n\nBest regards,\nRosa Rocha\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "diego.nava@navashipping.com",
+        "to": "rosa.rocha@seawaybrokers.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-12 12:45",
+        "body": "Rosa,\n\nEUR64.50/MT is still higher than our target. Could we meet in the middle at EUR63.25/MT? If so, we have a deal, and we can begin drafting the recap. Let me know asap.\n\nRegards,\nDiego Nava\nNava Shipping"
+      },
+      {
+        "from": "rosa.rocha@seawaybrokers.com",
+        "to": "diego.nava@navashipping.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-12 14:00",
+        "body": "Diego,\n\nLet me call the owners one last time... Stand by.\n\nBest regards,\nRosa Rocha\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "rosa.rocha@seawaybrokers.com",
+        "to": "diego.nava@navashipping.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-12 14:35",
+        "body": "Diego,\n\nOkay, owners have reluctantly agreed to EUR63.25/MT on the MSC AZOV. Please confirm full style recap.\n\nBest regards,\nRosa Rocha\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "diego.nava@navashipping.com",
+        "to": "rosa.rocha@seawaybrokers.com",
+        "subject": "Re: Freight Inquiry - Coal - Guernsey to Waterford Harbor",
+        "timestamp": "2013-07-12 15:10",
+        "body": "Rosa,\n\nConfirmed. Full style recap to follow shortly. Thanks for your help.\n\nRegards,\nDiego Nava\nNava Shipping"
+      }
+    ],
+    "labels": {
+      "broker": "Seaway Commercial Brokers",
+      "commodity": "Coal",
+      "load_port": "Guernsey",
+      "discharge_port": "Waterford Harbor",
+      "cargo_size": "3133MT",
+      "incoterm": "CIF",
+      "vessel": "MSC AZOV",
+      "dwt": "112434",
+      "loa": "300m",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "65.85",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "63.25",
+      "laytime_start_date": "2013-07-22",
+      "laytime_end_date": "2013-07-26",
+      "demurrage_currency": "EUR",
+      "demurrage": "6500"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "brett.barrera@oceanictrades.com",
+        "to": "tony.salazar@maritimeexchange.net",
+        "subject": "Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-11-27 09:15",
+        "body": "Dear Mr. Salazar,\n\nWe are seeking a vessel for a shipment of approximately 5468MT of Iron Ore from Boston to Hindeloopen, DAP terms. Could you please advise on availability and indicative freight rates?\n\nBest regards,\nBrett Barrera\nOceanic Trades"
+      },
+      {
+        "from": "tony.salazar@maritimeexchange.net",
+        "to": "brett.barrera@oceanictrades.com",
+        "subject": "Re: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-11-27 10:42",
+        "body": "Dear Mr. Barrera,\n\nThank you for your inquiry. We are checking vessel availability for your Boston to Hindeloopen voyage. Will revert a.s.a.p.\n\nRegards,\nTony Salazar\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "tony.salazar@maritimeexchange.net",
+        "to": "brett.barrera@oceanictrades.com",
+        "subject": "Fwd: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-11-27 15:21",
+        "body": "Dear Mr. Barrera,\n\nWe have vessel HL SALDANHA BAY (hdwts abt 179147) open but earliest laycan would be 10-15 Dec. Subject stem at load port. Indicative freight EUR46.71/MT, DAP Hindeloopen.\n\nRegards,\nTony Salazar\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "brett.barrera@oceanictrades.com",
+        "to": "tony.salazar@maritimeexchange.net",
+        "subject": "Re: Fwd: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-11-28 08:55",
+        "body": "Dear Mr. Salazar,\n\nThank you for the prompt response. EUR46.71 seems a bit high. Could you check if there is any room for negotiation? What is the loa of the HL SALDANHA BAY? Also what is demurrage rate per day?\n\nBest regards,\nBrett Barrera\nOceanic Trades"
+      },
+      {
+        "from": "tony.salazar@maritimeexchange.net",
+        "to": "brett.barrera@oceanictrades.com",
+        "subject": "Re: Fwd: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-11-28 11:30",
+        "body": "Dear Mr. Barrera,\n\nWe can re-check rate with Owners. HL SALDANHA BAY is about 292m loa. Demurrage rate usd 30,000/day pro rata. \n\nRegards,\nTony Salazar\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "brett.barrera@oceanictrades.com",
+        "to": "tony.salazar@maritimeexchange.net",
+        "subject": "Re: Fwd: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-11-28 13:47",
+        "body": "Dear Mr. Salazar,\n\nThanks. Please do check on the rate. 30,000 USD demurrage is acceptable. What is the latest date for the loading window?\n\nBest regards,\nBrett Barrera\nOceanic Trades"
+      },
+      {
+        "from": "tony.salazar@maritimeexchange.net",
+        "to": "brett.barrera@oceanictrades.com",
+        "subject": "Re: Fwd: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-11-28 16:02",
+        "body": "Dear Mr. Barrera,\n\nOwners have indicated best and final offer is EUR 45.90/MT, DAP Hindeloopen. Laycan 10-15 Dec firm. After 15th vessel has other commitments. Aaaa owners are willing to negotiate some minor details of contract.\n\nRegards,\nTony Salazar\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "brett.barrera@oceanictrades.com",
+        "to": "tony.salazar@maritimeexchange.net",
+        "subject": "Re: Fwd: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-12-01 09:20",
+        "body": "Dear Mr. Salazar,\n\nEUR 45.90/MT is acceptable. Please confirm subject stem and advise on next steps for documentation.\n\nBest regards,\nBrett Barrera\nOceanic Trades"
+      },
+      {
+        "from": "tony.salazar@maritimeexchange.net",
+        "to": "brett.barrera@oceanictrades.com",
+        "subject": "Re: Fwd: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-12-01 11:45",
+        "body": "Dear Mr. Barrera,\n\nConfirm subject to stem at Boston. I will forward the draft charter party agreement for your review shortly.\n\nRegards,\nTony Salazar\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "brett.barrera@oceanictrades.com",
+        "to": "tony.salazar@maritimeexchange.net",
+        "subject": "Re: Fwd: Charter Inquiry - Iron Ore - Boston to Hindeloopen",
+        "timestamp": "2008-12-01 15:30",
+        "body": "Dear Mr. Salazar,\n\nReceived, thank you. We look forward to reviewing it. \n\nBest regards,\nBrett Barrera\nOceanic Trades"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Iron Ore",
+      "load_port": "Boston",
+      "discharge_port": "Hindeloopen",
+      "cargo_size": "5468MT",
+      "incoterm": "DAP",
+      "vessel": "HL SALDANHA BAY",
+      "dwt": "179147",
+      "loa": "292",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "46.71",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "45.90",
+      "laytime_start_date": "2008-12-10",
+      "laytime_end_date": "2008-12-15",
+      "demurrage_currency": "USD",
+      "demurrage": "30000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "stephanie.marshall@globalmaritimebrokers.com",
+        "to": "julio.taylor@charterersunited.com",
+        "subject": "Wheat Freight Inquiry - Zhoushan to Moerdijk",
+        "timestamp": "2016-04-23 09:15",
+        "body": "Dear Mr. Taylor,\n\nFollowing up on our conversation, we have a suitable vessel, CARNIVAL CONQUEST (DWT 10,000), available for your Wheat shipment of approximately 3272MT from Zhoushan to Moerdijk under DAP terms. \n\nOur initial freight indication is USD 60.48 per metric ton. Please advise your interest.\n\nBest regards,\nStephanie Marshall\nGlobal Maritime Brokers\n"
+      },
+      {
+        "from": "julio.taylor@charterersunited.com",
+        "to": "stephanie.marshall@globalmaritimebrokers.com",
+        "subject": "Re: Wheat Freight Inquiry - Zhoushan to Moerdijk",
+        "timestamp": "2016-04-23 11:42",
+        "body": "Dear Ms. Marshall,\n\nThank you for the prompt reply. While we appreciate the offer, we were achieving rates closer to USD 57/MT for similar shipments on Panamax vessels in the recent past. Could you please review your pricing? \n\nWe are looking at a loading window between April 28th - 30th in Zhoushan.\n\nRegards,\nJulio Taylor\nCharterers United"
+      },
+      {
+        "from": "stephanie.marshall@globalmaritimebrokers.com",
+        "to": "julio.taylor@charterersunited.com",
+        "subject": "Re: Wheat Freight Inquiry - Zhoushan to Moerdijk",
+        "timestamp": "2016-04-23 14:58",
+        "body": "Dear Mr. Taylor,\n\nUnderstood. We have re-evaluated based on your feedback and can offer USD 58.50/MT for the CARNIVAL CONQUEST, basis DAP Moerdijk. Owners are firm at this level. Demurrage rate per day is $6,000. Please also note that the LOA is 290m.\n\nOws your prompt confirmation if interested.\n\nBest regards,\nStephanie Marshall\nGlobal Maritime Brokers\n\nDisclaimer: This email is for informational purposes only and does not constitute a binding offer. E&OE.\n"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Wheat",
+      "load_port": "Zhoushan",
+      "discharge_port": "Moerdijk",
+      "cargo_size": "3272MT",
+      "incoterm": "DAP",
+      "vessel": "CARNIVAL CONQUEST",
+      "dwt": "10000",
+      "loa": "290",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "60.48",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "58.50",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "$",
+      "demurrage": "6000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "albert.vazquez@oceanictrade.com",
+        "to": "austin.suarez@globalcharters.net",
+        "subject": "Iron Ore Freight Quote - Panama to Sharjah",
+        "timestamp": "2013-12-20 09:15",
+        "body": "Morning Austin,\n\nHope you're well.\n\nWe can offer the SG FOUNDATION (abt 180403 DWT, 295m LOA) for your 187 MT Iron Ore, Panama Canal to Sharjah, FOB.\n\nRate idea: EUR108.\n\nLaycan flexible, but prefer early Jan.\n\nLet me know your thoughts.\n\nBest,\nAlbert Vazquez\nOceanic Trade Services"
+      },
+      {
+        "from": "austin.suarez@globalcharters.net",
+        "to": "albert.vazquez@oceanictrade.com",
+        "subject": "Re: Iron Ore Freight Quote - Panama to Sharjah",
+        "timestamp": "2013-12-20 10:30",
+        "body": "Hi Albert,\n\nThanks for the quick reply. EUR108 seems a bit steep, considering it's a pretty short voyage. What's your best on this?\n\nRegards,\nAustin Suarez"
+      },
+      {
+        "from": "albert.vazquez@oceanictrade.com",
+        "to": "austin.suarez@globalcharters.net",
+        "subject": "Re: Iron Ore Freight Quote - Panama to Sharjah",
+        "timestamp": "2013-12-20 11:45",
+        "body": "Austin,\n\nUnderstood, but the demand is high this side. I can come down a tad to EUR106.5. That's as low as I can go, mate. Check the stems.\n\nCheers,\nAlbert"
+      },
+      {
+        "from": "austin.suarez@globalcharters.net",
+        "to": "albert.vazquez@oceanictrade.com",
+        "subject": "Re: Iron Ore Freight Quote - Panama to Sharjah",
+        "timestamp": "2013-12-20 13:00",
+        "body": "Albert,\n\nEUR 106.5 still feels a bit rich. Can you confirm the demurrage rate per day?\n\nBest,\nAustin"
+      },
+      {
+        "from": "albert.vazquez@oceanictrade.com",
+        "to": "austin.suarez@globalcharters.net",
+        "subject": "Re: Iron Ore Freight Quote - Panama to Sharjah",
+        "timestamp": "2013-12-20 14:15",
+        "body": "Austin,\n\nDemurrage is EUR 19500/day.\n\nListen, I'll do EUR 105 firm. That's my final offer.\n\nRegards,\nAlbert\nOceanic Trade Services"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "Iron Ore",
+      "load_port": "Panama Canal",
+      "discharge_port": "Sharjah",
+      "cargo_size": "187MT",
+      "incoterm": "FOB",
+      "vessel": "SG FOUNDATION",
+      "dwt": "180403",
+      "loa": "295",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "108",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "105",
+      "laytime_start_date": "",
+      "laytime_end_date": "",
+      "demurrage_currency": "EUR",
+      "demurrage": "19500"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "alfonso.gill@maritime-exchange.com",
+        "to": "shannon.torres@globaltrade.net",
+        "subject": "Cotton Freight Quote - False Creek to Port Everglades",
+        "timestamp": "2018-06-24 09:15",
+        "body": "Hi Shannon,\n\nHope you are well.\n\nI have a vessel open to move your 3910 MT Cotton from False Creek to Port Everglades under DAP terms. Vessel is MARAN THETIS.\n\nIndicative freight is \u20ac49/MT. Let me know what you think.\n\nRegards,\nAlfonso Gill\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "shannon.torres@globaltrade.net",
+        "to": "alfonso.gill@maritime-exchange.com",
+        "subject": "Re: Cotton Freight Quote - False Creek to Port Everglades",
+        "timestamp": "2018-06-24 10:30",
+        "body": "Alfonso,\n\nThanks for the quick response.\n\n\u20ac49 looks a bit high to me. Can you sharpen your pencil? We were hoping for something closer to \u20ac45/MT. Also, could you confirm the vessel's DWT and LOA? And what is the laycan?\n\nShannon Torres\nGlobal Trade"
+      },
+      {
+        "from": "alfonso.gill@maritime-exchange.com",
+        "to": "shannon.torres@globaltrade.net",
+        "subject": "Re: Cotton Freight Quote - False Creek to Port Everglades",
+        "timestamp": "2018-06-24 11:45",
+        "body": "Hi Shannon,\n\nOk, I see what I can do. The vessel MARAN THETIS has a DWT of 320105 and a LOA of 333m. Laycan is July 10-20. \n\nBest I can do now is \u20ac47/MT. This includes commission. Please note Port Everglades has draft restrictions so we are double checking terminal can accommodate this vessel. I am checking these restrictions against the sb capacity. Please provide terminal requirements asap.\n\nRgds,\nAlfonso"
+      },
+      {
+        "from": "shannon.torres@globaltrade.net",
+        "to": "alfonso.gill@maritime-exchange.com",
+        "subject": "Re: Cotton Freight Quote - False Creek to Port Everglades",
+        "timestamp": "2018-06-24 13:00",
+        "body": "Alfonso,\n\nThanks. Please proceed with checking on those terminal requirements. I'll check with our Port Everglades contacts to see if we can confirm on our end as well.\n\n\u20ac47/MT is still a bit rich for our blood, though. Can you confirm if this price is gtee ? If you can offer us$46 and make sure you get those terminal docs sorted, we are good to go.\n\nThanks,\nShannon"
+      },
+      {
+        "from": "alfonso.gill@maritime-exchange.com",
+        "to": "shannon.torres@globaltrade.net",
+        "subject": "Re: Cotton Freight Quote - False Creek to Port Everglades",
+        "timestamp": "2018-06-24 14:30",
+        "body": "Shannon,\n\nOK, us$46/MT its ok. Its gtee. \n\nTerminal say OK for vessel MARAN THETIS. No problems with LOA and Draft. We need stem details before confirming fully.\n\nKind Regards,\nAlfonso"
+      },
+      {
+        "from": "shannon.torres@globaltrade.net",
+        "to": "alfonso.gill@maritime-exchange.com",
+        "subject": "Re: Cotton Freight Quote - False Creek to Port Everglades - stem",
+        "timestamp": "2018-06-24 16:00",
+        "body": "Alfonso,\n\nGreat to hear. Stem confirmed from our end. Please proceed with fixtures. \n\nThanks,\nShannon"
+      },
+      {
+        "from": "alfonso.gill@maritime-exchange.com",
+        "to": "shannon.torres@globaltrade.net",
+        "subject": "Confirmed: Cotton - False Creek to Port Everglades",
+        "timestamp": "2018-06-25 08:00",
+        "body": "Shannon,\n\nGood morning. Vessel fixed for 3910 MT Cotton from False Creek to Port Everglades, DAP terms at usd 46/MT. Laycan July 10-20.\n\nFull recap to follow shortly.\n\nThanks,\nAlfonso"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Cotton",
+      "load_port": "False Creek",
+      "discharge_port": "Port Everglades",
+      "cargo_size": "3910MT",
+      "incoterm": "DAP",
+      "vessel": "MARAN THETIS",
+      "dwt": "320105",
+      "loa": "333m",
+      "starting_freight_quote_currency": "\u20ac",
+      "starting_freight_quote": "49",
+      "final_freight_quote_currency": "usd",
+      "final_freight_quote": "46",
+      "laytime_start_date": "July 10",
+      "laytime_end_date": "July 20",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "annie.baker@globaltrade.com",
+        "to": "jose.corona@maritime-exchange.com",
+        "subject": "Inquiry - Sugar Cartagena to Dubai",
+        "timestamp": "2006-02-07 09:15",
+        "body": "Dear Jose,\n\nWe are looking to ship about 11035MT of Sugar from Cartagena to Dubai, CFR terms. Could you please provide a quote?\n\nRegards,\nAnnie Baker"
+      },
+      {
+        "from": "jose.corona@maritime-exchange.com",
+        "to": "annie.baker@globaltrade.com",
+        "subject": "RE: Inquiry - Sugar Cartagena to Dubai",
+        "timestamp": "2006-02-07 10:22",
+        "body": "Annie,\n\nGood day. Yes, can do. AUD81.18 per MT. Vessel available is DIAMOND GAS ROSE (DWT: 94145, LOA: 294m). Pls advise.\n\nJose Corona\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "annie.baker@globaltrade.com",
+        "to": "jose.corona@maritime-exchange.com",
+        "subject": "Re: Inquiry - Sugar Cartagena to Dubai",
+        "timestamp": "2006-02-07 11:48",
+        "body": "Jose,\n\nThanks. Is it possible to load only a partial cargo? We might not fill the entire vessel. What will happen if we ship less sugar than the full capacity? \n\nAnnie"
+      },
+      {
+        "from": "jose.corona@maritime-exchange.com",
+        "to": "annie.baker@globaltrade.com",
+        "subject": "RE: Re: Inquiry - Sugar Cartagena to Dubai",
+        "timestamp": "2006-02-07 13:01",
+        "body": "Annie,\n\nUnderstand. Yes, partial cargo ok, but freight still same. We try find other cargo fill space. If cannot, demurrage is applied if delay load. Laycan is 15-20 Feb. \n\nJose"
+      },
+      {
+        "from": "annie.baker@globaltrade.com",
+        "to": "jose.corona@maritime-exchange.com",
+        "subject": "Re: Re: Inquiry - Sugar Cartagena to Dubai",
+        "timestamp": "2006-02-07 14:33",
+        "body": "Jose,\n\nAUD81.18 is a bit too high, my friend. Can you do AUD78.00? Laytime I\u2019d like to reduce it for about 2 days (max).\n\nAnnie"
+      },
+      {
+        "from": "jose.corona@maritime-exchange.com",
+        "to": "annie.baker@globaltrade.com",
+        "subject": "RE: Re: Inquiry - Sugar Cartagena to Dubai",
+        "timestamp": "2006-02-07 15:55",
+        "body": "Annie,\n\nOK, we meet in middle. AUD79.50. Demurrage is $18000 per day. If you agree stem now. \n\nRegards,\nJose"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Sugar",
+      "load_port": "Cartagena",
+      "discharge_port": "Dubai",
+      "cargo_size": "11035MT",
+      "incoterm": "CFR",
+      "vessel": "DIAMOND GAS ROSE",
+      "dwt": "94145",
+      "loa": "294m",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "81.18",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "79.50",
+      "laytime_start_date": "2006-02-15",
+      "laytime_end_date": "2006-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "18000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "margaret.tapia@globalmaritimebrokers.com",
+        "to": "tammy.williams@charterco.net",
+        "subject": "Initial Quote: Rice Shipment - Caofeidian to Liuheng",
+        "timestamp": "2019-06-16 09:15",
+        "body": "Dear Tammy,\n\nFollowing your inquiry, we are pleased to offer the MAASTRICHT MAERSK for your Rice shipment from Caofeidian Anch to Liuheng.\n\nIndicative freight: AUD33.66/MT, CIF terms, basis 5310 MT.\n\nPlease advise your interest.\n\nBest regards,\nMargaret Tapia\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "tammy.williams@charterco.net",
+        "to": "margaret.tapia@globalmaritimebrokers.com",
+        "subject": "Re: Initial Quote: Rice Shipment - Caofeidian to Liuheng",
+        "timestamp": "2019-06-16 10:02",
+        "body": "Dear Margaret,\n\nThanks for the prompt reply. \n\nCan you please confirm the laycan and demurrage rate per day for the MAASTRICHT MAERSK? Also, are there any restrictions on the loading window?\n\nRegards,\nTammy Williams"
+      },
+      {
+        "from": "margaret.tapia@globalmaritimebrokers.com",
+        "to": "tammy.williams@charterco.net",
+        "subject": "Re: Initial Quote: Rice Shipment - Caofeidian to Liuheng",
+        "timestamp": "2019-06-16 11:30",
+        "body": "Dear Tammy,\n\nLaycan is June 28 - July 2. Demurrage rate is USD 18,500/day pro rata. The vessel will require a standard loading window of 72 hours. \n\nPlease note that our AUD33.66/MT is cfr Liuheng. Our apologies for the oversight.\n\nRegards,\nMargaret Tapia\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "tammy.williams@charterco.net",
+        "to": "margaret.tapia@globalmaritimebrokers.com",
+        "subject": "Re: Initial Quote: Rice Shipment - Caofeidian to Liuheng",
+        "timestamp": "2019-06-16 13:15",
+        "body": "Margaret,\n\n$33.66 is too high. Can you do better? We're looking at AUD27.00/MT. \n\nTammy"
+      },
+      {
+        "from": "margaret.tapia@globalmaritimebrokers.com",
+        "to": "tammy.williams@charterco.net",
+        "subject": "Re: Initial Quote: Rice Shipment - Caofeidian to Liuheng",
+        "timestamp": "2019-06-16 14:45",
+        "body": "Dear Tammy,\n\nAUD27.00/MT is quite aggressive. Let me check with Owners. \n\nI'll revert shortly.\n\nRegards,\nMargaret Tapia\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "margaret.tapia@globalmaritimebrokers.com",
+        "to": "tammy.williams@charterco.net",
+        "subject": "Re: Initial Quote: Rice Shipment - Caofeidian to Liuheng",
+        "timestamp": "2019-06-16 16:00",
+        "body": "Dear Tammy,\n\nWe can meet you at AUD28.50/MT, cfr Liuheng, for the 5310 MT Rice cargo. Laycan June 28 - July 2, demurrage at USD 18,500/day pro rata. Subject stem.\n\nRegards,\nMargaret Tapia\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "tammy.williams@charterco.net",
+        "to": "margaret.tapia@globalmaritimebrokers.com",
+        "subject": "Re: Initial Quote: Rice Shipment - Caofeidian to Liuheng",
+        "timestamp": "2019-06-17 08:30",
+        "body": "Margaret,\n\nConfirmed. AUD28.50/MT, cfr Liuheng. Subject stem lifted. Please send recap.\n\nThanks,\nTammy Williams"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Rice",
+      "load_port": "Caofeidian Anch",
+      "discharge_port": "Liuheng",
+      "cargo_size": "5310MT",
+      "incoterm": "CIF",
+      "vessel": "MAASTRICHT MAERSK",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "33.66",
+      "final_freight_quote_currency": "AUD",
+      "final_freight_quote": "28.50",
+      "laytime_start_date": "June 28",
+      "laytime_end_date": "July 2",
+      "demurrage_currency": "USD",
+      "demurrage": "18500"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "jane.richardson@globalmaritimebrokers.com",
+        "to": "mayra.reddy@reddybulk.com",
+        "subject": "Freight Quote: Sugar - Ningbo to Fujairah",
+        "timestamp": "2017-11-28 09:30",
+        "body": "Dear Mayra,\n\nGood morning.\n\nPlease find our firm offer for the subject voyage as follows:\n\nCommodity: Sugar\nLoad Port: Ningbo\nDischarge Port: Fujairah\nCargo Size: 4951 MT\nIncoterm: DAP\nVessel: CARNIVAL CONQUEST (DWT 10000)\nFreight: USD 68/MT\n\nLaycan: Dec 15-20, 2017\n\nPlease advise if you have any questions.\n\nBest regards,\nJane Richardson\nGlobal Maritime Brokers"
+      },
+      {
+        "from": "mayra.reddy@reddybulk.com",
+        "to": "jane.richardson@globalmaritimebrokers.com",
+        "subject": "Re: Freight Quote: Sugar - Ningbo to Fujairah",
+        "timestamp": "2017-11-28 11:15",
+        "body": "Dear Jane,\n\nThanks for the prompt response. \n\nRegarding cargo handling, it is very straightforward. No special equipment needed at either end. Given the simplified ops, can you revise your freight quote downwards?\n\nAlso, can you confirm the LOA of the vessel?\n\nRegards,\nMayra Reddy"
+      },
+      {
+        "from": "jane.richardson@globalmaritimebrokers.com",
+        "to": "mayra.reddy@reddybulk.com",
+        "subject": "Re: Freight Quote: Sugar - Ningbo to Fujairah",
+        "timestamp": "2017-11-28 12:30",
+        "body": "Dear Mayra,\n\nThanks for your reply.\n\nYes, given the simplified handling, we can revise the freight to USD 66/MT. The LOA of the vessel is 290m. Demurrage rate is $5,000/day.\n\nLet me know what you think.\n\nBest,\nJane Richardson"
+      },
+      {
+        "from": "mayra.reddy@reddybulk.com",
+        "to": "jane.richardson@globalmaritimebrokers.com",
+        "subject": "Re: Freight Quote: Sugar - Ningbo to Fujairah",
+        "timestamp": "2017-11-29 08:45",
+        "body": "Jane,\n\nUSD 66 is still a bit high for us. Considering the current market, we are looking at something closer to USD 64/MT. Can you work with that?\n\nWhat is the loading window (stem) availability?\n\nRegards,\nMayra"
+      },
+      {
+        "from": "jane.richardson@globalmaritimebrokers.com",
+        "to": "mayra.reddy@reddybulk.com",
+        "subject": "Re: Freight Quote: Sugar - Ningbo to Fujairah",
+        "timestamp": "2017-11-29 10:00",
+        "body": "Dear Mayra,\n\nOkay, we can agree at USD 64.5/MT. Our best and final.\n\nStem availability confirms loading window is open during the laycan.\n\nLet me know if this works for you. Thanks.\n\nBest regards,\nJane Richardson"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Sugar",
+      "load_port": "Ningbo",
+      "discharge_port": "Fujairah",
+      "cargo_size": "4951MT",
+      "incoterm": "DAP",
+      "vessel": "CARNIVAL CONQUEST",
+      "dwt": "10000",
+      "loa": "290m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "68",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "64.5",
+      "laytime_start_date": "Dec 15, 2017",
+      "laytime_end_date": "Dec 20, 2017",
+      "demurrage_currency": "$",
+      "demurrage": "5000"
+    }
+  }
+]

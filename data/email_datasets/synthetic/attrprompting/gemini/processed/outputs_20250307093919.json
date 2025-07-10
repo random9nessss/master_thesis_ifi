@@ -1,0 +1,292 @@
+[
+  {
+    "email_chain": [
+      {
+        "from": "amber.payne@globalmaritimebrokers.com",
+        "to": "joel.daniel@charterco.net",
+        "subject": "Spot Voyage - Wheat Ningde Anch to Port Harcourt - Initial Offer",
+        "timestamp": "2020-07-27 09:15",
+        "body": "Dear Joel,\n\nHope you are well.\n\nWe have a firm offer for your consideration:\n\nCommodity: Wheat\nLoad Port: Ningde Anch\nDischarge Port: Port Harcourt\nCargo Size: 3543MT\nIncoterm: CFR\n\nVessel: MAERSK ESSEN\n\nFreight indication: AUD32/MT, CFR basis, Port Harcourt.\n\nOwners keen to fix prompt. Laycan flexible, please advise your target window. Demurrage rate USD 15,000 per day pro rata.\n\nPlease advise if of interest. \n\nBest regards,\n\nAmber Payne\nGlobal Maritime Brokers\n"
+      },
+      {
+        "from": "joel.daniel@charterco.net",
+        "to": "amber.payne@globalmaritimebrokers.com",
+        "subject": "Re: Spot Voyage - Wheat Ningde Anch to Port Harcourt - Initial Offer",
+        "timestamp": "2020-07-27 11:42",
+        "body": "Dear Amber,\n\nThanks for the offer.\n\nAUD32 looks a bit high for the current market. Can you check if owners might be willing to come down a bit? Our target laycan is 10-15 August.\n\nAlso, can you confirm the MAERSK ESSEN's grain capacity and LOA? \n\nRegards,\n\nJoel Daniel\nCharterCo"
+      },
+      {
+        "from": "amber.payne@globalmaritimebrokers.com",
+        "to": "joel.daniel@charterco.net",
+        "subject": "Re: Spot Voyage - Wheat Ningde Anch to Port Harcourt - Initial Offer",
+        "timestamp": "2020-07-27 14:30",
+        "body": "Dear Joel,\n\nConfirmed. Maersk Essen LOA 366m. Grain capacity appx 3600MT. \n\nI've spoken with owners. They are holding firm on AUD32. They noted the current WLTOHC rate is driving prices up a bit.\n\nBest regards,\n\nAmber Payne\nGlobal Maritime Brokers"
+      }
+    ],
+    "labels": {
+      "broker": "Global Maritime Brokers",
+      "commodity": "Wheat",
+      "load_port": "Ningde Anch",
+      "discharge_port": "Port Harcourt",
+      "cargo_size": "3543MT",
+      "incoterm": "CFR",
+      "vessel": "MAERSK ESSEN",
+      "dwt": "",
+      "loa": "366m",
+      "starting_freight_quote_currency": "AUD",
+      "starting_freight_quote": "32",
+      "final_freight_quote_currency": "",
+      "final_freight_quote": "",
+      "laytime_start_date": "2020-08-10",
+      "laytime_end_date": "2020-08-15",
+      "demurrage_currency": "USD",
+      "demurrage": "15000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Ismael.Rose@maritimeexchange.com",
+        "to": "Ana.Lara@globemaritime.net",
+        "subject": "Lanshan/Enkhuizen - Soybeans - Spot Offer",
+        "timestamp": "2015-04-15 09:15",
+        "body": "Dear Ana,\n\nOws following spot fixture for Soybeans:\n\nLoad Port: Lanshan Anch\nDischarge Port: Enkhuizen\nCargo Size: 8792 MT\nCommodity: Soybeans\nIncoterm: DAP\n\nFreight indication: \u20ac81/MT\n\nBest regards,\nIsmael Rose\nMaritime Exchange Ltd."
+      },
+      {
+        "from": "Ana.Lara@globemaritime.net",
+        "to": "Ismael.Rose@maritimeexchange.com",
+        "subject": "Re: Lanshan/Enkhuizen - Soybeans - Spot Offer",
+        "timestamp": "2015-04-15 10:02",
+        "body": "Hi Ismael,\n\nThanks for the offer.\n\nCan you confirm the vessel, and its DWT please?\nAlso, any idea on laycan dates?\n\nRegarding rate. we are looking more at \u20ac78/mt. Any chance?\n\nBest,\nAna Lara"
+      },
+      {
+        "from": "Ismael.Rose@maritimeexchange.com",
+        "to": "Ana.Lara@globemaritime.net",
+        "subject": "Re: Lanshan/Enkhuizen - Soybeans - Spot Offer",
+        "timestamp": "2015-04-15 10:48",
+        "body": "Ana,\n\nVessel is mv MINERAL YANGFAN (DWT 206392). Laycan 25-29 April. \n\nWill check on EUR 78.00. Will revert shortly..\n\nRegards,\nIsmael"
+      },
+      {
+        "from": "Ismael.Rose@maritimeexchange.com",
+        "to": "Ana.Lara@globemaritime.net",
+        "subject": "Re: Lanshan/Enkhuizen - Soybeans - Spot Offer",
+        "timestamp": "2015-04-15 11:32",
+        "body": "Ana,\n\nBroker can accept eur 79.5/mt basis daps Enkhuizen. Owners very firm.\n\nRgds.\nIsmael"
+      },
+      {
+        "from": "Ana.Lara@globemaritime.net",
+        "to": "Ismael.Rose@maritimeexchange.com",
+        "subject": "Re: Lanshan/Enkhuizen - Soybeans - Spot Offer",
+        "timestamp": "2015-04-15 12:05",
+        "body": "Ismael.\n\nOkay. EUR 79.5 it is. Can you send recap with all details including demurrage rate /day? \n\nThanks,\nAna"
+      },
+      {
+        "from": "Ismael.Rose@maritimeexchange.com",
+        "to": "Ana.Lara@globemaritime.net",
+        "subject": "RE: Lanshan/Enkhuizen - Soybeans - Spot Offer - Recap",
+        "timestamp": "2015-04-15 12:47",
+        "body": "Dear Ana,\n\nAs agreed, recap below:\n\nVessel: MINERAL YANGFAN\nCommodity: Soybeans\nLoad Port: Lanshan Anch\nDischarge Port: Enkhuizen\nCargo Size: 8792 MT\nIncoterm: DAP\nLaycan: 25-29 April\nFreight: EUR 79.5/MT\nDemurrage: EUR 25000/day.\n\nPlease confirm asap, ows.\n\nBest regards,\nIsmael Rose\nMaritime Exchange Ltd. \n\n(Disclaimer: This email is for information only. Subject to details and recap.)"
+      }
+    ],
+    "labels": {
+      "broker": "Maritime Exchange Ltd.",
+      "commodity": "Soybeans",
+      "load_port": "Lanshan Anch",
+      "discharge_port": "Enkhuizen",
+      "cargo_size": "8792MT",
+      "incoterm": "DAP",
+      "vessel": "MINERAL YANGFAN",
+      "dwt": "206392",
+      "loa": "",
+      "starting_freight_quote_currency": "\u20ac",
+      "starting_freight_quote": "81",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "79.5",
+      "laytime_start_date": "2015-04-25",
+      "laytime_end_date": "2015-04-29",
+      "demurrage_currency": "EUR",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "steve.kennedy@seawaybrokers.com",
+        "to": "cecilia.mason@globexshipping.net",
+        "subject": "Iron Ore - Liverpool/Jiangyin Anch",
+        "timestamp": "07/28/2017 09:15",
+        "body": "Dear Cecilia,\n\nPlsd to offer firm for Iron Ore, Liverpool to Jiangyin Anch.\n\nCargo: 6438 MT, CFR.\n\nVessel: UMM AL ASHTAN\n\nFreight indication: low 50s USD.\n\nBest regards,\nSteve Kennedy\nSeaway Commercial Brokers"
+      },
+      {
+        "from": "cecilia.mason@globexshipping.net",
+        "to": "steve.kennedy@seawaybrokers.com",
+        "subject": "Re: Iron Ore - Liverpool/Jiangyin Anch",
+        "timestamp": "07/28/2017 10:22",
+        "body": "Hi Steve,\n\nThanks for the offer. Could you please confirm the vessel's build year? We are a bit concerned about the age.\n\nCecilia Mason\nGlobex Shipping"
+      },
+      {
+        "from": "steve.kennedy@seawaybrokers.com",
+        "to": "cecilia.mason@globexshipping.net",
+        "subject": "Re: Iron Ore - Liverpool/Jiangyin Anch",
+        "timestamp": "07/28/2017 11:01",
+        "body": "Cecilia,\n\nVessel built 2000. Can also offer MV Pacific Dawn, built 2010, same specs. Freight indication mid 50s usd. \n\nRegards,\nSteve"
+      },
+      {
+        "from": "cecilia.mason@globexshipping.net",
+        "to": "steve.kennedy@seawaybrokers.com",
+        "subject": "Re: Iron Ore - Liverpool/Jiangyin Anch",
+        "timestamp": "07/28/2017 13:30",
+        "body": "Steve,\n\nThanks. Pacific Dawn looks better. What are the laycan dates and demurrage rate?\n\nCecilia"
+      },
+      {
+        "from": "steve.kennedy@seawaybrokers.com",
+        "to": "cecilia.mason@globexshipping.net",
+        "subject": "Re: Iron Ore - Liverpool/Jiangyin Anch",
+        "timestamp": "07/28/2017 14:15",
+        "body": "Cecilia,\n\nLaycan: Aug 10-20. Demurrage $25,000/day.\n\nRgds,\nSK"
+      },
+      {
+        "from": "cecilia.mason@globexshipping.net",
+        "to": "steve.kennedy@seawaybrokers.com",
+        "subject": "Re: Iron Ore - Liverpool/Jiangyin Anch",
+        "timestamp": "07/28/2017 16:00",
+        "body": "Steve,\n\nThat's a bit high. Can you do $54/mt for Pacific Dawn?\n\nCecilia"
+      },
+      {
+        "from": "steve.kennedy@seawaybrokers.com",
+        "to": "cecilia.mason@globexshipping.net",
+        "subject": "Re: Iron Ore - Liverpool/Jiangyin Anch",
+        "timestamp": "07/28/2017 16:45",
+        "body": "Cecilia,\n\nAgreed. $54/mt CFR Jiangyin Anch. Subjects stem approval.\n\nRegards,\nSteve"
+      }
+    ],
+    "labels": {
+      "broker": "Seaway Commercial Brokers",
+      "commodity": "Iron Ore",
+      "load_port": "Liverpool",
+      "discharge_port": "Jiangyin Anch",
+      "cargo_size": "6438MT",
+      "incoterm": "CFR",
+      "vessel": "PACIFIC DAWN",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "low 50s",
+      "final_freight_quote_currency": "$",
+      "final_freight_quote": "54",
+      "laytime_start_date": "Aug 10",
+      "laytime_end_date": "Aug 20",
+      "demurrage_currency": "$",
+      "demurrage": "25000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "katie.romero@andersonshipping.com",
+        "to": "matt.orozco@globaltrade.com",
+        "subject": "Palm Oil Freight Inquiry - Chek Lap Kok to Recalada",
+        "timestamp": "2010-08-26 09:15",
+        "body": "Dear Mr. Orozco,\n\nFollowing our telephone conversation, please find our initial freight indication for the carriage of approximately 919 MT of Palm Oil, FOB Chek Lap Kok to Recalada:\n\nBasis:\nCommodity: Palm Oil\nQuantity: 919 MT\nLoading Port: Chek Lap Kok\nDischarge Port: Recalada\nIncoterm: FOB\nVessel: spot vessel\nFreight: EUR 102/MT\n\nPlease advise your interest. \n\nBest Regards,\nKatie Romero\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "matt.orozco@globaltrade.com",
+        "to": "katie.romero@andersonshipping.com",
+        "subject": "Re: Palm Oil Freight Inquiry - Chek Lap Kok to Recalada",
+        "timestamp": "2010-08-26 11:22",
+        "body": "Dear Ms. Romero,\n\nThank you for the prompt response. EUR 102/MT is a bit high for the current market. Can you sharpen your pencil? Also, can you confirm that the port of Recalada can accommodate a vessel of around 399m LOA and 190326 DWT?\n\nRegards,\nMatt Orozco"
+      },
+      {
+        "from": "katie.romero@andersonshipping.com",
+        "to": "matt.orozco@globaltrade.com",
+        "subject": "Re: Palm Oil Freight Inquiry - Chek Lap Kok to Recalada",
+        "timestamp": "2010-08-26 12:58",
+        "body": "Dear Mr. Orozco,\n\nThank you for your quick reply. We are checking with owners about vessel accommodations at Recalada. Please note that due to draft restrictions, discharge might require lightening or STS operations. I will revert shortly with confirmation.\nRegarding the freight, we can offer EUR 99/MT, wltohc. That's our best level at this stage.\n\nBest Regards,\nKatie Romero\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "matt.orozco@globaltrade.com",
+        "to": "katie.romero@andersonshipping.com",
+        "subject": "Re: Palm Oil Freight Inquiry - Chek Lap Kok to Recalada",
+        "timestamp": "2010-08-27 08:45",
+        "body": "Dear Ms. Romero,\n\nEUR 99/MT is better. Can you confirm availability on the MAASTRICHT MAERSK? Also, please clarify laycan and demurrage rate per day.\n\nRegards,\nMatt Orozco"
+      },
+      {
+        "from": "katie.romero@andersonshipping.com",
+        "to": "matt.orozco@globaltrade.com",
+        "subject": "Re: Palm Oil Freight Inquiry - Chek Lap Kok to Recalada",
+        "timestamp": "2010-08-27 10:02",
+        "body": "Dear Mr. Orozco,\n\nMAASTRICHT MAERSK can be fixed. Laycan is September 8-12. Demurrage rate is USD 18,500/day pro-rata. Recalada confirms restrictions. Discharge may require lighterage or STS operations. Please confirm acceptance.\nFreight: EUR 99/MT, cp details to follow upon confirmation. \n\nBest Regards,\nKatie Romero\nAnderson Shipping Brokers"
+      },
+      {
+        "from": "matt.orozco@globaltrade.com",
+        "to": "katie.romero@andersonshipping.com",
+        "subject": "Confirmed: Palm Oil Freight - Chek Lap Kok to Recalada - MAASTRICHT MAERSK",
+        "timestamp": "2010-08-27 11:30",
+        "body": "Dear Ms. Romero,\n\nConfirmed. Please proceed with cp. Thank you.\n\nRegards,\nMatt Orozco"
+      }
+    ],
+    "labels": {
+      "broker": "Anderson Shipping Brokers",
+      "commodity": "Palm Oil",
+      "load_port": "Chek Lap Kok",
+      "discharge_port": "Recalada",
+      "cargo_size": "919MT",
+      "incoterm": "FOB",
+      "vessel": "MAASTRICHT MAERSK",
+      "dwt": "190326",
+      "loa": "399",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "102",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "99",
+      "laytime_start_date": "September 8",
+      "laytime_end_date": "September 12",
+      "demurrage_currency": "USD",
+      "demurrage": "18500"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "enrique.aguilar@oceanictradeservices.com",
+        "to": "kristen.meyer@globalenergycorp.com",
+        "subject": "LNG Freight Quote - St Petersburg to Penglai",
+        "timestamp": "05/03/2017 09:15",
+        "body": "Colleagues,\n\nGood morning, I hope all is well.\n\nPlease find attached a freight quote for LNG, St Petersburg to Penglai, DAP basis. Cargo size 7380MT.\n\nFreight: EUR55.30/MT.\n\nBest regards,\n\nEnrique Aguilar\nOceanic Trade Services"
+      },
+      {
+        "from": "kristen.meyer@globalenergycorp.com",
+        "to": "enrique.aguilar@oceanictradeservices.com",
+        "subject": "Re: LNG Freight Quote - St Petersburg to Penglai",
+        "timestamp": "05/03/2017 11:42",
+        "body": "Enrique,\n\nThanks for the quick reply.\n\nWe are revising our incoterms to FOB St Petersburg. Can you update the quote accordingly, including any impact on laycan and demurrage? Also, could you clarify the vessel details?\n\nRegards,\nKristen Meyer\nGlobal Energy Corp."
+      },
+      {
+        "from": "enrique.aguilar@oceanictradeservices.com",
+        "to": "kristen.meyer@globalenergycorp.com",
+        "subject": "Re: LNG Freight Quote - St Petersburg to Penglai",
+        "timestamp": "05/03/2017 14:58",
+        "body": "Kristen,\n\nUnderstood, FOB St Petersburg now.\n\nRecap: LNG, 7380MT, St Petersburg (FOB) to Penglai. Laycan 15-25 March (dates subject to stem availability at loading port).\n\nVessel: DHT OPAL (DWT 320105 / LOA 333m) is ncb for your cargo.\n\nRevised freight quote: EUR 52.80/MT. Demurrage: EUR 35000/day pro rata.\n\nLet me know if this is go.\n\nRegards,\nEnrique Aguilar\nOceanic Trade Services"
+      }
+    ],
+    "labels": {
+      "broker": "Oceanic Trade Services",
+      "commodity": "LNG",
+      "load_port": "St Petersburg",
+      "discharge_port": "Penglai",
+      "cargo_size": "7380MT",
+      "incoterm": "FOB",
+      "vessel": "DHT OPAL",
+      "dwt": "320105",
+      "loa": "333m",
+      "starting_freight_quote_currency": "EUR",
+      "starting_freight_quote": "55.30",
+      "final_freight_quote_currency": "EUR",
+      "final_freight_quote": "52.80",
+      "laytime_start_date": "15/03/2017",
+      "laytime_end_date": "25/03/2017",
+      "demurrage_currency": "EUR",
+      "demurrage": "35000"
+    }
+  }
+]
