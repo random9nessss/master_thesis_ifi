@@ -181,7 +181,4 @@ cython_debug/
 logs/
 
 ENV.txt
-models/*
-!models/.gitkeep
-
 data/email_datasets/enron/enron_processed.csv
