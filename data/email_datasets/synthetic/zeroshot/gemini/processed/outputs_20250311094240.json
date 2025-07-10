@@ -1,0 +1,3602 @@
+[
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Good morning John,\n\nHope you're having a good week. \n\nWe have a prompt vessel open in Basrah, Iraq, ready to load crude oil to Rotterdam. Can you advise if you have any cargoes needing movement?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nYes, we do have a cargo of around 130,000 MT of crude from Basrah to Rotterdam, Laycan Feb 10-15. What's your best offer?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 12:00",
+        "body": "Hi John,\n\nThanks for the quick reply. We can offer the M/T 'Ocean Star', DWT 150,000, LOA 270m, on subjects to shippers approval. Our initial offer is USD 52.50/MT, FIOST basis, Demurrage USD 40,000/day.\n\nLet me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 14:30",
+        "body": "Sarah,\n\nThanks. USD 52.50 is a bit high for current market levels. Can you come down to low 50s? Say, USD 50.50?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 16:00",
+        "body": "Hi John,\n\nLet me speak with owners. The best I can do at the moment is USD 51.25/MT. It's a tight market at the moment.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 09:00",
+        "body": "Sarah,\n\nUSD 51.25 is still a bit rich. We are targeting USD 50.75/MT. Can you meet us in the middle?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 10:30",
+        "body": "Hi John,\n\nOkay, I've spoken with the owners, and they agree to USD 50.75/MT. Subject to shippers approval within 24 hours.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FIOST",
+      "vessel": "Ocean Star",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-02-10",
+      "laytime_end_date": "2024-02-15",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T09:30:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a VLCC opening ex-Basrah, dates looking around Feb 15-20 laycan, destination Rotterdam. Cargo size is 270,000 MT crude. What are your thoughts on this opportunity?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T11:00:00",
+        "body": "Hi Sarah,\n\nThanks for the offer. We're interested. Can you give me an indication on freight levels? We're thinking something in the low 50s, Worldscale flat.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T12:30:00",
+        "body": "John,\n\nThanks for the prompt response. Owners are initially looking for W55 for this voyage. We may be able to shave a bit off, but need to confirm. Vessel details: DWT 318,000 MT, LOA 333 meters, built 2012. \"Ocean Titan\".\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T14:00:00",
+        "body": "Sarah,\n\nW55 is a bit too high for us. Given the current market, we're still targeting something in the low 50s. Can you push them a bit? We're ready to commit if we can get closer to our target.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T16:00:00",
+        "body": "John,\n\nJust spoke with Owners. Best they can do at the moment is W53.5, basis standard Shell Vetting clause and 72 hours SHINC laytime, demurrage USD 65,000/day. Let me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T17:30:00",
+        "body": "Sarah,\n\nOkay, we can agree to W53.5. Please send over the recap for confirmation. We'll need to confirm vetting and paperwork before final sign-off.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "CONFIRMED: Crude Oil - Basrah to Rotterdam - Ocean Titan",
+        "timestamp": "2024-01-26T18:00:00",
+        "body": "John,\n\nGreat news! Recap sent separately. Let me know if you have any questions.\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "270000 MT",
+      "incoterm": "",
+      "vessel": "Ocean Titan",
+      "dwt": "318000 MT",
+      "loa": "333 meters",
+      "starting_freight_quote_currency": "Worldscale",
+      "starting_freight_quote": "55",
+      "final_freight_quote_currency": "Worldscale",
+      "final_freight_quote": "53.5",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "65000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 09:00:00",
+        "body": "Good morning John,\n\nHope you're well.\n\nWe have a client looking to move a full cargo of crude oil from the Arabian Gulf to Rotterdam, prompt dates. Cargo size around 130,000 MT. \n\nAny suitable tonnage available from your end? Please advise on laycan and your best freight idea.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 11:30:00",
+        "body": "Hi Sarah,\n\nThanks for the inquiry. I have the 'MT Falcon' available, DWT 150,000, LOA 270m. Laycan Oct 30 - Nov 3. \n\nFreight idea would be in the low 50s, USD per MT, basis W/S flat, FIOST terms. Let me know what you think.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 14:00:00",
+        "body": "Hi John,\n\nThanks for the prompt response. The laycan works well. My client is thinking more in the high 40s. Can you work with that?\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 08:00:00",
+        "body": "Good morning Sarah,\n\nI can meet you halfway at USD 50.00/MT. That's my best offer for now, given the market.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 10:30:00",
+        "body": "Hi John,\n\nJust spoke with my client. They're happy to agree to USD 50.00/MT. Can we confirm demurrage at USD 40,000 per day, pro rata?\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 12:00:00",
+        "body": "Hi Sarah,\n\nUSD 40,000 per day demurrage is agreed. Let's proceed with subjects lifted. I'll send over the recap.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 14:00:00",
+        "body": "Hi John,\n\nExcellent. Subjects lifted on our end. Thanks for the smooth negotiation!\n\nRegards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FIOST",
+      "vessel": "MT Falcon",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.00",
+      "laytime_start_date": "2024-10-30",
+      "laytime_end_date": "2024-11-03",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T09:00:00",
+        "body": "Good morning John,\n\nHope you're well. I have a suitable vessel, the 'Ocean Titan' (DWT 150,000, LOA 270m), available for a crude oil shipment from Basrah to Rotterdam. Cargo size approx. 130,000 MT. Laycan Feb 15-20.\n\nPlease advise if this is of interest.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T10:30:00",
+        "body": "Hi Sarah,\n\nThanks for the swift reply. Yes, this is something we're actively looking at. What's your initial freight rate indication?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T12:00:00",
+        "body": "Hi John,\n\nBased on current market conditions, we're looking at USD 52.50 per MT, basis FOB Basrah / CIF Rotterdam. All other terms as per standard charter party.\n\nLet me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T14:00:00",
+        "body": "Sarah,\n\nUSD 52.50 is a bit rich for our blood. We were hoping for something closer to the low 50s. Can you sharpen your pencil?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27T09:30:00",
+        "body": "Hi John,\n\nSpoke with the Owners. Best we can do is USD 51.75 per MT. Also, demurrage is USD 45,000/day.\n\nLet me know if this works for you.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27T11:00:00",
+        "body": "Sarah,\n\nOkay, we can agree to USD 51.75. Can you confirm the laytime for loading/discharging? We'd like to have 72 hours all purposes.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam - CONFIRMED",
+        "timestamp": "2024-01-27T12:30:00",
+        "body": "Hi John,\n\nConfirmed! USD 51.75 per MT, 72 hours all purposes laytime, demurrage USD 45,000/day, laycan Feb 15-20, FOB Basrah/CIF Rotterdam, basis usual charter party terms. I'll draw up the recap.\n\nThanks for the business!\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FOB Basrah / CIF Rotterdam",
+      "vessel": "Ocean Titan",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "51.75",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T09:00:00",
+        "body": "Good morning John,\n\nHope you're having a good week. \n\nFollowing our call, I have a vessel open for a crude oil cargo from Basrah, Iraq to Rotterdam, Netherlands. Vessel details below.\n\nVessel: MT Phoenix\nDWT: 115,000 MT\nLaycan: Feb 10-15\n\nOwners are looking at low 50s USD/MT. Let me know your thoughts.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T11:30:00",
+        "body": "Hi Sarah,\n\nThanks for the quick response. Low 50s is a bit rich for our blood at the moment. Market is softer than that. We're looking at something closer to $48/MT. What's the best you can do?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26T14:00:00",
+        "body": "Hi John,\n\nSpoke with Owners. They've come down a bit. Best they can do is $49.50/MT. It includes 36 hours laytime SHINC at each port and standard demurrage of $35,000/day.\n\nLet me know.\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27T08:00:00",
+        "body": "Sarah,\n\n$49.50 still a little high, but we are getting closer. Could you check if they can meet us at $49/MT? We are also looking for a laytime of 48 hours SHINC at each port to account for potential delays.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27T10:30:00",
+        "body": "John,\n\nManaged to squeeze Owners. They've agreed to $49/MT and 48 hours laytime SHINC at each port.\n\nLet me know if you are happy to proceed. We can then move to subjects lifted.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27T12:00:00",
+        "body": "Sarah,\n\nGreat! $49/MT with 48 hours laytime is acceptable. Let's proceed. Please send over the recap.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27T13:00:00",
+        "body": "John,\n\nExcellent! Recap attached. Please confirm all details and let me know when subjects are lifted. Good doing business with you.\n\nRegards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "",
+      "incoterm": "",
+      "vessel": "MT Phoenix",
+      "dwt": "115000",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49",
+      "laytime_start_date": "Feb 10",
+      "laytime_end_date": "Feb 15",
+      "demurrage_currency": "USD",
+      "demurrage": "35000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Hi John,\n\nHope you're having a good week.\n\nWe have a vessel open in the AG looking for a cargo of crude, Basrah to Rotterdam, Laycan Nov 5-7. Size is around 130,000 MT.\n\nAny interest?\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 10:30",
+        "body": "Hi Sarah,\n\nGood to hear from you. We do have a cargo fitting that description.\n\nWhat's your initial indication?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 11:45",
+        "body": "Hi John,\n\nOwners are looking for USD 52.50 pmt, basis 72 hours SSHINC Demurrage USD 45,000 pd.\n\nLet me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 08:15",
+        "body": "Sarah,\n\nThanks. That's a bit rich for us. We're seeing the market closer to low 50s. Counter at USD 50.75 pmt.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 09:30",
+        "body": "Hi John,\n\nThanks for the quick reply. I pushed back to owners, best they can do is USD 51.50 pmt. Can you meet me in the middle?\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 10:45",
+        "body": "Sarah,\n\nLet's call it USD 51.25 pmt. But we need to firm up the laycan to Nov 6-8. Can you confirm vessel details?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 11:30",
+        "body": "John,\n\nConfirmed on USD 51.25 pmt, Laycan Nov 6-8. Vessel is MT 'Ocean Voyager', DWT 150,000, LOA 274m. All other terms as previously discussed.\n\nConsider this agreed.\n\nThanks,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "Ocean Voyager",
+      "dwt": "150000",
+      "loa": "274",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "51.25",
+      "laytime_start_date": "2024-11-06",
+      "laytime_end_date": "2024-11-08",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Good morning John,\n\nHope you're well. \n\nWe have a VLCC available for a crude oil shipment from the Arabian Gulf to Rotterdam. Vessel details and specs are available upon request. Laycan is flexible, around Nov 15-20. What kind of rates are you seeing in the market?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the quick response. We are indeed looking to move a full cargo of crude (approx. 270,000 MT) from Ras Tanura to Rotterdam. We're seeing rates in the low 50s per ton.\n\nLet me know the vessel's specifics and your firm offer. Laycan of Nov 15-20 looks good.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 11:45",
+        "body": "Hi John,\n\nVessel details as follows:\n\nVessel: MT Phoenix\nDWT: 318,000 MT\nLOA: 333 meters\n\nOur initial offer is USD 52.50/MT, basis Worldscale equivalent. Demurrage rate is USD 85,000 per day.\n\nLet me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 08:15",
+        "body": "Good morning Sarah,\n\nThanks for the details. USD 52.50/MT is a bit high for us. We counter at USD 50.75/MT. Demurrage seems reasonable. Please confirm vessel is fully compliant with all Rotterdam port regulations.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 09:30",
+        "body": "Hi John,\n\nConfirmed, MT Phoenix is fully compliant with all Rotterdam port regulations.\n\nWe can meet you in the middle at USD 51.50/MT. This is our best and final offer.\n\nLet me know if you'd like to proceed.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 10:45",
+        "body": "Sarah,\n\nOkay, we accept USD 51.50/MT. Please send over the recap with full terms and conditions. Laycan remains Nov 15-20.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: MT Phoenix - AG to Rotterdam",
+        "timestamp": "2024-10-27 11:30",
+        "body": "Excellent John,\n\nRecap attached. Please review and confirm. Thanks for the quick turnaround!\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "270000",
+      "incoterm": "",
+      "vessel": "MT Phoenix",
+      "dwt": "318000",
+      "loa": "333",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "51.50",
+      "laytime_start_date": "2024-11-15",
+      "laytime_end_date": "2024-11-20",
+      "demurrage_currency": "USD",
+      "demurrage": "85000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T09:00:00",
+        "body": "Dear John,\n\nHope you're having a good week. Following our call, I have a potential vessel, the 'MV Ocean Star' (DWT 150,000), open for a crude oil shipment from the Arabian Gulf to Rotterdam. Laycan is flexible, roughly around Feb 15-20. Let me know if you have any interest. \n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T11:30:00",
+        "body": "Hi Sarah,\n\nGood to hear from you. Yes, we are looking for tonnage on that route. Can you give me an indication on freight?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T14:00:00",
+        "body": "Hi John,\n\nOwners are currently looking at low 50s basis Worldscale. Subject to details of course.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27T09:00:00",
+        "body": "Sarah,\n\nThanks. That's a bit high for us. Our budget is closer to $50/ton. Can you see if Owners would consider that?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27T12:00:00",
+        "body": "John,\n\nJust spoke with Owners. They've come down a little. They're now at $50.75/ton. Laytime 72 hours all purposes SHINC. Demurrage rate $40,000 per day. Let me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-28T10:00:00",
+        "body": "Sarah,\n\n$50.75 works for us. Consider it agreed, subject to full subjects being lifted by end of play today. Please send recap.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-28T11:00:00",
+        "body": "John,\n\nGreat news! Recap sent. Looking forward to working with you again.\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "",
+      "incoterm": "",
+      "vessel": "MV Ocean Star",
+      "dwt": "150000",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week. \n\nWe have a potential fixture for a crude oil shipment from Basrah, Iraq to Rotterdam. Cargo size is approximately 130,000 MT. Can you give me an idea of your target freight rate? Laycan window is Feb 15-20.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the inquiry. We're looking at something in the low 50s, basis Worldscale flat for a Suezmax. Let me know if you have anything close.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Hi John,\n\nThanks for the quick reply. I have a vessel, the 'Ocean Titan', DWT 150,000, LOA 274m, available for that window. Owner is indicating WS 53. We're close!\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 09:00",
+        "body": "Sarah,\n\nMorning. WS 53 is a little rich for our blood. Can you push them down to WS 51.5? We're also looking at demurrage of USD 35,000 per day.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 12:00",
+        "body": "Hi John,\n\nSpoke with the owner. Best they can do is WS 52. Demurrage acceptable at USD 35,000/day. Let me know if that works for you.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 14:30",
+        "body": "Okay, Sarah. We'll agree to WS 52. Please send over the full details and draft recap for review. We can proceed from there.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam - Agreed!",
+        "timestamp": "2024-01-27 15:00",
+        "body": "Great news, John! Recap with full details will be sent shortly. Thanks for the quick turnaround.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "Ocean Titan",
+      "dwt": "150000",
+      "loa": "274",
+      "starting_freight_quote_currency": "Worldscale",
+      "starting_freight_quote": "53",
+      "final_freight_quote_currency": "Worldscale",
+      "final_freight_quote": "52",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "35000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-26 09:30",
+        "body": "Dear John,\n\nHope you're having a good week. We have a client looking to move a cargo of crude oil from the Arabian Gulf to Rotterdam, around 130,000 MT. Can you advise on your availability and any suitable vessels you may have open? Laycan window is roughly Feb 15-25. Please let me know if this is of interest.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-26 11:45",
+        "body": "Hi Sarah,\n\nGood to hear from you. I have the 'MT Eagle Transporter', a Suezmax (DWT 150,000, LOA 274m) available within your laycan. Can you advise on target freight?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-26 14:20",
+        "body": "Hi John,\n\nThanks for the quick response. The owners' initial indication is in the low $50s per MT. Let me know if that's workable on your end.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-27 08:50",
+        "body": "Sarah,\n\nThat's a bit rich, honestly. We were hoping for something closer to the high $40s. Can you push them a bit? We're happy to firm up with a solid offer if the price is right.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-27 12:15",
+        "body": "Hi John,\n\nSpoke to the owners again. They've come down slightly to $50.25/MT. They're also proposing 72 hours laytime and demurrage at $40,000/day.\n\nLet me know your thoughts.\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-27 15:30",
+        "body": "Sarah,\n\nWe can agree on $50.25/MT. However, we need 96 hours laytime. Demurrage at $40,000/day is acceptable. Consider this a firm offer.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Arabian Gulf to Rotterdam - Confirmed",
+        "timestamp": "2024-01-27 16:45",
+        "body": "John,\n\nExcellent! Owners have confirmed. $50.25/MT, 96 hours laytime, $40,000/day demurrage accepted. I'll draw up the recap.\n\nThanks for the swift negotiation!\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Eagle Transporter",
+      "dwt": "150000",
+      "loa": "274",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.25",
+      "laytime_start_date": "Feb 15",
+      "laytime_end_date": "Feb 25",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "VLCC Fixture Inquiry - Crude Oil - AG/China",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nI have a VLCC open in the Arabian Gulf (AG) prompt. Can load crude for discharge in China. Cargo size is around 2 million barrels.\n\nLet me know if you have any requirements that match. My starting quote is in the low 50s WS.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: VLCC Fixture Inquiry - Crude Oil - AG/China",
+        "timestamp": "2024-10-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the quick response. I do have a requirement that fits, but your initial quote is a bit high. Would you consider WS 48?\n\nLaycan is Nov 4-6.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: VLCC Fixture Inquiry - Crude Oil - AG/China",
+        "timestamp": "2024-10-26 13:00",
+        "body": "John,\n\nThanks for your prompt reply. 48 WS is a little too low at this stage. We're looking at at least 50 WS. The vessel, the 'Ocean Victory', is a modern VLCC, DWT 320,000. \n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: VLCC Fixture Inquiry - Crude Oil - AG/China",
+        "timestamp": "2024-10-26 15:45",
+        "body": "Sarah,\n\nOkay, understood. Meet me halfway at 49 WS? Demurrage at $40,000/day.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: VLCC Fixture Inquiry - Crude Oil - AG/China",
+        "timestamp": "2024-10-27 08:15",
+        "body": "John,\n\nGood morning. Let me check with the owners and get back to you shortly.\n\nBest,\nSarah"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: VLCC Fixture Inquiry - Crude Oil - AG/China",
+        "timestamp": "2024-10-27 10:30",
+        "body": "John,\n\nGood news! Owners have agreed to 49 WS, demurrage as you proposed. Please confirm acceptance.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: VLCC Fixture Inquiry - Crude Oil - AG/China",
+        "timestamp": "2024-10-27 12:00",
+        "body": "Sarah,\n\nConfirmed. Consider the vessel fixed at 49 WS, demurrage $40,000/day. Laycan Nov 4-6. Please send me the recap.\n\nThanks,\nJohn"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "China",
+      "cargo_size": "2 million barrels",
+      "incoterm": "",
+      "vessel": "Ocean Victory",
+      "dwt": "320000",
+      "loa": "",
+      "starting_freight_quote_currency": "WS",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "WS",
+      "final_freight_quote": "49",
+      "laytime_start_date": "2024-11-04",
+      "laytime_end_date": "2024-11-06",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nGood morning. Following our conversation, I have a vessel suitable for your crude oil shipment from the Arabian Gulf to Rotterdam. MV 'Ocean Titan', DWT 160,000 MT. Laycan: Feb 15-20. \n\nInitial freight indication: low 50s USD per metric ton. Let me know your thoughts.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the prompt reply. 'Ocean Titan' looks suitable. The laycan is acceptable. However, the freight indication is a bit high for our budget. We were hoping for something in the high 40s. Could you please check with the owners and see if there's any flexibility?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Hi John,\n\nI've spoken to the owners, and they've come down slightly. Best they can offer is $51.50 per metric ton. This is basis standard charter party terms. Laytime is 72 hours, and demurrage is USD 45,000 per day pro rata.\n\nLet me know your decision.\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 16:45",
+        "body": "Sarah,\n\n$51.50 is still a bit too high. We're getting other offers in the $50 range. Would they consider $50.75?\n\nAlso, can you confirm the vessel's LOA?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 17:30",
+        "body": "John,\n\nJust got off the phone with the owners. They've reluctantly agreed to $50.75 per metric ton. LOA of the 'Ocean Titan' is 274 meters.\n\nPlease confirm acceptance, and I'll start drafting the fixture note.\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 18:00",
+        "body": "Sarah,\n\nExcellent! We accept $50.75/MT. Please proceed with the fixture note.\n\nThanks for your help.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-27 09:00",
+        "body": "Dear John,\n\nFixture confirmed as per our previous correspondence. I have attached the fixture note for your review and signature. Please let me know if you have any questions.\n\nThank you for your business.\n\nBest Regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "",
+      "incoterm": "",
+      "vessel": "Ocean Titan",
+      "dwt": "160000",
+      "loa": "274",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Good morning John,\n\nHope you're having a good week. I have an inquiry for a crude oil shipment from the Arabian Gulf to Rotterdam, 130,000 mt +/- 10%. Laycan Feb 15-20. Please advise your interest.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the offer. I am indeed interested. What's your idea on rate? Let me know vessel details also. We are looking for a modern VLCC.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:45",
+        "body": "Hi John,\n\nVessel MT \"Ocean Star\" - DWT 318,000, LOA 333m, built 2018, available in the AG. Owners are looking at low 50s ws for this voyage. Open to your offers.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Sarah,\n\nThanks. Low 50s seems high. I can offer WS 48.5 for Ocean Star, all details wog.\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 15:30",
+        "body": "John,\n\nSpoke with Owners. They are countering at WS 50. Laytime 72 hours SHINC. Demurrage USD 75,000/day.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 16:45",
+        "body": "Sarah,\n\nOkay, let's meet in the middle at WS 49.25. And we agree to demurrage at USD 75,000/day\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam - DEAL!",
+        "timestamp": "2024-01-26 17:15",
+        "body": "John,\n\nAgreed! WS 49.25 accepted. Owners confirm the \"Ocean Star\" is fixed. Pls confirm acceptance so I can draft the recap.\n\nThanks,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "Ocean Star",
+      "dwt": "318000",
+      "loa": "333",
+      "starting_freight_quote_currency": "WS",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "WS",
+      "final_freight_quote": "49.25",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "75000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T09:00:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nI have a firm inquiry for about 80,000 mt of crude oil from Arabian Gulf to Rotterdam, loading spot in Ras Tanura. Laycan 10-12 Feb. Can you indicate your interest and any suitable vessels in the vicinity?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T10:30:00",
+        "body": "Hi Sarah,\n\nThanks for the offer. I have the 'MT Eagle Wing', DWT 105,000, currently ballasting towards Fujairah, ETA 07 Feb. She should be suitable. What are you thinking on freight?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T11:45:00",
+        "body": "Hi John,\n\nGood to hear from you. The 'Eagle Wing' sounds promising. Owners are looking at low 50s, basis Worldscale equivalent. Let me know if that's in the ballpark.\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T14:00:00",
+        "body": "Sarah,\n\nLow 50s is a bit rich. I'm seeing fixtures in the high 40s for similar voyages. Can you push them down? We'd be looking at something closer to $48.50/mt.\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T16:30:00",
+        "body": "John,\n\nOkay, I spoke with Owners. They've come down a bit. They're now at $49.75/mt. That's their best. Demurrage is $45,000/day. Let me know asap.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27T09:15:00",
+        "body": "Sarah,\n\nWe're close. Can we meet in the middle at $49.25? If so, consider it done. Laytime is 72 hours SHINC.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27T10:00:00",
+        "body": "John,\n\nDeal. $49.25/mt it is. I'll draft the recap and send it over shortly.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "80000",
+      "incoterm": "",
+      "vessel": "MT Eagle Wing",
+      "dwt": "105000",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49.25",
+      "laytime_start_date": "2024-02-10",
+      "laytime_end_date": "2024-02-12",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-26 09:15",
+        "body": "Dear John,\n\nHope you're well. \n\nFollowing our call, I have a client with ~130,000 MT Bonny Light crude oil ready to load from Bonny Terminal, Nigeria, discharging Rotterdam. Laycan 15-20 Feb. Any interest?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-26 11:30",
+        "body": "Hi Sarah,\n\nYes, potentially interested. Can you give me an idea of the rate your client is looking for? Also, can you provide some vessel details (DWT, LOA)?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-26 14:45",
+        "body": "Hi John,\n\nThey're looking at something in the low 50s ($USD/MT). Vessel is the \"MV Ocean Star\", DWT 150,000 MT, LOA 270m. Let me know what you think.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-27 10:00",
+        "body": "Sarah,\n\nThanks. That's a bit rich for us at the moment. We were hoping for something closer to $48.00/MT. Can you check with your client?\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-27 16:00",
+        "body": "Hi John,\n\nSpoke to them. Best they can do is $49.50/MT. They're firm on that, given the current market.\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-28 09:30",
+        "body": "Okay, Sarah.\n\nLet's say $49.50/MT, Laytime 72 hours SHINC, Demurrage USD 35,000/day. Subject to stems and internal approvals, of course. Incoterms FOB Bonny Terminal.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-28 12:00",
+        "body": "John,\n\nGreat. Confirmed with my client. We have a deal! I will prepare the recap and send it over shortly.\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Bonny Terminal",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FOB Bonny Terminal",
+      "vessel": "MV Ocean Star",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49.50",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "35000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-26 09:30",
+        "body": "Good morning John,\n\nHope you're having a good week. Following our call, I have a vessel available for your Bonny Light cargo from Nigeria to Rotterdam. M/T 'Ocean Pride', a Suezmax, details attached. She is around 150,000 DWT, with laycan March 5-10 Bonny. Let me know if you are interested so I can quote a freight rate. \n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-26 11:00",
+        "body": "Hi Sarah,\n\nThanks for the quick reply. We are indeed interested. Please provide your best freight idea for 130,000 MT of Bonny Light to Rotterdam, incoterm FOB Bonny. Thanks.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Hi John,\n\nThanks. For the 'Ocean Pride', we are looking at USD 51.50 per metric ton, all in. Subject to confirmation within 24 hours. Standard Worldscale terms.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-27 09:00",
+        "body": "Sarah,\n\n$51.50 is a bit high for us. Market indications are lower. Can you improve your offer? We are looking for something in the low 50s. What about $50.50?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-27 12:00",
+        "body": "John,\n\nI spoke with Owners. Best we can do is USD 50.75/MT. That's as low as they're willing to go considering the current market volatility and vessel availability within the laycan. \n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-27 15:00",
+        "body": "Sarah,\n\nOkay, we accept USD 50.75/MT. Please send over the recap and we'll get started on the charter party. Demurrage rate?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Bonny Light to Rotterdam",
+        "timestamp": "2024-01-27 16:00",
+        "body": "Excellent, John!\n\nRecap attached. Demurrage is USD 45,000 per day, pro rata. Let me know if you have any questions. Pleasure doing business with you.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Bonny Light Crude Oil",
+      "load_port": "Bonny, Nigeria",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FOB Bonny",
+      "vessel": "M/T Ocean Pride",
+      "dwt": "150000",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "51.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-03-05",
+      "laytime_end_date": "2024-03-10",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a vessel available, MT Phoenix, suitable for a crude oil shipment from the Arabian Gulf (AG) to Rotterdam. Laycan is looking at Feb 10-12. Can you advise if you have any interest?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nGood to hear from you. Yes, we do have interest in this route. We're looking to move about 130,000 MT of crude. Could you please provide vessel details and your freight indication?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 12:00",
+        "body": "Hi John,\n\nMT Phoenix details:\n- DWT: 150,000 MT\n- LOA: 250m\n\nOur initial freight indication is USD 52/MT, basis Worldscale flat. Let me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Sarah,\n\nThanks for the details. USD 52/MT is a bit high for our budget. Could you work towards USD 50/MT? We are willing to consider a slightly earlier laycan if that helps.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 15:30",
+        "body": "John,\n\nI've spoken to the owners. They are willing to come down slightly. We can offer USD 51.25/MT. Laycan is still Feb 10-12. How does that sound?\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 08:00",
+        "body": "Sarah,\n\nOkay, let's meet in the middle at USD 50.75/MT. If agreed, we'll need standard demurrage terms, around USD 40,000/day.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 09:30",
+        "body": "John,\n\nAgreed on USD 50.75/MT and demurrage at USD 40,000/day. I will draft the recap and send it over shortly.\n\nThanks,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf (AG)",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Phoenix",
+      "dwt": "150000",
+      "loa": "250",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-02-10",
+      "laytime_end_date": "2024-02-12",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Good morning John,\n\nHope you're having a good week. \n\nFollowing up on our call, we have a client looking to move a parcel of crude oil, Basrah to Rotterdam, around 130,000 MT, late Feb laycan. Any interest?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the prompt response. Yes, we have interest. Can you provide some vessel details and your initial rate indication?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 11:45",
+        "body": "Hi John,\n\nWe have the 'MT Phoenix' (DWT 150,000, LOA 270m) available, prompt subject free. Our initial indication is in the low 50s, USD per MT. Laycan: Feb 22-24.\n\nLet me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Sarah,\n\nThanks. The vessel specs look fine. However, the rate is a bit high for the current market. We're looking at something closer to USD 49.50/MT. Can you work with that?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 15:30",
+        "body": "John,\n\nI've spoken with Owners. They've come down slightly. Best they can do is USD 50.00/MT. Demurrage rate is USD 35,000/day.\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 16:45",
+        "body": "Sarah,\n\nOkay, we can agree on USD 50.00/MT. Please send over the full subjects recap. We'd like to narrow laycan to Feb 22-23 if possible.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam - Agreed",
+        "timestamp": "2024-01-26 17:30",
+        "body": "Excellent, John!\n\nConfirmed at USD 50.00/MT, Feb 22-23 laycan, Demurrage USD 35,000/day. I'll forward the full subjects recap shortly. Glad we could come to an agreement.\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Phoenix",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.00",
+      "laytime_start_date": "2024-02-22",
+      "laytime_end_date": "2024-02-23",
+      "demurrage_currency": "USD",
+      "demurrage": "35000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00:00",
+        "body": "Dear John,\n\nHope you're having a good week. \n\nWe have a vessel open in the AG, suitable for your Rotterdam shipment. MV 'Ocean Titan', DWT 115,000 MT. Laycan Feb 5-7. Can load about 80,000 MT.\n\nPlease advise your interest.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:30:00",
+        "body": "Hi Sarah,\n\nThanks for the quick reply. Yes, we are interested. What are you looking at rate-wise?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:45:00",
+        "body": "John,\n\nOwners are looking at WS 75 for that voyage, basis standard BPVOY4 terms.\n\nLet me know what you think.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00:00",
+        "body": "Sarah,\n\nWS 75 is a bit rich for us. We're thinking more in the low 60s. Can you push?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 09:00:00",
+        "body": "John,\n\nSpoke with Owners. Best they can do right now is WS 68. Demurrage rate is USD 45,000/day.\n\nLet me know ASAP, as they have other options.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 10:30:00",
+        "body": "Sarah,\n\nOkay, we can agree on WS 68. Confirming 80,000 MT +/- 10% MOLOO. Please send over the recap.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: Crude Oil - AG to Rotterdam - MV Ocean Titan",
+        "timestamp": "2024-01-27 11:00:00",
+        "body": "John,\n\nExcellent! Recap attached. Laycan Feb 5-7, WS 68, USD 45,000 demurrage. Please confirm receipt.\n\nThanks,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "AG",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "80000",
+      "incoterm": "",
+      "vessel": "Ocean Titan",
+      "dwt": "115000",
+      "loa": "",
+      "starting_freight_quote_currency": "WS",
+      "starting_freight_quote": "75",
+      "final_freight_quote_currency": "WS",
+      "final_freight_quote": "68",
+      "laytime_start_date": "2024-02-05",
+      "laytime_end_date": "2024-02-07",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26T09:30:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a client looking to ship crude oil from the Arabian Gulf to Rotterdam, approximately 130,000 MT. Laycan is Nov 15-20. Let me know if you have any suitable vessels available and your best freight idea. \n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26T11:45:00",
+        "body": "Hi Sarah,\n\nThanks for the inquiry. We have the MT Phoenix, 150,000 DWT, suitable for your needs. We're looking at low 50s for that route on those dates.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27T14:00:00",
+        "body": "John,\n\nThanks for the quick response. Low 50s is a bit high for our client. Could you sharpen your pencil a bit? They are thinking closer to $48/MT.\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27T16:30:00",
+        "body": "Sarah,\n\nMeet me in the middle at $49.50/MT? The Phoenix is a well-maintained vessel and ready to go. We're pretty firm on this. \n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-28T09:15:00",
+        "body": "John,\n\nI spoke with my client. They are willing to agree at $49.50/MT. Can you confirm demurrage at $35,000/day?\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-28T11:00:00",
+        "body": "Sarah,\n\nConfirmed on the $35,000/day demurrage. Let me know if you need any other information. We'll prepare the charter party.\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - AG to Rotterdam - AGREED!",
+        "timestamp": "2024-10-28T12:30:00",
+        "body": "John,\n\nGreat! Thanks for your help. Looking forward to doing more business with you.\n\nRegards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000 MT",
+      "incoterm": "",
+      "vessel": "MT Phoenix",
+      "dwt": "150000",
+      "loa": "",
+      "starting_freight_quote_currency": "$",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "$",
+      "final_freight_quote": "49.50",
+      "laytime_start_date": "2024-11-15",
+      "laytime_end_date": "2024-11-20",
+      "demurrage_currency": "$",
+      "demurrage": "35000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Spot Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nHope you're well.\n\nWe have a prompt vessel available for a crude oil shipment from the AG (Arabian Gulf) to Rotterdam. Cargo size is approx. 80,000 MT +/- 10%. Laycan: Feb 5-7. Please let me know if you have any interest.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Spot Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the quick response. Yes, we are indeed looking for a vessel on that route and laycan. Can you provide vessel details and your freight idea? We are working on a FOB basis.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Spot Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:45",
+        "body": "Hi John,\n\nVessel details are as follows:\n\nVessel: MT Ocean Star\nDWT: 150,000\nLOA: 250m\n\nOur initial freight indication is USD 52.00/MT, basis Worldscale flat. Let me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Spot Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Sarah,\n\nThanks for the details. USD 52.00/MT is a bit high for us. We were thinking more along the lines of low 50s. Can you work with USD 50.50/MT?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Spot Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 15:30",
+        "body": "Hi John,\n\nLet me speak with the owners. The best I can currently offer is USD 51.25/MT. How about we meet in the middle at USD 50.87/MT?\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Spot Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 16:45",
+        "body": "Sarah,\n\nUSD 50.87/MT is acceptable. Let's fix the MT Ocean Star at that rate. Can you please send over the recap? What are the demurrage terms?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Spot Enquiry - AG to Rotterdam - FIXED",
+        "timestamp": "2024-01-26 17:30",
+        "body": "John,\n\nExcellent! Recap attached. Demurrage is USD 45,000/day pro rata.\n\nGood doing business with you!\n\nBest,\nSarah\n\n(Recap as attachment. - Hypothetical)"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "80000",
+      "incoterm": "FOB",
+      "vessel": "MT Ocean Star",
+      "dwt": "150000",
+      "loa": "250",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52.00",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.87",
+      "laytime_start_date": "2024-02-05",
+      "laytime_end_date": "2024-02-07",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Good morning John,\n\nHope you're having a good week. We have a 130,000 MT crude oil cargo available from AG (Ras Tanura) to Rotterdam, laycan Nov 10-15. \n\nCan you give me an indication of your freight ideas?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the offer. I'm thinking low 50s USD per MT.\n\nLet me know your thoughts.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 11:45",
+        "body": "Hi John,\n\nThanks for the quick reply. Low 50s is a bit low for current market conditions. We're looking at closer to $53.50/MT. Open to negotiation of course. Vessel is a Suezmax, DWT 150,000, LOA 270m.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 14:00",
+        "body": "Sarah,\n\nThanks. Let's meet in the middle at $52.25/MT. That's my best offer.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 15:15",
+        "body": "John,\n\n$52.25/MT is a bit tight, but let's try to get this done. Can you agree to demurrage at $30,000 per day?\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 08:00",
+        "body": "Hi Sarah,\n\n$30,000/day demurrage is acceptable. We are on FOB terms. Please send me the vessel's full details and Owner's contact information, and a draft charter party.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 09:30",
+        "body": "John,\n\nGreat! I will forward the vessel details and Owner's contact information shortly. Draft CP will follow this afternoon.\n\nThanks again for your business!\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FOB",
+      "vessel": "Suezmax",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "53.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "52.25",
+      "laytime_start_date": "2024-11-10",
+      "laytime_end_date": "2024-11-15",
+      "demurrage_currency": "USD",
+      "demurrage": "30000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week. I have a client looking to move a cargo of crude oil from the Arabian Gulf to Rotterdam, 130,000 MT +/- 10%. Laycan Feb 15-20. Can you offer a suitable vessel?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:30",
+        "body": "Hi Sarah,\n\nGood to hear from you. Yes, we can offer the MT Phoenix, DWT 150,000, LOA 250m, for that voyage. I can offer her basis a freight rate of USD 53.50/MT.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Hi John,\n\nThanks for the prompt reply. The owners feel USD 53.50 is a bit high. Can you improve? Target is something in the low 50s.\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 16:30",
+        "body": "Hi Sarah,\n\nLet me see what I can do. Best I can offer at this time is USD 52.25/MT. Take it or leave it?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 09:00",
+        "body": "Good Morning John,\n\nI spoke with the owners, they have accepted your counter offer of USD 52.25/MT. Please provide full vessel details and proforma DA.\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 11:00",
+        "body": "Hi Sarah,\n\nGreat news. Attached are the full vessel details and proforma DA for your review. Demurrage rate is USD 30,000/day.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 14:00",
+        "body": "Hi John,\n\nThanks for the documents. All looks good. We're proceeding based on your rates/terms as stated. Please draft the recap.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Phoenix",
+      "dwt": "150000",
+      "loa": "250",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "53.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "52.25",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "30000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a Suezmax open in the AG, prompt. Interested in moving approximately 130,000 MT of crude to Rotterdam. Laycan: Nov 5-7.\n\nLet me know if this is of interest.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 10:30",
+        "body": "Hi Sarah,\n\nGood to hear from you. Yes, this looks interesting. What are your initial rate ideas?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 11:45",
+        "body": "Hi John,\n\nThanks for the quick response. Owners are looking at something in the low 50s, WS. Let me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 14:00",
+        "body": "Sarah,\n\nThanks. I'm seeing the market slightly lower. How about WS 48?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 15:30",
+        "body": "John,\n\nLet me check with Owners. I think we can meet somewhere in the middle. WS 49.5?\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 08:00",
+        "body": "Sarah,\n\nOK, let's agree on WS 49.5. Can you confirm vessel details and standard demurrage terms?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 09:30",
+        "body": "John,\n\nConfirmed on WS 49.5!\n\nVessel: MV Energy Star\nDWT: 150,000 MT\nLOA: 274 meters\nLaytime: 72 hours\nDemurrage: USD 40,000/day\n\nLet me know if you require anything further.\n\nThanks,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "AG",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000 MT",
+      "incoterm": "",
+      "vessel": "MV Energy Star",
+      "dwt": "150000",
+      "loa": "274",
+      "starting_freight_quote_currency": "WS",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "WS",
+      "final_freight_quote": "49.5",
+      "laytime_start_date": "2024-11-05",
+      "laytime_end_date": "2024-11-07",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Good morning John,\n\nHope you're well.\n\nI have a VLCC open in the AG, prompt. Are you looking for tonnage to Rotterdam for crude?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:45",
+        "body": "Hi Sarah,\n\nYes, potentially interested. We're looking to move around 270,000 MT of crude from Ras Tanura to Rotterdam, laycan Feb 5-7. What kind of rate are we looking at?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi John,\n\nVessel is the 'Ocean Glory', DWT 318,000, LOA 333m. Owners are looking at WS 52, basis Worldscale 2024. Subject to stems and board approval.\n\nLet me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:15",
+        "body": "Sarah,\n\nWS 52 seems a bit high. We were thinking more in the high 40s. Can you push them on that?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "John,\n\nSpoke with Owners. They've come down slightly to WS 51. Demurrage is USD 75,000/day.\n\nThey are quite firm on that level, given the prompt position and current market.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 15:00",
+        "body": "Sarah,\n\nOk, WS 50.5 and we have a deal. Demurrage acceptable. Let's lock it in, subject to our final internal approvals which we can get done by EOD.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam - CONFIRMED",
+        "timestamp": "2024-01-26 16:00",
+        "body": "John,\n\nConfirmed at WS 50.5. Excellent! Will send recap shortly. Please advise on the internal approvals asap.\n\nThanks for the business.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "270000",
+      "incoterm": "",
+      "vessel": "Ocean Glory",
+      "dwt": "318000",
+      "loa": "333",
+      "starting_freight_quote_currency": "WS",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "WS",
+      "final_freight_quote": "50.5",
+      "laytime_start_date": "2024-02-05",
+      "laytime_end_date": "2024-02-07",
+      "demurrage_currency": "USD",
+      "demurrage": "75000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:30",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a VLCC open in the AG (Arabian Gulf) spot market looking for a cargo to Rotterdam. Vessel details available upon request. Can handle full cargo. Laycan 10-12 Feb.\n\nPlease advise if you have any interest.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:45",
+        "body": "Hi Sarah,\n\nGood to hear from you. We do have a cargo of around 270,000 MT of crude loading from Ras Tanura, discharging Rotterdam. Laycan is fine. What are you seeing on freight?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:30",
+        "body": "Hi John,\n\nThanks for the quick reply. Owners are currently looking at WS 52, basis Worldscale 2024. Let me know your thoughts.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Sarah,\n\nThanks. We're seeing more in the low 50s, so WS 52 is a bit high. Can you work owners down? Demurrage rate is USD 75,000 per day.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 16:00",
+        "body": "John,\n\nJust spoke with Owners. Best they can do is WS 51.5. Let me know if this works.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 09:00",
+        "body": "Sarah,\n\nThanks for pushing them. We can agree at WS 51.5. Please send over proforma CP.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 10:00",
+        "body": "Hi John,\n\nGreat, WS 51.5 confirmed. Proforma CP attached. Thanks for the business!\n\nRegards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "270000",
+      "incoterm": "",
+      "vessel": "",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "Worldscale",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "Worldscale",
+      "final_freight_quote": "51.5",
+      "laytime_start_date": "2024-02-10",
+      "laytime_end_date": "2024-02-12",
+      "demurrage_currency": "USD",
+      "demurrage": "75000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a 130,000 MT crude oil cargo from Basrah, Iraq to Rotterdam, Netherlands, prompt shipment. Could you please indicate your interest and advise on your target freight level?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the offer. We are definitely interested. Our target is around low $50s per MT, all in. Let me know your thoughts.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 14:00",
+        "body": "Hi John,\n\nThanks for the quick response. We have the MT Sideris, DWT 160,000, LOA 274m, available for the voyage. Owners are looking at $53.50/MT. Laycan is Nov 10-15. Let me know if this is workable.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 08:00",
+        "body": "Sarah,\n\nThanks. $53.50 is a bit rich for us. We are willing to offer $52.25/MT. Can you confirm demurrage at $45,000/day?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 10:00",
+        "body": "Hi John,\n\nSpoke with owners. They've countered at $52.75/MT. Demurrage is indeed $45,000 per day.\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 12:00",
+        "body": "Sarah,\n\nOkay, we agree at $52.75/MT. Please send over the proforma charter party. \n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 14:00",
+        "body": "Hi John,\n\nExcellent! Will forward the proforma now. Thanks for the business!\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah, Iraq",
+      "discharge_port": "Rotterdam, Netherlands",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Sideris",
+      "dwt": "160000",
+      "loa": "274",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "53.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "52.75",
+      "laytime_start_date": "2024-11-10",
+      "laytime_end_date": "2024-11-15",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Good morning John,\n\nHope you're having a good week. \n\nWe have a client looking to move a cargo of crude oil from Basrah to Rotterdam, around 130,000 MT. Laycan is November 15-20. Could you please advise availability and indicative freight?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the enquiry. We have a suitable VLCC, the 'Ocean Titan', DWT 310,000, LOA 333m, available within those dates. We would be looking at something in the low $50s per MT, basis Worldscale flat.\n\nLet me know your thoughts.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 14:00",
+        "body": "Hi John,\n\nThanks for the prompt reply. Low $50s is a bit rich for our client, currently. Would you be able to come down a bit? We are hearing offers around $49.00/MT from other owners.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 09:15",
+        "body": "Morning Sarah,\n\nUnderstood. We can meet you in the middle at $50.00/MT. Vessel is well maintained and can ensure smooth loading/discharge operations.\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 11:45",
+        "body": "Hi John,\n\nSpoke with our client. They are willing to agree at $50.00/MT, subject to laytime/demurrage at standard industry rates.\n\nLet me know if this is acceptable.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 13:00",
+        "body": "Hi Sarah,\n\nAgreed, subject to standard industry rates for laytime/demurrage and our standard CP terms. Laytime to commence November 15th, ending November 20th.\n\nCan you please send over the full fixture recap?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - Basrah to Rotterdam - FIXED!",
+        "timestamp": "2024-10-27 14:30",
+        "body": "Hi John,\n\nExcellent! Great working with you. Full recap attached. Let me know if you have any questions.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "Ocean Titan",
+      "dwt": "310000",
+      "loa": "333",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.00",
+      "laytime_start_date": "2024-11-15",
+      "laytime_end_date": "2024-11-20",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 09:30",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a client looking to move a cargo of crude oil from the Arabian Gulf to Rotterdam. Cargo size is around 80,000 MT. Laycan is November 10-20. Could you please provide us with your best freight ideas?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 11:45",
+        "body": "Hi Sarah,\n\nThanks for the inquiry. We can offer the MT 'Ocean Explorer' - DWT 160,000, LOA 270m. I'm thinking low 50s per ton. Let me know your thoughts.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 10:00",
+        "body": "Hi John,\n\nThanks for the prompt reply. The Owners are looking for something closer to $49.00/MT. Could you work with that?\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 14:30",
+        "body": "Sarah,\n\nMeeting them in the middle at $50.00/MT is the best I can do at the moment. That includes standard laytime and demurrage of $35,000/day. \n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-28 08:15",
+        "body": "John,\n\nSpoke with the Owners. They've agreed to $50.00/MT. Please confirm the laytime details and demurrage again. Also, can you confirm the vessel is within acceptable age limits for their insurance?\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-28 11:00",
+        "body": "Sarah,\n\nGreat news! Confirmed: $50.00/MT, Laytime 72 hours SHINC, Demurrage USD 35,000/day. The vessel is well within the age limits - built in 2015.\n\nLet me know when you need the NOR. \n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: Crude Oil AG to Rotterdam",
+        "timestamp": "2024-10-28 12:30",
+        "body": "John,\n\nExcellent. We have confirmed the fixture on those terms. Thanks for the smooth negotiation!\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "80000",
+      "incoterm": "",
+      "vessel": "Ocean Explorer",
+      "dwt": "160000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.00",
+      "laytime_start_date": "2024-11-10",
+      "laytime_end_date": "2024-11-20",
+      "demurrage_currency": "USD",
+      "demurrage": "35000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Inquiry: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:30",
+        "body": "Good morning John,\n\nHope you're having a good week.\n\nWe have a client looking to move a cargo of crude oil, approximately 130,000 MT, from the Arabian Gulf (specific port TBD) to Rotterdam. Laycan 15-20 Feb. Any interest?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Inquiry: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:15",
+        "body": "Hi Sarah,\n\nThanks for the offer. Yes, we are potentially interested. Can you give me an idea of vessel specs and your rate expectations?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Inquiry: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:45",
+        "body": "Hi John,\n\nWe're looking at a Suezmax, DWT around 150,000, LOA approx. 274m. Owners are suggesting low $50s per ton. Let me know your thoughts. Vessel name: MT Seafarer.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Inquiry: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-27 08:50",
+        "body": "Sarah,\n\nThanks. Low 50s is a bit rich for us. Market is soft. We are thinking more along the lines of $48.50/ton. Laytime 72 hours SHINC. Demurrage $50,000/day pro rata. Can you check with Owners?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Inquiry: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-27 12:30",
+        "body": "John,\n\nJust got off the phone with Owners. They've come down a bit. Best they can do is $49.75/ton. Demurrage acceptable at $50,000. Let me know asap if you can work with this.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Inquiry: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-27 15:45",
+        "body": "Sarah,\n\nOkay, let's split the difference. We'll agree at $49.25/ton. Please confirm that is firm and we can proceed with subjects.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Inquiry: Crude Oil Shipment - AG to Rotterdam",
+        "timestamp": "2024-01-27 16:30",
+        "body": "John,\n\nConfirmed! $49.25/ton is firm, subject to normal subjects. Let me know when you're ready to exchange recap. Good doing business with you!\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Seafarer",
+      "dwt": "150000",
+      "loa": "274",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49.25",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "50000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a VLCC open in the Arabian Gulf, prompt dates. Are you moving any crude to Rotterdam these days? Details are:\n\nVessel: MV Stellar Voyager\nDWT: 320,000 mt\nLOA: 330m\n\nPlease advise if interested.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the quick response. We are indeed looking for a VLCC for a crude lift from Ras Tanura to Rotterdam. Cargo size is approximately 270,000 mt, +/- 10% at our option. Laycan 10-12 Feb. What's your initial freight indication?\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:45",
+        "body": "Hi John,\n\nThanks for the details. Owners are looking at WS 52 basis Worldscale 2024. Let me know if this is workable for you.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Sarah,\n\nWS 52 is a bit rich for our blood. We're seeing indications closer to WS 50. Can you push owners a bit? We are keen to fix this soon.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 15:30",
+        "body": "John,\n\nSpoke to owners. Best they can do at this stage is WS 51. They are citing strong demand. Demurrage is USD 75,000/day. Please confirm acceptance or counter.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 16:45",
+        "body": "Sarah,\n\nOkay, we can agree on WS 51. Please send over the recap. Delivery terms are FOB Ras Tanura, discharge Rotterdam. Standard BP vetting clause to apply. Let's get this done.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam - FIXED!",
+        "timestamp": "2024-01-26 17:30",
+        "body": "John,\n\nExcellent! Recap being sent to you now. Great working with you as always.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "270000",
+      "incoterm": "FOB",
+      "vessel": "MV Stellar Voyager",
+      "dwt": "320000",
+      "loa": "330",
+      "starting_freight_quote_currency": "Worldscale",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "Worldscale",
+      "final_freight_quote": "51",
+      "laytime_start_date": "2024-02-10",
+      "laytime_end_date": "2024-02-12",
+      "demurrage_currency": "USD",
+      "demurrage": "75000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week. \n\nWe have a vessel available for a crude oil shipment from Basrah, Iraq, to Rotterdam, Netherlands. Cargo size is around 130,000 MT +/- 10%. Laycan is Nov 15-20. MV 'Ocean Star' - DWT 150,000. LOA 274m. What are your freight rate expectations?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the prompt response. We are targeting something in the low 50s USD per MT, basis FOB Basrah. Let me know your best offer.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 14:00",
+        "body": "Hi John,\n\nThanks. Our initial offer for MV 'Ocean Star' is USD 53.50 per MT, all in. Demurrage is USD 45,000 per day.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 08:00",
+        "body": "Sarah,\n\nThat's a bit high. Can you come down to USD 51.00 per MT? Demurrage acceptable at USD 45,000.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 10:00",
+        "body": "John,\n\nLet me check with owners. The best I can do right now is USD 52.25 per MT. Can we agree on that?\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 12:00",
+        "body": "Sarah,\n\nMeet me in the middle at $51.60 and we have a deal. \n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 13:30",
+        "body": "John,\n\nAgreed. USD 51.60 per MT. Please confirm. I'll send recap.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FOB",
+      "vessel": "Ocean Star",
+      "dwt": "150000",
+      "loa": "274",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "53.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "51.60",
+      "laytime_start_date": "2024-11-15",
+      "laytime_end_date": "2024-11-20",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:30",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a client with a VLCC available for a crude oil cargo from the Arabian Gulf to Rotterdam. Vessel details to follow. What size cargo are you looking to move and what laycan are you working with?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:45",
+        "body": "Hi Sarah,\n\nGood to hear from you too. We're looking to ship around 270,000 MT of crude, +/- 10%. Laycan is Feb 15-20. Please send vessel details. Let me know your ideas on rate.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 12:15",
+        "body": "Hi John,\n\nVessel details: MT 'Ocean Pride', DWT 318,000, LOA 333m. \n\nOwners are looking at WS low 50s for that laycan and cargo size. Let me know what you think.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Sarah,\n\nThanks. WS low 50s is a bit rich for us right now. Our target is closer to WS 48.5. Let me know if Owners are willing to come down.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 15:30",
+        "body": "Hi John,\n\nSpoke to Owners. Best they can do is WS 49.5. Let me know if that works for you. Demurrage is USD 75,000/day.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 16:45",
+        "body": "Sarah,\n\nOkay, let's agree at WS 49.5. Please confirm laytime is 72 hours all purposes SHINC. Please send recap with all details.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: MT 'Ocean Pride' - AG/Rotterdam",
+        "timestamp": "2024-01-26 17:30",
+        "body": "Hi John,\n\nConfirmed as agreed. Recap sent. Thanks for the business!\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "270000",
+      "incoterm": "",
+      "vessel": "Ocean Pride",
+      "dwt": "318000",
+      "loa": "333",
+      "starting_freight_quote_currency": "WS",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "WS",
+      "final_freight_quote": "49.5",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "75000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Spot Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 09:15",
+        "body": "Dear John,\n\nHope you're well.\n\nWe have a 130,000 mt crude oil cargo, Basrah to Rotterdam, loading window Feb 5-10. Can you offer anything in that range?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Spot Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the prompt enquiry.\n\nWe can offer the MT 'Ocean Voyager', DWT 150,000, LOA 270m. Our initial rate indication would be in the low $50s per metric ton, all in.\n\nLet me know your thoughts.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Spot Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 14:45",
+        "body": "Hi John,\n\nThanks for the offer. We are hearing lower from other owners. Would you consider USD 50.00/mt?\n\nLaycan is firm Feb 5-10, and we require 72 hours NOR at both ends.\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Spot Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 16:00",
+        "body": "Sarah,\n\n$50.00/mt is too low for that position. Best we can do is USD 50.75/mt.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Spot Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 08:30",
+        "body": "Hi John,\n\nOk, we accept USD 50.75/mt. Please confirm vessel details and confirm demurrage rate.\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Spot Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 10:00",
+        "body": "Sarah,\n\nConfirmed, USD 50.75/mt, MT 'Ocean Voyager'.\n\nDemurrage is USD 45,000/day pro rata.\n\nLet me know if you need anything else.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Spot Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 11:15",
+        "body": "John,\n\nPerfect, thanks for the quick turnaround. We'll proceed with drafting the recap.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000 mt",
+      "incoterm": "",
+      "vessel": "Ocean Voyager",
+      "dwt": "150000",
+      "loa": "270m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-02-05",
+      "laytime_end_date": "2024-02-10",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Dear John,\n\nHope you're well.\n\nWe have a suitable VLCC for your crude oil shipment from the Arabian Gulf to Rotterdam, lifting in the November 10-15 laycan window. MV 'Titan'.\n\nPreliminary rate indication is in the low 50s, Worldscale.\n\nPlease advise if you're interested. All details on the vessel can be provided upon confirmation.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the prompt response. We are indeed interested. Can you confirm the vessel's DWT and LOA? Also, we're looking for a slightly earlier laycan, around Nov 8-12 if possible.\n\nRegarding the rate, are you able to shave anything off that initial indication?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 13:00",
+        "body": "Hi John,\n\nVessel details: DWT 318,000 MT, LOA 333 meters. \n\nLet me speak to owners regarding the laycan \u2013 Nov 8-12 should be doable, but I'll need to confirm. I will also push on the rate.\n\nWill revert shortly.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 16:00",
+        "body": "Hi John,\n\nGood news \u2013 owners have agreed to the Nov 8-12 laycan. \n\nThey've also come down slightly on the rate. New offer is W51.5.\n\nLet me know your thoughts.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 09:00",
+        "body": "Hi Sarah,\n\nThanks. W51.5 is still a bit high for us. We were hoping for something closer to W50. \n\nCould you check on demurrage rates as well?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 11:00",
+        "body": "Hi John,\n\nOkay, I spoke to owners again. They are willing to meet you halfway. Final offer is W50.75.\n\nDemurrage rate is USD 75,000 per day, pro rata.\n\nLet me know if we have a deal. \n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 13:00",
+        "body": "Hi Sarah,\n\nW50.75 and USD 75,000 demurrage works for us. Consider it fixed.\n\nPlease send over the recap.\n\nRegards,\nJohn"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "",
+      "incoterm": "",
+      "vessel": "Titan",
+      "dwt": "318000",
+      "loa": "333",
+      "starting_freight_quote_currency": "Worldscale",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "Worldscale",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-11-08",
+      "laytime_end_date": "2024-11-12",
+      "demurrage_currency": "USD",
+      "demurrage": "75000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Good morning John,\n\nHope you're well.\n\nI have a client looking to move a cargo of crude oil from Basrah to Rotterdam, prompt loading. Cargo size around 130,000 MT, +/- 10%. Any interest?\n\nLet me know!\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the offer. Yes, we have some interest. Could you give me some more details on the vessel you have in mind, along with her specs and your rate idea?\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 11:45",
+        "body": "Hi John,\n\nI can offer you the \"MT Eagle\". DWT 150,000, LOA 274m, double hull. Laycan is Nov 10-12. \n\nOwners are looking at low 50s, basis USD per MT.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 14:00",
+        "body": "Sarah,\n\nThanks. Low 50s is a bit rich for us at the moment. We're seeing indications closer to $48.00/MT. Can you talk to your owners and see if they can sharpen their pencil a bit?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 08:30",
+        "body": "Good morning John,\n\nSpoke to the owners. They've come down a bit, best they can do is $49.25/MT. They are firm on that. How does that sound?\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 10:00",
+        "body": "Sarah,\n\nOkay, let's try and meet in the middle. How about $48.75/MT? We also need to agree on demurrage terms. Standard rate USD 30,000/day, pro rata.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Enquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 11:30",
+        "body": "Hi John,\n\nAgreed on $48.75/MT and demurrage at USD 30,000/day. Consider it done. Laytime to commence at discharge port as per usual. Can you send over the charter party details?\n\nThanks,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Eagle",
+      "dwt": "150000",
+      "loa": "274",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "48.75",
+      "laytime_start_date": "2024-11-10",
+      "laytime_end_date": "2024-11-12",
+      "demurrage_currency": "USD",
+      "demurrage": "30000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Good morning John,\n\nHope you're having a good week. \n\nWe have a vessel available for a crude oil shipment from Arabian Gulf (AG) to Rotterdam, laycan Nov 15-20. Vessel details below.\n\nM/T 'Ocean Star'\nDWT: 150,000 mt\nLOA: 270 m\n\nPlease advise cargo size and any rate ideas you might have.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the quick response. We're looking to move around 130,000 mt of crude. We'd be looking at something in the low 50s, basis Worldscale flat.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 10:00",
+        "body": "Good morning John,\n\nThanks for the indication. Owners are looking for mid 50s W/S flat. Can you meet them halfway at W/S 54?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 13:00",
+        "body": "Hi Sarah,\n\nLet me see what I can do. W/S 53 is the best I can get at the moment. How about that?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 15:30",
+        "body": "Hi John,\n\nJust spoke with owners, they're pushing hard. Would you be able to do W/S 53.50? If so, we have a deal.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-10-28 09:00",
+        "body": "Good Morning Sarah,\n\nOkay, let's do it. W/S 53.50. Please send over the recap with full details, including laytime and demurrage.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: M/T 'Ocean Star' - AG to Rotterdam",
+        "timestamp": "2024-10-28 10:00",
+        "body": "Hi John,\n\nExcellent! Recap attached. Demurrage is USD 35,000/day pro rata. Laytime 72 hours. Please confirm back at your earliest convenience.\n\nThanks again,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf (AG)",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130,000 mt",
+      "incoterm": "",
+      "vessel": "Ocean Star",
+      "dwt": "150,000",
+      "loa": "270",
+      "starting_freight_quote_currency": "W/S",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "W/S",
+      "final_freight_quote": "53.50",
+      "laytime_start_date": "2024-11-15",
+      "laytime_end_date": "2024-11-20",
+      "demurrage_currency": "USD",
+      "demurrage": "35,000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Vessel MV Navigator",
+        "timestamp": "2024-10-26 09:30",
+        "body": "Good morning John,\n\nHope you're having a good week. Following our call, please find details for the MV Navigator, a Suezmax available for your crude oil shipment from Ras Tanura to Rotterdam.\n\nDWT: 150,000 MT\nLOA: 270m\nLaycan: Nov 15-17\n\nInitial freight indication is low 50s USD/MT.\n\nLet me know your thoughts.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Vessel MV Navigator",
+        "timestamp": "2024-10-26 11:45",
+        "body": "Hi Sarah,\n\nThanks for the prompt response. Appreciate the details.\n\nLow 50s is a bit high for us currently. We were targeting something closer to $48/MT given the market conditions. Can you work with the owners on that?\n\nAlso, can you confirm the vessel's full specs and latest SIRE inspection report?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Vessel MV Navigator",
+        "timestamp": "2024-10-26 14:20",
+        "body": "Hi John,\n\nUnderstood re: target rate. I've spoken with the owners, and the best they can do at the moment is $49.50/MT. They are fairly firm due to other potential fixtures in the region.\n\nFull specs and SIRE report are attached.\n\nLet me know if this is workable.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Vessel MV Navigator",
+        "timestamp": "2024-10-27 08:50",
+        "body": "Sarah,\n\nThanks for pushing them. $49.50 is still a little rich. We can meet you in the middle at $49/MT.\n\nAlso, what are the demurrage terms?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Vessel MV Navigator",
+        "timestamp": "2024-10-27 10:30",
+        "body": "John,\n\nJust spoke with owners - they've agreed to $49/MT!\n\nDemurrage is USD 40,000/day pro rata.\n\nLet me know if you need any further clarification. If all is in order, I can draft the recap.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Vessel MV Navigator",
+        "timestamp": "2024-10-27 12:15",
+        "body": "Great news, Sarah. $49/MT is acceptable.\n\nDemurrage terms are also acceptable. Please proceed with the recap.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "MV Navigator - Recap",
+        "timestamp": "2024-10-27 15:00",
+        "body": "Hi John,\n\nRecap attached for your review and confirmation.\n\nThanks for the prompt cooperation!\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "",
+      "incoterm": "",
+      "vessel": "MV Navigator",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49",
+      "laytime_start_date": "2024-11-15",
+      "laytime_end_date": "2024-11-17",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nI have a client looking to move crude oil from Basrah to Rotterdam, approx. 130,000 MT. Can you give me an idea on freight?\n\nLaycan is roughly Nov 15-20.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 11:30",
+        "body": "Hi Sarah,\n\nGood to hear from you. Thanks for the inquiry. \n\nFor Basrah to Rotterdam, we're looking at low 50s (USD per MT) basis Worldscale flat. Laytime 72 hours SHINC. Demurrage USD 45,000/day.\n\nLet me know if this is of interest.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 14:00",
+        "body": "Hi John,\n\nThanks for the prompt reply. The USD 50s look a bit steep. Could you come down a bit? My client is thinking more in the high 40s.\n\nAlso, can you give me details of the vessel you intend to use?\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 08:45",
+        "body": "Hi Sarah,\n\nI can probably meet you halfway. Let's say USD 49.50/MT? \n\nVessel would likely be the 'MT Seagull', DWT 150,000, LOA 270m. Details upon request.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 11:00",
+        "body": "Hi John,\n\nThanks. I've spoken to my client. They've agreed to USD 49.50/MT.\n\nCan you confirm laytime is still 72 hours SHINC, demurrage at USD 45,000?\n\nWhen would you need subjects lifted by?\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 13:30",
+        "body": "Hi Sarah,\n\nConfirmed. Laytime 72 hours SHINC, demurrage USD 45,000/day.\n\nI'd need subjects lifted by COB tomorrow.\n\nLet me know if any questions.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam - FIXED!",
+        "timestamp": "2024-10-28 16:00",
+        "body": "Hi John,\n\nGood news - subjects are lifted! Consider the 'MT Seagull' fixed Basrah to Rotterdam, 130,000 MT Crude Oil, USD 49.50/MT, laycan Nov 15-20, Laytime 72 hours SHINC, Demurrage USD 45,000/day.\n\nThanks for the quick turnaround.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Seagull",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49.50",
+      "laytime_start_date": "2024-11-15",
+      "laytime_end_date": "2024-11-20",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week. \n\nWe have a 130,000 mt cargo of crude oil, Basrah Light, available from the Arabian Gulf (loading from Ras Tanura preferred) to Rotterdam. Laycan is Feb 15-20. Can you offer a suitable vessel?\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the enquiry. We have the MT 'Ocean Star' available, 150,000 dwt, LOA 270m. Vessel is currently ballasting towards the AG. She can meet your laycan. \n\nWe're looking at low 50s WS for this voyage. Subject to stems and charterer's vetting, of course.\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Hi John,\n\nThanks for the prompt response. 'Ocean Star' looks promising. \n\nLow 50s is a bit rich for our client. Can you work around WS 48? We are working on FOB terms at Ras Tanura, Rotterdam discharge. Let me know.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 09:00",
+        "body": "Sarah,\n\nMorning.\n\n48 is too low, sorry. How about we meet in the middle at WS 50 flat? We're pretty confident in the vessel and its capabilities.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 11:00",
+        "body": "John,\n\nOkay, pushing back to client. Demurrage rate?\n\nThanks,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 13:00",
+        "body": "Sarah,\n\nUSD 45,000 per day, pro rata.\n\nLet me know what your client says. We'll need to see their standard vetting questionnaire.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Enquiry - AG to Rotterdam - Agreed!",
+        "timestamp": "2024-01-27 15:00",
+        "body": "John,\n\nClient agrees to WS 50, USD 45,000 demurrage. Laycan Feb 15-20, Ras Tanura to Rotterdam. 130,000 mt, Basrah Light, FOB. Vessel 'Ocean Star'.\n\nLet's proceed with subjects. Please forward your standard CP.\n\nThanks,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FOB",
+      "vessel": "Ocean Star",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "WS",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "WS",
+      "final_freight_quote": "50",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week. \n\nI have a client looking to move crude oil from the Arabian Gulf (AG) to Rotterdam. Cargo size is around 130,000 MT, +/- 10% at Charterer's option. Laycan is Feb 15-20. Can you offer a suitable vessel?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the inquiry. We have the 'MT Albatross' available, 150,000 DWT, LOA 270m. Can load that cargo size no problem. On these terms we would be looking at USD 52/MT, basis Worldscale terms. Let me know your thoughts.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Hi John,\n\nThanks for the prompt response. USD 52/MT is a bit high for my client. The market is currently in the high 40s/low 50s. Would you be able to come down at all?\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26 16:30",
+        "body": "Hi Sarah,\n\nI appreciate the feedback. We could potentially meet you at USD 50.75/MT. This is our best offer for 'MT Albatross' within that laycan.\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 09:00",
+        "body": "Hi John,\n\nThanks for getting back to me. I spoke to my client, and they're willing to proceed at USD 50.75/MT. Demurrage rate? Let's say 30,000 USD/day.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27 10:30",
+        "body": "Hi Sarah,\n\nGreat news! USD 30,000/day demurrage is acceptable.\n\nLet's finalize the details. Confirming: 'MT Albatross', AG to Rotterdam, 130,000 MT +/- 10%, Laycan Feb 15-20, USD 50.75/MT, Demurrage USD 30,000/day.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: Crude Oil - AG to Rotterdam",
+        "timestamp": "2024-01-27 11:00",
+        "body": "Hi John,\n\nConfirmed! All details look good. I'll send over the recap ASAP. Thanks for the quick turnaround.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf (AG)",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Albatross",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "30000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T09:00:00",
+        "body": "Dear John,\n\nHope you're having a good week. We have a client looking to ship approx. 130,000 MT of crude oil from the AG (Ras Tanura) to Rotterdam. Laycan dates are flexible, say between Feb 15-25. Please advise if you have suitable tonnage available.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T10:30:00",
+        "body": "Hi Sarah,\n\nThanks for the inquiry. We have the 'MT Eagle I' (DWT 150,000) which is opening in the AG around Feb 17th, potentially suitable. What's your target freight rate?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T12:00:00",
+        "body": "Hi John,\n\nThanks for the quick reply. Owners are looking for something in the low 50s ($/MT). Let me know if that works for you.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T14:00:00",
+        "body": "Sarah,\n\nLow 50s is a bit high. We were thinking more along the lines of $48.50/MT. What's the latest you can do?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T15:30:00",
+        "body": "John,\n\nI spoke with the owners. They can meet you at $49.25/MT, all other terms GENCON. Demurrage rate is USD 40,000 per day.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T16:30:00",
+        "body": "Sarah,\n\nLet's agree at $49.00/MT. Please confirm your acceptance. We'll take 'MT Eagle I' for 130,000 MT Crude Ras Tanura to Rotterdam. Laycan Feb 17-25. Demurrage as stated. Please send me the recap.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: Crude Oil - Ras Tanura to Rotterdam",
+        "timestamp": "2024-01-26T17:00:00",
+        "body": "Hi John,\n\nConfirmed as agreed! $49.00/MT for 'MT Eagle I', 130,000 MT Crude, Ras Tanura to Rotterdam. Laycan Feb 17-25. Demurrage USD 40,000/day. Recap to follow shortly.\n\nThanks for the business!\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Eagle I",
+      "dwt": "150000",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49.00",
+      "laytime_start_date": "2024-02-17",
+      "laytime_end_date": "2024-02-25",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 09:30",
+        "body": "Hi John,\n\nHope you're having a good week. \n\nI have a client looking to move a parcel of crude oil from Basrah to Rotterdam, prompt dates. Can you handle around 130,000 MT? Let me know if this is of interest and what kind of vessels you might have available.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 10:45",
+        "body": "Hi Sarah,\n\nGood to hear from you. Yes, we can certainly handle that. The 'MT Serenity' (abt. 150,000 DWT, LOA 270m) is open Basrah around Nov 5-7. \n\nLet me know your target freight level and we can see if we can work something out.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 12:00",
+        "body": "John,\n\nThanks for the quick reply. Owners are looking at something in the low $50s per MT, basis FOB Basrah / CIF Rotterdam. Laycan Nov 5-7 is acceptable. Cargo size is +/- 10% at Charterer's option. Demurrage rate is crucial - what are you offering?\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 14:30",
+        "body": "Sarah,\n\nLow $50s is a bit rich in this market, I'm afraid. Best I can do at the moment is $48.50/MT. Demurrage at USD 45,000 per day, pro rata. Let me know what you think.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 08:00",
+        "body": "John,\n\nSpoke with Owners. They're willing to meet you halfway at $49.25/MT. They're firm on that, though. Can you agree to those terms? \n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 10:15",
+        "body": "Sarah,\n\nOkay, let's do it. $49.25/MT it is. Please send over the recap with all the details for my confirmation.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment Inquiry - Basrah to Rotterdam - AGREED!",
+        "timestamp": "2024-10-27 11:00",
+        "body": "John,\n\nExcellent! Recap attached. Please confirm ASAP. Thanks for the smooth negotiation.\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "FOB Basrah / CIF Rotterdam",
+      "vessel": "MT Serenity",
+      "dwt": "150000",
+      "loa": "270",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49.25",
+      "laytime_start_date": "2024-11-05",
+      "laytime_end_date": "2024-11-07",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T09:00:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a client looking to move a cargo of crude oil from the Arabian Gulf to Rotterdam, prompt shipment. Cargo size is approximately 130,000 MT. Could you indicate your interest and ideas on suitable tonnage, along with your freight ideas?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T11:30:00",
+        "body": "Hi Sarah,\n\nThanks for the prompt inquiry. We have the 'MT Seafarer' in position, specs attached. DWT 150,000. Laycan Feb 5-10. We are looking at low 50s w/w.\n\nLet me know your thoughts.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T14:00:00",
+        "body": "Hi John,\n\nThanks for the quick response. The MT Seafarer looks like a good fit. However, your freight idea is a bit high for current market levels. My client is thinking closer to $48.00/MT.\n\nLet me know if that is workable.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T16:30:00",
+        "body": "Sarah,\n\n$48.00/MT is a bit tight for us, considering current bunker prices. Meet us in the middle at $49.50/MT? We can fix this quickly.\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27T09:00:00",
+        "body": "John,\n\nSpoke with my client. They are willing to increase to $49.00/MT, all other terms and conditions as per standard tanker charter party. Can you confirm?\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-27T10:30:00",
+        "body": "Sarah,\n\nConfirmed. $49.00/MT accepted. Please send over the recap and we'll get the CP drafted.\n\nGood doing business with you.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - AG to Rotterdam - FIXED",
+        "timestamp": "2024-01-27T11:00:00",
+        "body": "John,\n\nExcellent! Recap attached. Please let me know if you have any questions. Looking forward to working with you on this shipment.\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Arabian Gulf",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000 MT",
+      "incoterm": "",
+      "vessel": "MT Seafarer",
+      "dwt": "150000",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50.00",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49.00",
+      "laytime_start_date": "2024-02-05",
+      "laytime_end_date": "2024-02-10",
+      "demurrage_currency": "",
+      "demurrage": ""
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Enquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-26T09:00:00",
+        "body": "Dear John,\n\nHope you're having a good week. \n\nFollowing our call, please find below details for a potential crude oil shipment:\n\n*   Loading Port: Ras Tanura, Saudi Arabia\n*   Discharging Port: Rotterdam, Netherlands\n*   Cargo Size: 130,000 MT +/- 10%\n*   Laycan: Feb 15-20\n\nCan you indicate your freight idea for this route? \n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-26T11:30:00",
+        "body": "Hi Sarah,\n\nThanks for the quick turnaround. My initial thought is low 50s, all in, subject to stem availability and vessel approval.\n\nLet me know your thoughts.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Enquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-26T13:45:00",
+        "body": "Hi John,\n\nThanks for the indication. Low 50s is a bit soft for the owners. They are looking at closer to $55/MT. Can you work with that?\n\nRegarding vessel approval, what are your requirements?\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-26T16:00:00",
+        "body": "Sarah,\n\nOwners are being a bit optimistic, aren't they? I can push to $52.50/MT, and that's my best offer. Anything above that, and I'll have to pass.\n\nVessel requirements: double hull, IMO compliant, age under 15 years. Standard vetting process applies.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Enquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-27T10:00:00",
+        "body": "John,\n\nSpoke to the owners. They are willing to meet you halfway at $53.75/MT. Demurrage is USD 45,000/day pro rata. 72 hours laytime. \n\nLet me know if we have a deal.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Enquiry - Arabian Gulf to Rotterdam",
+        "timestamp": "2024-01-27T12:30:00",
+        "body": "Sarah,\n\nOkay, we can agree on $53.75/MT. Please send over the recap with all the agreed terms. Let's get this fixed.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "CONFIRMED: Crude Oil - Ras Tanura to Rotterdam",
+        "timestamp": "2024-01-27T14:00:00",
+        "body": "John,\n\nGreat news! Recap sent over for your review. Please confirm ASAP.\n\nThanks for the quick and easy negotiation.\n\nBest regards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "53.75",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Good morning John,\n\nHope you are well.\n\nI have a Supramax available prompt lifting AG for discharge Rotterdam, full details attached. Let me know if you have any cargo in this region.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 10:30",
+        "body": "Hi Sarah,\n\nThanks for the quick reply. Yes, we do have a cargo of crude - around 50,000 MT from Ras Tanura to Rotterdam, Laycan Nov 5-7. What kind of rate are we looking at?\n\nCheers,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 11:45",
+        "body": "Hi John,\n\nThanks, let me get back to owners. \n\nBased on current market conditions, Owners are initially looking at something in the low $50s pmt, basis Worldscale flat less 25. I'll confirm if there's any flexibility.\n\nBR,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-26 14:00",
+        "body": "Sarah,\n\nThat's a bit high, honestly. We were hoping for something in the high $40s. Can you push them a bit? Demurrage rate?\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 08:30",
+        "body": "Good Morning John,\n\nSpoke with Owners early this morning. The best they can do is $50.75 pmt, Demurrage USD 30,000/day pro rata. Laytime 72 hours. \n\nLet me know what you think.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 10:00",
+        "body": "Hi Sarah,\n\nOkay, USD 50.75 looks agreeable. Let\u2019s proceed on that basis. Can you send over a recap with all the key terms for confirmation?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - AG to Rotterdam",
+        "timestamp": "2024-10-27 11:30",
+        "body": "Great, John.\n\nRecap attached for your review and confirmation. Please let me know if you have any questions. Once confirmed, I'll get the CP drafted.\n\nRegards,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "50000 MT",
+      "incoterm": "",
+      "vessel": "Supramax",
+      "dwt": "",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-11-05",
+      "laytime_end_date": "2024-11-07",
+      "demurrage_currency": "USD",
+      "demurrage": "30000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 09:00",
+        "body": "Dear John,\n\nHope you're well. \n\nI have a client looking to move a cargo of crude oil, Basrah to Rotterdam, around 130,000 MT. Laycan Feb 15-20. Any interest?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 10:30",
+        "body": "Hi Sarah,\n\nGood to hear from you. Yes, we have interest. What are your thoughts on freight? And what vessel are you proposing?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 11:45",
+        "body": "Hi John,\n\nI can offer the 'MT Eagle Explorer', a Suezmax, DWT 160,000, LOA 274m. My initial indication is around USD 52/MT, based on current market conditions.\n\nLet me know your thoughts.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 14:00",
+        "body": "Sarah,\n\nUSD 52/MT is a bit high. We were thinking more in the high 40s. Can you work with that? Also, what are the demurrage terms?\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 15:30",
+        "body": "John,\n\nLet me speak with my principals. Tight market at the moment, but I'll see what I can do. Demurrage is USD 35,000 per day, pro-rata.\n\nWill revert shortly.\n\nSarah"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 17:00",
+        "body": "John,\n\nManaged to shave a bit off. Best I can do is USD 50.75/MT, demurrage unchanged at USD 35,000/day. Take it or leave it?\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 08:30",
+        "body": "Sarah,\n\nOk, USD 50.75/MT it is. Please send me the recap and we can finalize documentation.\n\nThanks,\nJohn"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MT Eagle Explorer",
+      "dwt": "160000",
+      "loa": "274",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-02-15",
+      "laytime_end_date": "2024-02-20",
+      "demurrage_currency": "USD",
+      "demurrage": "35000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 09:30",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nWe have a potential cargo of crude oil, Basrah to Rotterdam, 130,000 MT, loading laycan Feb 10-12. Can you indicate your interest and advise your target freight level?\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 11:45",
+        "body": "Hi Sarah,\n\nThanks for the offer. We are indeed interested. We are looking at something in the low 50s USD per MT. Can you check availability for a suitable VLCC?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-26 14:20",
+        "body": "Hi John,\n\nThanks. I have one firm offer - the 'MV Ocean Star', 300,000 DWT, details to follow. She is indicating $52.50/MT, basis Worldscale flat, 72 hours all purposes.\n\nLet me know if this is something you want to pursue.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 08:10",
+        "body": "Sarah,\n\nThanks for the prompt response. $52.50/MT is a bit rich for us. Can you push them to something closer to $51/MT? We can offer quick subject.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 10:00",
+        "body": "John,\n\nSpoke to the Owners. Best they can do is $51.75/MT. Consider that last and final.\n\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Inquiry - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 12:30",
+        "body": "Sarah,\n\nOkay, we accept $51.75/MT. Please confirm all vessel details (DWT, LOA) and also the demurrage rate. Subject to our internal approvals, as usual.\n\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Confirmed: Crude Oil - Basrah to Rotterdam",
+        "timestamp": "2024-01-27 15:00",
+        "body": "John,\n\nGreat news! 'MV Ocean Star' confirmed at $51.75/MT. DWT: 300,000 MT, LOA: 330m. Demurrage is USD 60,000/day pro rata.\n\nFull recap to follow shortly.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah (Broker)",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000 MT",
+      "incoterm": "",
+      "vessel": "MV Ocean Star",
+      "dwt": "300000",
+      "loa": "330m",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "51.75",
+      "laytime_start_date": "2024-02-10",
+      "laytime_end_date": "2024-02-12",
+      "demurrage_currency": "USD",
+      "demurrage": "60000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T09:00:00",
+        "body": "Dear John,\n\nHope you're having a good week.\n\nI have a Suezmax available for a crude oil shipment from the Arabian Gulf to Rotterdam. Vessel details are below. Could you let me know if you have any requirements for this route?\n\nVessel: MV Albatross\nDWT: 150,000 MT\nLaycan: Feb 10-15\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T11:30:00",
+        "body": "Hi Sarah,\n\nThanks for the quick response. Yes, we are looking to move a cargo on that route.\n\nCargo size: 130,000 MT +/- 10%\nLoad Port: Ras Tanura\nDischarge Port: Rotterdam\n\nLet me know your freight idea.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-26T14:00:00",
+        "body": "Hi John,\n\nThanks for the details. Based on current market conditions, we're looking at USD 52.50/MT, basis Worldscale flat, for the Albatross.\n\nLet me know your thoughts.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-29T10:00:00",
+        "body": "Sarah,\n\nThat's a bit high for us. We're targeting something in the high 40s. Can you work with that?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-29T15:00:00",
+        "body": "John,\n\nSpoke with owners. They're willing to come down a bit. How about USD 50.75/MT?\n\nAlso, demurrage is USD 40,000/day, pro rata.\n\nBest,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "RE: Crude Oil Shipment Inquiry - AG to Rotterdam",
+        "timestamp": "2024-01-30T09:30:00",
+        "body": "Sarah,\n\nUSD 50.75/MT is acceptable. We agree to the demurrage rate as well.\n\nPlease send over the recap.\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "RE: Crude Oil Shipment Inquiry - AG to Rotterdam - Recap Sent",
+        "timestamp": "2024-01-30T11:00:00",
+        "body": "John,\n\nGreat! Recap sent over. Let me know if everything looks good. Pleasure doing business with you as always.\n\nBest,\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Ras Tanura",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "130000",
+      "incoterm": "",
+      "vessel": "MV Albatross",
+      "dwt": "150000",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "52.50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "50.75",
+      "laytime_start_date": "2024-02-10",
+      "laytime_end_date": "2024-02-15",
+      "demurrage_currency": "USD",
+      "demurrage": "40000"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Crude Oil Shipment - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 09:00",
+        "body": "Dear John,\n\nHope you're having a good week. We have a suitable VLCC open in Basrah around Nov 10-12th for Rotterdam, carrying crude. M/V 'Ocean Star', details attached (DWT 320,000). Owners are looking at low 50s. Let me know your thoughts.\n\nBest regards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment - Basrah to Rotterdam",
+        "timestamp": "2024-10-26 11:30",
+        "body": "Hi Sarah,\n\nThanks for the quick response. Low 50s is a bit rich for our budget. We were hoping for something closer to $48/ton. Can you check with Owners if there's any flexibility? Also, what's their position on demurrage?\n\nRegards,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 14:00",
+        "body": "Hi John,\n\nSpoke with Owners. They've indicated they could potentially come down to $50.75/ton. Demurrage is USD 45,000/day pro rata. Laytime 72 hours.\n\nLet me know if this is workable. \n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment - Basrah to Rotterdam",
+        "timestamp": "2024-10-27 16:45",
+        "body": "Hi Sarah,\n\n$50.75 is still a bit high. Could you push for $49.50? We are quite flexible with Laycan November 10-13th. If Owners need a firm indication to present, we are ready to give one.\n\nThanks,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment - Basrah to Rotterdam",
+        "timestamp": "2024-10-28 09:15",
+        "body": "Good morning John,\n\nI managed to get Owners to agree to $49.85/ton. That's their absolute best. Please confirm if you'd like me to proceed with subjects.\n\nRegards,\nSarah"
+      },
+      {
+        "from": "John (Charterer)",
+        "to": "Sarah (Broker)",
+        "subject": "Re: Crude Oil Shipment - Basrah to Rotterdam",
+        "timestamp": "2024-10-28 11:00",
+        "body": "Hi Sarah,\n\nAlright, $49.85 it is. Please proceed with subjects. Laycan Nov 10-13th. Thanks for your hard work.\n\nBest,\nJohn"
+      },
+      {
+        "from": "Sarah (Broker)",
+        "to": "John (Charterer)",
+        "subject": "Re: Crude Oil Shipment - Basrah to Rotterdam - CONFIRMED!",
+        "timestamp": "2024-10-28 12:30",
+        "body": "Hi John,\n\nGreat news, subjects are lifted! Fixture confirmed at $49.85/ton, Basrah to Rotterdam. Laycan Nov 10-13th. Documentation to follow shortly. \n\nThanks for the business!\nSarah"
+      }
+    ],
+    "labels": {
+      "broker": "Sarah",
+      "commodity": "Crude Oil",
+      "load_port": "Basrah",
+      "discharge_port": "Rotterdam",
+      "cargo_size": "",
+      "incoterm": "",
+      "vessel": "Ocean Star",
+      "dwt": "320000",
+      "loa": "",
+      "starting_freight_quote_currency": "USD",
+      "starting_freight_quote": "50",
+      "final_freight_quote_currency": "USD",
+      "final_freight_quote": "49.85",
+      "laytime_start_date": "2024-11-10",
+      "laytime_end_date": "2024-11-13",
+      "demurrage_currency": "USD",
+      "demurrage": "45000"
+    }
+  }
+]
