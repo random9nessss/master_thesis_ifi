@@ -3,6 +3,17 @@
 ## Project Description
 Repository for the master's thesis at the [University of Zurich](https://uzh.ch/en.html) at the chair of [Computational Linguistics](https://www.cl.uzh.ch/en.html). The thesis explores email synthetization in maritime chartering and subsequent development and assesement of text-mining models. [AttrPrompting](https://proceedings.neurips.cc/paper_files/paper/2023/file/ae9500c4f5607caf2eff033c67daa9d7-Paper-Datasets_and_Benchmarks.pdf) and [Base-Refine](https://arxiv.org/abs/2502.01697) are covered for email synthetization. For text-ming, [GLiNER](https://arxiv.org/pdf/2311.08526), Template Filling with [Qwen](https://huggingface.co/Gensyn/Qwen2.5-0.5B-Instruct) and TF-IDF are evaluated under differet pretraining/finetuning objectives.
 
+### API Configuration
+To interact with the various language model APIs and HuggingFace, you need to create an `ENV.txt` file in the root directory of the project with the following API keys:
+
+```
+OPENAI_KEY=your_openai_api_key_here
+ANTHROPIC_KEY=your_anthropic_api_key_here
+GOOGLE_KEY=your_google_api_key_here
+MISTRAL_KEY=your_mistral_api_key_here
+DEEPSEEK_KEY=your_deepseek_api_key_here
+HF_TOKEN=your_huggingface_token_here
+```
 
 ## Project Organization
 
