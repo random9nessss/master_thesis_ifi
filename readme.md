@@ -1,4 +1,4 @@
-# Project Name
+# Exploring Text Mining Applications in Financial Negotiations A Case Study on Synthetic Data
 
 ## Project Description
 Repository for the master's thesis at the [University of Zurich](https://uzh.ch/en.html) at the chair of [Computational Linguistics](https://www.cl.uzh.ch/en.html). The thesis explores email synthetization in maritime chartering and subsequent development and assesement of text-mining models. [AttrPrompting](https://proceedings.neurips.cc/paper_files/paper/2023/file/ae9500c4f5607caf2eff033c67daa9d7-Paper-Datasets_and_Benchmarks.pdf) and [Base-Refine](https://arxiv.org/abs/2502.01697) are covered for email synthetization. For text-ming, [GLiNER](https://arxiv.org/pdf/2311.08526), Template Filling with [Qwen](https://huggingface.co/Gensyn/Qwen2.5-0.5B-Instruct) and TF-IDF are evaluated under differet pretraining/finetuning objectives.
